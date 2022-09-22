@@ -1,0 +1,164 @@
+  <article>
+    <title>une</title>
+    <pageId>284</pageId>
+    <meta/>
+    <text>
+      <pronunciations>
+        <pron area="France">yn</pron>
+        <pron>yn</pron>
+      </pronunciations>
+      <pos type="adjectif numéral" lemma="0" locution="0">
+        <pronunciations>
+          <pron>yn</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><i>Féminin de </i><innerLink ref="un#adj-num">un</innerLink>.</xml>
+              <txt>Féminin de un.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Je voudrais <b>une</b> sucrette, s'il vous plaît.</i>
+              </xml>
+              <txt>Je voudrais une sucrette, s'il vous plaît.</txt>
+            </example>
+          </definition>
+        </definitions>
+      </pos>
+      <pos type="adjectif" lemma="0" locution="0" gender="f">
+        <pronunciations>
+          <pron>yn</pron>
+        </pronunciations>
+        <inflectionInfos>
+          <inflectedForm gracePOS="Afpf?" lemma="un"/>
+        </inflectionInfos>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><i>Féminin de </i><innerLink ref="un#adj">un</innerLink>.</xml>
+              <txt>Féminin de un.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>La République française est <b>une</b> et indivisible.</i>
+              </xml>
+              <txt>La République française est une et indivisible.</txt>
+            </example>
+          </definition>
+        </definitions>
+      </pos>
+      <pos type="article indéfini" lemma="0" locution="0">
+        <pronunciations>
+          <pron>yn</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><i>Féminin de </i><innerLink ref="un#art-indéf">un</innerLink>.</xml>
+              <txt>Féminin de un.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Voici <b>une</b> nouvelle façon de procéder pour ce problème.</i>
+              </xml>
+              <txt>Voici une nouvelle façon de procéder pour ce problème.</txt>
+            </example>
+          </definition>
+        </definitions>
+      </pos>
+      <pos type="pronom indéfini" lemma="0" locution="0">
+        <pronunciations>
+          <pron>yn</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><i>Féminin de </i><innerLink ref="un#pronom-indéf">un</innerLink>.</xml>
+              <txt>Féminin de un.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Une</b> des mes amies.</i>
+              </xml>
+              <txt>Une des mes amies.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="morpho">
+          <item type="derivative">chacune</item>
+          <item type="derivative">les unes</item>
+          <item type="derivative">l'une</item>
+          <item type="derivative">quelques-unes</item>
+          <item type="derivative">quelqu'une</item>
+          <item type="derivative">une à une</item>
+        </subsection>
+      </pos>
+      <pos type="nom" lemma="1" locution="0" homoNb="1" gender="f" number="s">
+        <pronunciations>
+          <pron>yn</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="une" gracePOS="Ncfs" prons="yn"/>
+          <inflection form="unes" gracePOS="Ncfp" prons="yn"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="premier">Première</innerLink><innerLink ref="page">page</innerLink> d'un <innerLink ref="journal">journal</innerLink> contenant les grands titres.</xml>
+              <txt>Première page d'un journal contenant les grands titres.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Ils ont titré cet événement cinq colonnes à la <b>une</b>.</i>
+              </xml>
+              <txt>Ils ont titré cet événement cinq colonnes à la une.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="morpho">
+          <item type="derivative">faire la une</item>
+          <item type="derivative">à la une</item>
+        </subsection>
+        <translations>
+          <trans lang="el">πρωτοσέλιδο</trans>
+          <trans lang="id">halaman depan</trans>
+          <trans lang="ja">一面</trans>
+          <trans lang="oc">unas</trans>
+          <trans lang="pl">jedna</trans>
+        </translations>
+      </pos>
+      <pos type="nom" lemma="1" locution="0" homoNb="2" gender="f" number="s" equivMasc="un">
+        <pronunciations>
+          <pron>yn</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="une" gracePOS="Ncfs" prons="yn"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="sem" value="métonymie"/>
+              </labels>
+              <xml>Une chose portant le numéro 1.</xml>
+              <txt>Une chose portant le numéro 1.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Je vous ai réservé la <b>une</b>, votre place préférée.</i>
+              </xml>
+              <txt>Je vous ai réservé la une, votre place préférée.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="paronyms">
+          <item>hune</item>
+        </subsection>
+      </pos>
+      <section type="anagrammes">
+        <item>nue</item>
+        <item>nué</item>
+      </section>
+    </text>
+  </article>

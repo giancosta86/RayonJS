@@ -1,0 +1,93 @@
+  <article>
+    <title>pourtant</title>
+    <pageId>4130</pageId>
+    <meta>
+      <reference>DAF8</reference>
+    </meta>
+    <text>
+      <pronunciations>
+        <pron area="France">puʁ.tã</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml><innerLink ref="lexicalisation">lexicalisation</innerLink> de <i><innerLink ref="pour">pour</innerLink><innerLink ref="tant">tant</innerLink></i>, du latin <i><innerLink ref="pro">pro</innerLink><innerLink ref="tanto">tanto</innerLink></i>.</xml>
+          <txt>lexicalisation de pour tant, du latin pro tanto.</txt>
+        </etym>
+      </etymology>
+      <pos type="adverbe" lemma="1" locution="0">
+        <pronunciations>
+          <pron>puʁ.tã</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="néanmoins">Néanmoins</innerLink> ; <innerLink ref="cependant">cependant</innerLink> ; <innerLink ref="malgré">malgré</innerLink> <innerLink ref="cela">cela</innerLink>.</xml>
+              <txt>Néanmoins ; cependant ; malgré cela.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Dernièrement, j'avais eu la maladresse de m'enrhumer en pleine chaleur. Voilà <b>pourtant</b> ce que c'est que de devenir vieux : on ne peut résister à rien.</i>
+              </xml>
+              <txt>Dernièrement, j'avais eu la maladresse de m'enrhumer en pleine chaleur. Voilà pourtant ce que c'est que de devenir vieux : on ne peut résister à rien.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Les sulfatages précoces que beaucoup hésitaient à faire avaient <b>pourtant</b> l'avantage d'atteindre tous les organes de la vigne, notamment les mannes, c'est-à-dire les futurs raisins.</i>
+              </xml>
+              <txt>Les sulfatages précoces que beaucoup hésitaient à faire avaient pourtant l'avantage d'atteindre tous les organes de la vigne, notamment les mannes, c'est-à-dire les futurs raisins.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Et <b>pourtant</b> elle tourne.</i>
+              </xml>
+              <txt>Et pourtant elle tourne.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il est habile, et <b>pourtant</b> il a fait une grande faute.</i>
+              </xml>
+              <txt>Il est habile, et pourtant il a fait une grande faute.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <translations>
+          <trans lang="de">trotzdem</trans>
+          <trans lang="de">dennoch</trans>
+          <trans lang="de">doch</trans>
+          <trans lang="en">however</trans>
+          <trans lang="en">nevertheless</trans>
+          <trans lang="en">still</trans>
+          <trans lang="en">yet</trans>
+          <trans lang="en">though</trans>
+          <trans lang="ar">بعد</trans>
+          <trans lang="ca">no obstant</trans>
+          <trans lang="da">dog</trans>
+          <trans lang="da">alligevel</trans>
+          <trans lang="es">sin embargo</trans>
+          <trans lang="es">no obstante</trans>
+          <trans lang="eo">tamen</trans>
+          <trans lang="fi">kuitenkin</trans>
+          <trans lang="fi">silti</trans>
+          <trans lang="el">όμως</trans>
+          <trans lang="io">tamen</trans>
+          <trans lang="kk">алайда</trans>
+          <trans lang="kk">дегенмен</trans>
+          <trans lang="nl">nochtans</trans>
+          <trans lang="nl">toch</trans>
+          <trans lang="no">dog</trans>
+          <trans lang="pl">jednak</trans>
+          <trans lang="pl">przecież</trans>
+          <trans lang="pl">tymczasem</trans>
+          <trans lang="ru">однако</trans>
+          <trans lang="ru">тем не менее</trans>
+          <trans lang="ru">хотя</trans>
+          <trans lang="ru">всё-таки</trans>
+          <trans lang="zdj">saɓu</trans>
+          <trans lang="sv">likväl</trans>
+          <trans lang="sv">dock</trans>
+          <trans lang="sv">emellertid</trans>
+          <trans lang="wa">portant</trans>
+        </translations>
+      </pos>
+    </text>
+  </article>

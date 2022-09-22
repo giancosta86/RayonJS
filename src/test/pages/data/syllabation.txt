@@ -1,0 +1,50 @@
+  <article>
+    <title>syllabation</title>
+    <pageId>478467</pageId>
+    <meta/>
+    <text>
+      <pronunciations>
+        <pron>si.la.ba.sjɔ̃</pron>
+        <pron>sil.la.ba.sjɔ̃</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml>dérivé de <i><innerLink ref="syllabe">syllabe</innerLink></i> avec le suffixe <i><innerLink ref="-ation">-ation</innerLink></i>.</xml>
+          <txt>dérivé de syllabe avec le suffixe -ation.</txt>
+        </etym>
+      </etymology>
+      <pos type="nom" lemma="1" locution="0" gender="f" number="s">
+        <pronunciations>
+          <pron>si.la.ba.sjɔ̃</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="syllabation" gracePOS="Ncfs" prons="si.la.ba.sjɔ̃;sil.la.ba.sjɔ̃"/>
+          <inflection form="syllabations" gracePOS="Ncfp" prons="si.la.ba.sjɔ̃;sil.la.ba.sjɔ̃"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="découpage">Découpage</innerLink> en <innerLink ref="syllabe">syllabe</innerLink>s.</xml>
+              <txt>Découpage en syllabes.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="action">Action</innerLink> de <innerLink ref="lire">lire</innerLink> ou de <innerLink ref="prononcer">prononcer</innerLink> syllabe par syllabe.</xml>
+              <txt>Action de lire ou de prononcer syllabe par syllabe.</txt>
+            </gloss>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="synonym">syllabification</item>
+          <item type="synonym">syllabisation</item>
+        </subsection>
+        <translations>
+          <trans lang="en">syllabification</trans>
+          <trans lang="ja">音節化</trans>
+          <trans lang="ja">分節</trans>
+          <trans lang="sv">stavelsedelning</trans>
+        </translations>
+      </pos>
+    </text>
+  </article>

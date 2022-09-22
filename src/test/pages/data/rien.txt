@@ -1,0 +1,332 @@
+  <article>
+    <title>rien</title>
+    <pageId>2523</pageId>
+    <meta>
+      <category>Négations en français</category>
+      <category>Langues du Laos en français</category>
+      <reference>DAF8</reference>
+      <reference>TLFi</reference>
+    </meta>
+    <text>
+      <pronunciations>
+        <pron area="France Paris">ʁjɛ̃</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml>du latin <foreignWord lang="la">rem</foreignWord>, accusatif de <i><innerLink ref="res#la">res</innerLink></i> (« <innerLink ref="chose">chose</innerLink> ») qui est encore le sens du substantif <i>rien</i> dans certaines expressions populaires ou régionales.</xml>
+          <txt>du latin rem , accusatif de res (« chose ») qui est encore le sens du substantif rien dans certaines expressions populaires ou régionales.</txt>
+        </etym>
+      </etymology>
+      <pos type="pronom indéfini" lemma="1" locution="0">
+        <pronunciations>
+          <pron>ʁjɛ̃</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="absence">Absence</innerLink> de quelque chose ou, par <innerLink ref="extension">extension</innerLink>, de toute <innerLink ref="chose">chose</innerLink>.</xml>
+              <txt>Absence de quelque chose ou, par extension, de toute chose.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>À l'automne le paresseux ne laboure pas,
+à la moisson il cherche, et… <b>rien</b> !</i>
+              </xml>
+              <txt>À l'automne le paresseux ne laboure pas,
+à la moisson il cherche, et… rien !</txt>
+            </example>
+            <example>
+              <xml><i><b>Rien</b> de gracieux comme ses mouvements d'épaules, lorsqu'elle attire le </i>menton<i> pour se cacher entièrement la figure, qui, par instants, se montre à la dérobée.</i></xml>
+              <txt>Rien de gracieux comme ses mouvements d'épaules, lorsqu'elle attire le menton pour se cacher entièrement la figure, qui, par instants, se montre à la dérobée.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>On pourrait remplir des pages entières avec l'exposé sommaire des thèses contradictoires, cocasses et charlatanesques qui forment le fond des harangues de nos grands hommes ; <b>rien</b> ne les embarrasse […].</i>
+              </xml>
+              <txt>On pourrait remplir des pages entières avec l'exposé sommaire des thèses contradictoires, cocasses et charlatanesques qui forment le fond des harangues de nos grands hommes ; rien ne les embarrasse […].</txt>
+            </example>
+            <example>
+              <xml><i>Tenez, qu'est-ce qui se passe à la Bourse ? Des gens qui n'ont <b>rien</b> prennent le droit d'acheter une marchandise dont ils savent parfaitement que la livraison ne s'accomplira jamais, mais qu'ils revendront avec profit.</i> }}</xml>
+              <txt>Tenez, qu'est-ce qui se passe à la Bourse ? Des gens qui n'ont rien prennent le droit d'acheter une marchandise dont ils savent parfaitement que la livraison ne s'accomplira jamais, mais qu'ils revendront avec profit. }}</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Rien</b> ne naît ni ne périt, mais des choses déjà existantes se combinent, puis se séparent de nouveau.</i>
+              </xml>
+              <txt>Rien ne naît ni ne périt, mais des choses déjà existantes se combinent, puis se séparent de nouveau.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Rien</b> ne se perd, <b>rien</b> ne se crée, tout se transforme.</i>
+              </xml>
+              <txt>Rien ne se perd, rien ne se crée, tout se transforme.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il n'y avait <b>rien</b> dans son panier.</i>
+              </xml>
+              <txt>Il n'y avait rien dans son panier.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Rien</b> n'est jamais acquis à l'homme […].</i>
+              </xml>
+              <txt>Rien n'est jamais acquis à l'homme […].</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i><innerLink ref="sans">Sans</innerLink><b>rien</b></i> + verbe à l'infinitif : tournure rendant l'action du verbe totalement négative.</xml>
+              <txt>Sans rien + verbe à l'infinitif : tournure rendant l'action du verbe totalement négative.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Rester sans <b>rien</b> dire.</i>
+              </xml>
+              <txt>Rester sans rien dire.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Peu de chose</xml>
+              <txt>Peu de chose</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Il se fâche pour <b>rien</b>.</i>
+              </xml>
+              <txt>Il se fâche pour rien.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il vit de <b>rien</b>.</i>
+              </xml>
+              <txt>Il vit de rien.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="attitudinal" value="populaire"/>
+              </labels>
+              <xml><innerLink ref="très">Très</innerLink>, <innerLink ref="vraiment">vraiment</innerLink>.</xml>
+              <txt>Très, vraiment.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>C'était <b>rien</b> drôle !</i>
+              </xml>
+              <txt>C'était rien drôle !</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="diachronic" value="vieilli"/>
+              </labels>
+              <xml><innerLink ref="personne#fr-pronom-indéf">Personne</innerLink>.</xml>
+              <txt>Personne.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Madame de Chartres qui eſtoit extrêmement <innerLink ref="glorieux">glorieuſe</innerLink>, ne trouvoit preſque <b>rien</b> digne de ſa ﬁlle [Mlle de Chartres]</i>
+              </xml>
+              <txt>Madame de Chartres qui eſtoit extrêmement glorieuſe, ne trouvoit preſque rien digne de ſa ﬁlle [Mlle de Chartres]</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="synonym">keutchi</item>
+          <item type="synonym">nada</item>
+          <item type="synonym">nib</item>
+          <item type="synonym">nibergue</item>
+          <item type="synonym">niet</item>
+          <item type="synonym">peau de zob</item>
+          <item type="synonym">que dalle</item>
+          <item type="synonym">que pouic</item>
+          <item type="synonym">que tringle</item>
+          <item type="synonym">qu'tringle</item>
+          <item type="synonym">walou</item>
+          <item type="synonym">macache</item>
+        </subsection>
+        <subsection type="morpho">
+          <item type="derivative">de rien</item>
+          <item type="derivative">de rien du tout</item>
+          <item type="derivative">moins que rien</item>
+          <item type="derivative">rien de rien</item>
+          <item type="derivative">rien du tout</item>
+          <item type="derivative">si peu que rien</item>
+          <item type="derivative">trois fois rien</item>
+          <item type="derivative">mine de rien</item>
+          <item type="derivative">n'en savoir rien</item>
+          <item type="derivative">rien de plus</item>
+          <item type="derivative">rien de moins</item>
+          <item type="derivative">rien moins</item>
+          <item type="derivative">plus rien</item>
+          <item type="derivative">comme si de rien n'était</item>
+          <item type="derivative">tout ou rien</item>
+          <item type="derivative">moins que rien</item>
+          <item type="derivative">compter pour rien</item>
+          <item type="derivative">rien que</item>
+          <item type="derivative">en rien</item>
+        </subsection>
+        <subsection type="phrases">
+          <item>ça ne fait rien</item>
+          <item>cela ne fait rien</item>
+          <item>mieux que rien</item>
+          <item>on ne fait rien de rien</item>
+          <item>on ne fait rien pour rien</item>
+          <item>qui ne risque rien n'a rien</item>
+          <item>qui prouve trop ne prouve rien</item>
+          <item>rien ne sert de courir ; il faut partir à point</item>
+        </subsection>
+        <translations>
+          <trans lang="de">nichts</trans>
+          <trans lang="de">nix</trans>
+          <trans lang="en">nothing</trans>
+          <trans lang="wni">shintru</trans>
+          <trans lang="ar">صفر</trans>
+          <trans lang="hy">բան</trans>
+          <trans lang="bm">fosi</trans>
+          <trans lang="br">netra</trans>
+          <trans lang="bg">дреболия</trans>
+          <trans lang="ca">res</trans>
+          <trans lang="zh">无</trans>
+          <trans lang="ko">아무것도</trans>
+          <trans lang="es">nada</trans>
+          <trans lang="eo">nenio</trans>
+          <trans lang="et">null</trans>
+          <trans lang="gl">nada</trans>
+          <trans lang="gl">ren</trans>
+          <trans lang="ka">არაფერი</trans>
+          <trans lang="el">τίποτα</trans>
+          <trans lang="hu">semmi</trans>
+          <trans lang="io">nulo</trans>
+          <trans lang="it">niente</trans>
+          <trans lang="ja">何も</trans>
+          <trans lang="kk">ештеңе</trans>
+          <trans lang="nl">niks</trans>
+          <trans lang="nl">niets</trans>
+          <trans lang="fra-nor">ryin</trans>
+          <trans lang="fra-nor">nian</trans>
+          <trans lang="pl">nic</trans>
+          <trans lang="pt">nada</trans>
+          <trans lang="ro">nimic</trans>
+          <trans lang="ru">ничего</trans>
+          <trans lang="se">ii mihkke</trans>
+          <trans lang="se">mihkkege</trans>
+          <trans lang="sc">nudda</trans>
+          <trans lang="sco">naething</trans>
+          <trans lang="sco">nithin</trans>
+          <trans lang="zdj">mpba hindru</trans>
+          <trans lang="zdj">hindru</trans>
+          <trans lang="zdj">ndrongoo</trans>
+          <trans lang="sk">maličkosť</trans>
+          <trans lang="sk">niečo</trans>
+          <trans lang="sk">nič</trans>
+          <trans lang="sk">čo to</trans>
+          <trans lang="sv">inget</trans>
+          <trans lang="cs">nic</trans>
+          <trans lang="tr">hiçbir şey</trans>
+          <trans lang="uk">ніщо</trans>
+        </translations>
+      </pos>
+      <pos type="adverbe" lemma="1" locution="0">
+        <pronunciations>
+          <pron>ʁjɛ̃</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="diatopic" value="Seine-Maritime"/>
+              </labels>
+              <xml><innerLink ref="beaucoup">Beaucoup</innerLink>.</xml>
+              <txt>Beaucoup.</txt>
+            </gloss>
+            <example>
+              <xml><i>Il pleut <b>rien</b></i> : il pleut beaucoup.</xml>
+              <txt>Il pleut rien : il pleut beaucoup.</txt>
+            </example>
+            <example>
+              <xml><i>Il y a <b>rien</b> comme monde</i> : il y a beaucoup de gens.</xml>
+              <txt>Il y a rien comme monde : il y a beaucoup de gens.</txt>
+            </example>
+            <example>
+              <xml><i>Oh ! fit la malheureuse en sortant de son corsage frippé deux méchants bouquets de violettes… elles sont comme moi, mes fleurs… Elles sont <b>rien</b> fatiguées…</i> }}</xml>
+              <txt>Oh ! fit la malheureuse en sortant de son corsage frippé deux méchants bouquets de violettes… elles sont comme moi, mes fleurs… Elles sont rien fatiguées… }}</txt>
+            </example>
+          </definition>
+        </definitions>
+      </pos>
+      <pos type="nom" lemma="1" locution="0" homoNb="1" gender="m" number="s">
+        <pronunciations>
+          <pron>ʁjɛ̃</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="rien" gracePOS="Ncms" prons="ʁjɛ̃"/>
+          <inflection form="riens" gracePOS="Ncmp" prons="ʁjɛ̃"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="peu de chose">Peu de chose</innerLink>, <innerLink ref="petit">petit</innerLink>e <innerLink ref="quantité">quantité</innerLink> de <innerLink ref="quelque chose">quelque chose</innerLink>.</xml>
+              <txt>Peu de chose, petite quantité de quelque chose.</txt>
+            </gloss>
+            <example>
+              <xml><i>Elle revient du cabinet de toilette, un peu traînante et lasse des mille <b>riens</b> qu'elle a entrepris déjà, […].</i> }}</xml>
+              <txt>Elle revient du cabinet de toilette, un peu traînante et lasse des mille riens qu'elle a entrepris déjà, […]. }}</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Petits <b>riens</b> qu'on aime à se remémorer, dont on savoure le parfum à mesure qu'on s'avance dans la vie!</i>
+              </xml>
+              <txt>Petits riens qu'on aime à se remémorer, dont on savoure le parfum à mesure qu'on s'avance dans la vie!</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="synonym">bagatelle</item>
+          <item type="synonym">broutille</item>
+          <item type="synonym">camelote</item>
+          <item type="synonym">gnognote</item>
+          <item type="synonym">pas grand-chose</item>
+          <item type="synonym">petite bière</item>
+          <item type="synonym">pipi de chat</item>
+          <item type="synonym">roupie de sansonnet</item>
+          <item type="synonym">trois fois rien</item>
+          <item type="synonym">vétille</item>
+        </subsection>
+        <subsection type="morpho">
+          <item type="derivative">en un rien de temps</item>
+          <item type="derivative">un rien du tout</item>
+        </subsection>
+        <translations>
+          <trans lang="en">peanuts</trans>
+          <trans lang="en">next to nothing</trans>
+          <trans lang="nl">kattenpis</trans>
+          <trans lang="sv">nästa ingenting</trans>
+        </translations>
+      </pos>
+      <pos type="nom" lemma="1" locution="0" homoNb="2" gender="m" number="s">
+        <paradigm>
+          <inflection form="rien" gracePOS="Ncms" prons="ʁjɛ̃"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="langue#fr">Langue</innerLink> tai parlée au <innerLink ref="Laos">Laos</innerLink>.</xml>
+              <txt>Langue tai parlée au Laos.</txt>
+            </gloss>
+          </definition>
+        </definitions>
+        <translations>
+          <trans lang="en">Rien</trans>
+        </translations>
+      </pos>
+      <section type="anagrammes">
+        <item>nier</item>
+        <item>rein</item>
+      </section>
+    </text>
+  </article>

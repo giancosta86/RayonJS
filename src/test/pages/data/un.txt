@@ -1,0 +1,597 @@
+  <article>
+    <title>un</title>
+    <pageId>269</pageId>
+    <meta>
+      <import>DAF8</import>
+    </meta>
+    <text>
+      <pronunciations>
+        <pron area="France Paris">ɛ̃</pron>
+        <pron area="Belgique Brabant wallon">œ̃</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml>du latin <foreignWord lang="la">unus</foreignWord>, adjectif numéral « un ».</xml>
+          <txt>du latin unus , adjectif numéral « un ».</txt>
+        </etym>
+      </etymology>
+      <pos type="adjectif numéral" lemma="1" locution="0">
+        <pronunciations>
+          <pron>œ̃</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Marque l'<innerLink ref="unité">unité</innerLink>, le fait qu'une personne ou une chose est <innerLink ref="seul">seul</innerLink>e, <innerLink ref="unique">unique</innerLink> en son <innerLink ref="espèce">espèce</innerLink>.</xml>
+              <txt>Marque l'unité, le fait qu'une personne ou une chose est seule, unique en son espèce.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Quatre femmes et <b>un</b> homme.</i>
+              </xml>
+              <txt>Quatre femmes et un homme.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Un</b> mètre.</i>
+              </xml>
+              <txt>Un mètre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Une</b> tonne.</i>
+              </xml>
+              <txt>Une tonne.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Un</b> entre mille.</i>
+              </xml>
+              <txt>Un entre mille.</txt>
+            </example>
+            <example>
+              <xml><i>N'être qu'<b>un</b>, ne faire qu'<b>un</b></i> : Se dit pour exprimer une étroite, une intime union entre deux ou même plusieurs personnes.</xml>
+              <txt>N'être qu'un, ne faire qu'un : Se dit pour exprimer une étroite, une intime union entre deux ou même plusieurs personnes.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il est <b>une</b> heure.</i>
+              </xml>
+              <txt>Il est une heure.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>S'emploie <innerLink ref="familièrement">familièrement</innerLink> pour <innerLink ref="indiquer">indiquer</innerLink> un très petit <innerLink ref="nombre">nombre</innerLink> <innerLink ref="indéterminé">indéterminé</innerLink>.</xml>
+              <txt>S'emploie familièrement pour indiquer un très petit nombre indéterminé.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>J'ai <b>un</b> mot à vous dire.</i>
+              </xml>
+              <txt>J'ai un mot à vous dire.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>J'en ai pour <b>une</b> minute.</i>
+              </xml>
+              <txt>J'en ai pour une minute.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="ordinal">Ordinal</innerLink> pour <innerLink ref="premier">premier</innerLink>.</xml>
+              <txt>Ordinal pour premier.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Chapitre <b>un</b>.</i>
+              </xml>
+              <txt>Chapitre un.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Page <b>une</b>.</i>
+              </xml>
+              <txt>Page une.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="morpho">
+          <item type="derivative">cinquante-et-un</item>
+          <item type="derivative">mille et un</item>
+          <item type="derivative">ne faire qu'un avec</item>
+          <item type="derivative">ne faire ni une ni deux</item>
+          <item type="derivative">plus d'un</item>
+          <item type="derivative">quarante-et-un</item>
+          <item type="derivative">quatre-vingt-un</item>
+          <item type="derivative">soixante-et-un</item>
+          <item type="derivative">trente-et-un</item>
+          <item type="derivative">unaire</item>
+          <item type="derivative">une</item>
+          <item type="derivative">un et un seul</item>
+          <item type="derivative">uni</item>
+          <item type="derivative">unième</item>
+          <item type="derivative">unilatéral</item>
+          <item type="derivative">union</item>
+          <item type="derivative">unique</item>
+          <item type="derivative">unir</item>
+          <item type="derivative">unitaire</item>
+          <item type="derivative">unité</item>
+          <item type="derivative">un ou plusieurs</item>
+          <item type="derivative">vingt-et-un</item>
+        </subsection>
+        <subsection type="relatedVocabulary">
+          <item>monade</item>
+          <item>monarchie</item>
+          <item>premier</item>
+          <item>première</item>
+          <item>premièrement</item>
+          <item>solo</item>
+          <item>uni-</item>
+          <item>mono-</item>
+        </subsection>
+        <translations>
+          <trans lang="abx">adda</trans>
+          <trans lang="ady">зы</trans>
+          <trans lang="akz">cháffàaka</trans>
+          <trans lang="de">ein</trans>
+          <trans lang="de">eine</trans>
+          <trans lang="de">einer</trans>
+          <trans lang="de">eine</trans>
+          <trans lang="en">one</trans>
+          <trans lang="wni">-moja</trans>
+          <trans lang="ar">واحد</trans>
+          <trans lang="sq">një</trans>
+          <trans lang="ast">un</trans>
+          <trans lang="ast">una</trans>
+          <trans lang="ba">бер</trans>
+          <trans lang="bm">kɛlɛn</trans>
+          <trans lang="eu">bat</trans>
+          <trans lang="akm">lĭdĭgĭ</trans>
+          <trans lang="alt">бир</trans>
+          <trans lang="az">bir</trans>
+          <trans lang="br">unan</trans>
+          <trans lang="buw">mulé</trans>
+          <trans lang="bg">един</trans>
+          <trans lang="ca">u</trans>
+          <trans lang="zh">一</trans>
+          <trans lang="cjs">пир</trans>
+          <trans lang="ko">일</trans>
+          <trans lang="co">unu</trans>
+          <trans lang="da">da</trans>
+          <trans lang="dog">koturu</trans>
+          <trans lang="es">uno</trans>
+          <trans lang="es">un</trans>
+          <trans lang="eo">unu</trans>
+          <trans lang="et">üks</trans>
+          <trans lang="fi">yksi</trans>
+          <trans lang="fud">tasi</trans>
+          <trans lang="gag">bir</trans>
+          <trans lang="cy">un</trans>
+          <trans lang="ka">ერთი</trans>
+          <trans lang="gu">એક</trans>
+          <trans lang="el">ένας</trans>
+          <trans lang="el">μία</trans>
+          <trans lang="el">ένα</trans>
+          <trans lang="grc">εἷς</trans>
+          <trans lang="grc">μία</trans>
+          <trans lang="grc">ἕν</trans>
+          <trans lang="hi">एक</trans>
+          <trans lang="hu">egy</trans>
+          <trans lang="sah">биир</trans>
+          <trans lang="io">un</trans>
+          <trans lang="id">satu</trans>
+          <trans lang="ia">unesime</trans>
+          <trans lang="iu">ᐊᑕᐅᓯᖅ</trans>
+          <trans lang="it">uno</trans>
+          <trans lang="it">un</trans>
+          <trans lang="it">una</trans>
+          <trans lang="it">un'</trans>
+          <trans lang="ja">一</trans>
+          <trans lang="kab">iuen</trans>
+          <trans lang="krc">бир</trans>
+          <trans lang="kk">бір</trans>
+          <trans lang="kjh">пiр</trans>
+          <trans lang="rw">mwe</trans>
+          <trans lang="ky">бир</trans>
+          <trans lang="avk">tanoy</trans>
+          <trans lang="kum">бир</trans>
+          <trans lang="ku">yek</trans>
+          <trans lang="lv">viens</trans>
+          <trans lang="ln">mɔ̌kɔ́</trans>
+          <trans lang="lt">vienas</trans>
+          <trans lang="src">unu</trans>
+          <trans lang="mg">iray</trans>
+          <trans lang="mi">tahi</trans>
+          <trans lang="mrq">tahi</trans>
+          <trans lang="mqm">tahi</trans>
+          <trans lang="mn">нэг</trans>
+          <trans lang="nl">één</trans>
+          <trans lang="nl">een</trans>
+          <trans lang="nl">'n</trans>
+          <trans lang="nog">бир</trans>
+          <trans lang="fra-nor">eun</trans>
+          <trans lang="oc">un</trans>
+          <trans lang="xum">𐌖𐌍𐌔</trans>
+          <trans lang="pcd">eun'</trans>
+          <trans lang="pl">jeden</trans>
+          <trans lang="pt">um</trans>
+          <trans lang="ro">un</trans>
+          <trans lang="ru">один</trans>
+          <trans lang="se">okta</trans>
+          <trans lang="sa">एकः</trans>
+          <trans lang="sa">एका</trans>
+          <trans lang="sa">एकम्</trans>
+          <trans lang="sc">unu</trans>
+          <trans lang="zdj">-dzima</trans>
+          <trans lang="sk">jeden</trans>
+          <trans lang="slovio">din</trans>
+          <trans lang="ses">affoo</trans>
+          <trans lang="sv">ett</trans>
+          <trans lang="ty">tahi</trans>
+          <trans lang="crh">bir</trans>
+          <trans lang="tt">бер</trans>
+          <trans lang="cs">jeden</trans>
+          <trans lang="cv">пĕр</trans>
+          <trans lang="cv">пĕрре</trans>
+          <trans lang="kim">бір</trans>
+          <trans lang="tyv">бир</trans>
+          <trans lang="tsolyáni">prún</trans>
+          <trans lang="tpw">iepê</trans>
+          <trans lang="tr">bir</trans>
+          <trans lang="tk">bir</trans>
+          <trans lang="uum">бир</trans>
+          <trans lang="vec">un</trans>
+          <trans lang="vec">na</trans>
+          <trans lang="vec">n'</trans>
+          <trans lang="vi">một</trans>
+          <trans lang="vo">bal</trans>
+          <trans lang="wls">tahi</trans>
+          <trans lang="wa">on</trans>
+          <trans lang="de">ein</trans>
+          <trans lang="de">eine</trans>
+          <trans lang="en">one</trans>
+          <trans lang="se">muhtin</trans>
+          <trans lang="de">eins</trans>
+          <trans lang="en">one</trans>
+          <trans lang="mg">isa</trans>
+          <trans lang="zdj">-a hanɗa</trans>
+        </translations>
+      </pos>
+      <pos type="adjectif" lemma="1" locution="0" gender="m" number="s">
+        <pronunciations>
+          <pron>œ̃</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="un" gracePOS="Afpms" prons="ɛ̃;œ̃"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="unitaire">Unitaire</innerLink>, qui est <innerLink ref="seul">seul</innerLink>, <innerLink ref="unique">unique</innerLink>, qui n'<innerLink ref="admettre">admet</innerLink> point de <innerLink ref="pluralité">pluralité</innerLink>.</xml>
+              <txt>Unitaire, qui est seul, unique, qui n'admet point de pluralité.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Dieu est <b>un</b>.</i>
+              </xml>
+              <txt>Dieu est un.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Le moi est <b>un</b>.</i>
+              </xml>
+              <txt>Le moi est un.</txt>
+            </example>
+            <example>
+              <xml><i>La vérité est toujours <b>une</b>,</i> elle n'est jamais contraire à elle-même.</xml>
+              <txt>La vérité est toujours une, elle n'est jamais contraire à elle-même.</txt>
+            </example>
+            <example>
+              <labels>
+                <label type="attitudinal" value="familier"/>
+              </labels>
+              <xml><i>C'est tout <b>un</b>,</i> Il n'importe, c'est la même chose, cela est égal : <i>qu'il vienne ou qu'il ne vienne pas, c'est tout <b>un</b>.</i></xml>
+              <txt>C'est tout un, Il n'importe, c'est la même chose, cela est égal : qu'il vienne ou qu'il ne vienne pas, c'est tout un.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Où <innerLink ref="règne">règne</innerLink> l'<innerLink ref="unité">unité</innerLink>, dont les <innerLink ref="partie">partie</innerLink>s sont <innerLink ref="lier">liées</innerLink> entre elles de manière à former un tout.</xml>
+              <txt>Où règne l'unité, dont les parties sont liées entre elles de manière à former un tout.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>L'église est <b>une</b>.</i>
+              </xml>
+              <txt>L'église est une.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il faut que dans une pièce l'action soit <b>une</b>.</i>
+              </xml>
+              <txt>Il faut que dans une pièce l'action soit une.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="antonym">multiple</item>
+          <item type="antonym">dual</item>
+          <item type="antonym">divisé</item>
+          <item type="antonym">fragmenté</item>
+        </subsection>
+        <translations>
+          <trans lang="de">einzig</trans>
+          <trans lang="de">einzigartig</trans>
+          <trans lang="en">one</trans>
+          <trans lang="ca">u</trans>
+          <trans lang="es">uno</trans>
+          <trans lang="cs">jednotný</trans>
+        </translations>
+      </pos>
+      <pos type="article indéfini" lemma="1" locution="0">
+        <pronunciations>
+          <pron>œ̃</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="déterminant">Déterminant</innerLink> placé devant un <innerLink ref="nom">nom</innerLink> représentant un <innerLink ref="objet">objet</innerLink> <innerLink ref="animé">animé</innerLink> ou <innerLink ref="inanimé">inanimé</innerLink> que l'on ne connaît pas avec précision. L'<innerLink ref="article">article</innerLink> <innerLink ref="indéfini">indéfini</innerLink> a souvent le sens de « un (1) parmi d'autres ».</xml>
+              <txt>Déterminant placé devant un nom représentant un objet animé ou inanimé que l'on ne connaît pas avec précision. L'article indéfini a souvent le sens de « un (1) parmi d'autres ».</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Voici <b>une</b> nouvelle façon de procéder pour ce problème.</i>
+              </xml>
+              <txt>Voici une nouvelle façon de procéder pour ce problème.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il y a <b>un</b> chien devant la maison.</i>
+              </xml>
+              <txt>Il y a un chien devant la maison.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Je cherche <b>un</b> livre sur tel sujet.</i>
+              </xml>
+              <txt>Je cherche un livre sur tel sujet.</txt>
+            </example>
+            <example>
+              <xml><i>C'est <b>un</b> César, <b>un</b> Cicéron,</i> etc. : c'est un homme aussi intrépide que César, aussi éloquent que Cicéron, etc.</xml>
+              <txt>C'est un César, un Cicéron, etc. : c'est un homme aussi intrépide que César, aussi éloquent que Cicéron, etc.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="tout">Tout</innerLink>.</xml>
+              <txt>Tout.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Un</b> chrétien doit faire cela.</i>
+              </xml>
+              <txt>Un chrétien doit faire cela.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Un</b> honnête homme n'a qu'une parole.</i>
+              </xml>
+              <txt>Un honnête homme n'a qu'une parole.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="synonym">quelque</item>
+        </subsection>
+        <subsection type="morpho">
+          <item type="derivative">untel</item>
+          <item type="derivative">un tel</item>
+          <item type="derivative">une telle</item>
+        </subsection>
+        <translations>
+          <trans lang="af">'n</trans>
+          <trans lang="sq">një</trans>
+          <trans lang="de">ein</trans>
+          <trans lang="de">eine</trans>
+          <trans lang="en">a</trans>
+          <trans lang="en">an</trans>
+          <trans lang="ast">un</trans>
+          <trans lang="ast">una</trans>
+          <trans lang="bm">kɛlɛn</trans>
+          <trans lang="bar">a</trans>
+          <trans lang="br">ur</trans>
+          <trans lang="br">un</trans>
+          <trans lang="br">ul</trans>
+          <trans lang="ca">un</trans>
+          <trans lang="ca">una</trans>
+          <trans lang="zh">一个</trans>
+          <trans lang="da">en</trans>
+          <trans lang="dog">koturu</trans>
+          <trans lang="es">un</trans>
+          <trans lang="el">ένας</trans>
+          <trans lang="hu">egy</trans>
+          <trans lang="it">uno</trans>
+          <trans lang="it">un</trans>
+          <trans lang="it">una</trans>
+          <trans lang="it">un'</trans>
+          <trans lang="ja">ある</trans>
+          <trans lang="ln">mɔ̌kɔ́</trans>
+          <trans lang="nl">een</trans>
+          <trans lang="nl">'n</trans>
+          <trans lang="oc">un</trans>
+          <trans lang="pt">um</trans>
+          <trans lang="ro">un</trans>
+          <trans lang="ses">affoo</trans>
+          <trans lang="sv">en</trans>
+          <trans lang="sv">ett</trans>
+          <trans lang="cs">nějaký</trans>
+          <trans lang="tsolyáni">prù-</trans>
+          <trans lang="vec">un</trans>
+          <trans lang="vec">na</trans>
+          <trans lang="vec">n'</trans>
+          <trans lang="vi">một</trans>
+          <trans lang="wa">on</trans>
+          <trans lang="wa">èn</trans>
+          <trans lang="de">ein</trans>
+          <trans lang="de">eine</trans>
+          <trans lang="en">a</trans>
+          <trans lang="en">an</trans>
+        </translations>
+      </pos>
+      <pos type="pronom indéfini" lemma="1" locution="0">
+        <pronunciations>
+          <pron>œ̃</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Une personne ou une chose parmi plusieurs autres.</xml>
+              <txt>Une personne ou une chose parmi plusieurs autres.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Un</b> de mes amis.</i>
+              </xml>
+              <txt>Un de mes amis.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="synonym">l'un</item>
+          <item type="synonym">quelqu'un</item>
+        </subsection>
+        <subsection type="morpho">
+          <item type="derivative">chacun</item>
+          <item type="derivative">les uns</item>
+          <item type="derivative">quelques-uns</item>
+          <item type="derivative">quelqu'un</item>
+          <item type="derivative">un à un</item>
+        </subsection>
+        <translations>
+          <trans lang="de">einer</trans>
+          <trans lang="de">eine</trans>
+          <trans lang="en">one</trans>
+          <trans lang="ast">ún</trans>
+          <trans lang="ast">unu</trans>
+          <trans lang="ast">una</trans>
+          <trans lang="ca">un</trans>
+          <trans lang="ca">una</trans>
+          <trans lang="ko">하나</trans>
+          <trans lang="ja">一つ</trans>
+          <trans lang="ja">一人</trans>
+          <trans lang="wa">onk</trans>
+        </translations>
+      </pos>
+      <pos type="nom" lemma="1" locution="0" homoNb="1" gender="m" number="s">
+        <pronunciations>
+          <pron>œ̃</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="un" gracePOS="Ncms" prons="œ̃"/>
+          <inflection form="uns" gracePOS="Ncmp" prons="œ̃"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Le <innerLink ref="nombre">nombre</innerLink> 1.</xml>
+              <txt>Le nombre 1.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Un</b> précède deux et suit zéro.</i>
+              </xml>
+              <txt>Un précède deux et suit zéro.</txt>
+            </example>
+            <example>
+              <xml><i>Le <b>un</b> de telle rue,</i> La maison qui porte le numéro 1.</xml>
+              <txt>Le un de telle rue, La maison qui porte le numéro 1.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="chiffre">Chiffre</innerLink> utilisé dans la numérotation décimale écrit <i><innerLink ref="1">1</innerLink></i>.</xml>
+              <txt>Chiffre utilisé dans la numérotation décimale écrit 1.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Le nombre 11 est écrit avec deux <b>uns</b>.</i>
+              </xml>
+              <txt>Le nombre 11 est écrit avec deux uns.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="relatedVocabulary">
+          <item>10&amp;lt;sup&amp;gt;0&amp;lt;/sup&amp;gt;</item>
+        </subsection>
+        <translations>
+          <trans lang="ady">зы</trans>
+          <trans lang="de">Eins</trans>
+          <trans lang="de">Eins</trans>
+          <trans lang="en">one</trans>
+          <trans lang="ast">un</trans>
+          <trans lang="ast">unu</trans>
+          <trans lang="ca">u</trans>
+          <trans lang="es">uno</trans>
+          <trans lang="hu">egy</trans>
+          <trans lang="iu">ᐊᑕᐅᓯᖅ</trans>
+          <trans lang="it">uno</trans>
+          <trans lang="ku">yek</trans>
+          <trans lang="ml">ഒന്ന്</trans>
+          <trans lang="mn">нэг</trans>
+          <trans lang="pt">um</trans>
+          <trans lang="ro">unu</trans>
+          <trans lang="se">okta</trans>
+          <trans lang="zdj">montsi</trans>
+          <trans lang="ses">affoo</trans>
+          <trans lang="ta">ஒன்று</trans>
+          <trans lang="cs">jednička</trans>
+          <trans lang="tsolyáni">prúkh</trans>
+          <trans lang="vec">un</trans>
+          <trans lang="wa">onk</trans>
+          <trans lang="ady">зы</trans>
+          <trans lang="de">Eins</trans>
+          <trans lang="de">Eins</trans>
+        </translations>
+      </pos>
+      <pos type="nom" lemma="1" locution="0" homoNb="2" gender="m" number="s" equivFem="une">
+        <pronunciations>
+          <pron>œ̃</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="un" gracePOS="Ncms" prons="ɛ̃;œ̃"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="sem" value="métonymie"/>
+              </labels>
+              <xml>Une chose portant le numéro 1.</xml>
+              <txt>Une chose portant le numéro 1.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Il habite au <b>un</b>.</i>
+              </xml>
+              <txt>Il habite au un.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="paronyms">
+          <item>Ain</item>
+          <item>ein</item>
+          <item>haim</item>
+          <item>hein</item>
+        </subsection>
+      </pos>
+      <section type="homophones">
+        <item>hun</item>
+        <item>Hun</item>
+      </section>
+      <section type="anagrammes">
+        <item>nu</item>
+      </section>
+    </text>
+  </article>

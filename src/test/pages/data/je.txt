@@ -1,0 +1,194 @@
+  <article>
+    <title>je</title>
+    <pageId>281</pageId>
+    <meta/>
+    <text>
+      <pronunciations>
+        <pron>ʃ</pron>
+        <pron>ʒ</pron>
+        <pron area="France">ʒə</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml>du latin <foreignWord lang="la"/> populaire <i>eo</i> (panroman), en latin classique <i><innerLink ref="ego#la">ego</innerLink></i>. l'ancien français avait, en plus, une forme tonique <i>gié</i>, éliminée avant le moyen français.</xml>
+          <txt>du latin   populaire eo (panroman), en latin classique ego. l'ancien français avait, en plus, une forme tonique gié, éliminée avant le moyen français.</txt>
+        </etym>
+      </etymology>
+      <pos type="pronom personnel" lemma="1" locution="0">
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="pronom">Pronom</innerLink> de la <innerLink ref="première personne du singulier">première personne du singulier</innerLink>. Peut aussi bien être masculin que féminin. Utilisé exclusivement en tant que sujet. Devant une voyelle ou un <i>h</i> muet, il s'élide en <i><innerLink ref="j'">j'</innerLink></i>.</xml>
+              <txt>Pronom de la première personne du singulier. Peut aussi bien être masculin que féminin. Utilisé exclusivement en tant que sujet. Devant une voyelle ou un h muet, il s'élide en j.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Je</b> suis en France.</i>
+              </xml>
+              <txt>Je suis en France.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Je</b> m'appelle « Isabelle ».</i>
+              </xml>
+              <txt>Je m'appelle « Isabelle ».</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>J</b>'habite à Paris.</i>
+              </xml>
+              <txt>J'habite à Paris.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>J</b>'organise un voyage.</i>
+              </xml>
+              <txt>J'organise un voyage.</txt>
+            </example>
+            <example>
+              <labels>
+                <label type="attitudinal" value="familier"/>
+              </labels>
+              <xml>
+                <i>Hé ! <b>J</b>'te cause !</i>
+              </xml>
+              <txt>Hé ! J'te cause !</txt>
+            </example>
+            <example>
+              <labels>
+                <label type="attitudinal" value="familier"/>
+              </labels>
+              <xml>
+                <i><b>J</b>'prendrais bien un p'tit verre, <innerLink ref="et">et</innerLink> toi ?</i>
+              </xml>
+              <txt>J'prendrais bien un p'tit verre, et toi ?</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="alternativeForm">
+          <item>j'</item>
+        </subsection>
+        <translations>
+          <trans lang="abai sembuak">au</trans>
+          <trans lang="abx">ako</trans>
+          <trans lang="af">ek</trans>
+          <trans lang="de">ich</trans>
+          <trans lang="alt">мен</trans>
+          <trans lang="en">I</trans>
+          <trans lang="ar">انا</trans>
+          <trans lang="arz">انا</trans>
+          <trans lang="arc">ܐܢܐ</trans>
+          <trans lang="hy">էս</trans>
+          <trans lang="az">mәn</trans>
+          <trans lang="ba">мин</trans>
+          <trans lang="bm">ne</trans>
+          <trans lang="bm">n'</trans>
+          <trans lang="btx">aku</trans>
+          <trans lang="be">я</trans>
+          <trans lang="bs">ja</trans>
+          <trans lang="br">me</trans>
+          <trans lang="bg">аз</trans>
+          <trans lang="chr">ᎠᏯ</trans>
+          <trans lang="zh">我</trans>
+          <trans lang="cjs">мен</trans>
+          <trans lang="ko">나</trans>
+          <trans lang="kw">my</trans>
+          <trans lang="dalécarlien">ig</trans>
+          <trans lang="es">yo</trans>
+          <trans lang="eo">mi</trans>
+          <trans lang="et">ma</trans>
+          <trans lang="fi">minä</trans>
+          <trans lang="fc">i</trans>
+          <trans lang="gag">bän</trans>
+          <trans lang="cy">mi</trans>
+          <trans lang="ka">მე</trans>
+          <trans lang="got">𐌹𐌺</trans>
+          <trans lang="el">εγώ</trans>
+          <trans lang="grc">ἐγώ</trans>
+          <trans lang="ht">mwen</trans>
+          <trans lang="he">אני</trans>
+          <trans lang="hu">én</trans>
+          <trans lang="sah">мин</trans>
+          <trans lang="id">aku</trans>
+          <trans lang="id">saya</trans>
+          <trans lang="id">hamba</trans>
+          <trans lang="id">beta</trans>
+          <trans lang="id">gua</trans>
+          <trans lang="id">gue</trans>
+          <trans lang="iu">ᐅᕙᖓ</trans>
+          <trans lang="is">ég</trans>
+          <trans lang="it">io</trans>
+          <trans lang="ja">私</trans>
+          <trans lang="ja">儂</trans>
+          <trans lang="ja">僕</trans>
+          <trans lang="ja">俺</trans>
+          <trans lang="car">awu</trans>
+          <trans lang="krc">мен</trans>
+          <trans lang="kk">мен</trans>
+          <trans lang="knx">aku</trans>
+          <trans lang="kjh">мин</trans>
+          <trans lang="ky">мен</trans>
+          <trans lang="avk">jin</trans>
+          <trans lang="avk">jinye</trans>
+          <trans lang="avk">jinya</trans>
+          <trans lang="kum">мен</trans>
+          <trans lang="la">ego</trans>
+          <trans lang="lzz">მა</trans>
+          <trans lang="lv">es</trans>
+          <trans lang="lt">aš</trans>
+          <trans lang="lb">ech</trans>
+          <trans lang="ms">aku</trans>
+          <trans lang="ms">saya</trans>
+          <trans lang="mn">би</trans>
+          <trans lang="kve">aku</trans>
+          <trans lang="kqv">au</trans>
+          <trans lang="plz">aku</trans>
+          <trans lang="slg">au</trans>
+          <trans lang="sbr">aku</trans>
+          <trans lang="srk">aku</trans>
+          <trans lang="nl">ik</trans>
+          <trans lang="nog">мен</trans>
+          <trans lang="no_nb">jeg</trans>
+          <trans lang="no_nn">eg</trans>
+          <trans lang="oc">ieu</trans>
+          <trans lang="oc">jo</trans>
+          <trans lang="fa">من</trans>
+          <trans lang="pl">ja</trans>
+          <trans lang="pt">eu</trans>
+          <trans lang="rm">eau</trans>
+          <trans lang="ro">eu</trans>
+          <trans lang="ru">я</trans>
+          <trans lang="se">mun</trans>
+          <trans lang="se">mon</trans>
+          <trans lang="sa">अहम्</trans>
+          <trans lang="szw">ya</trans>
+          <trans lang="sk">ja</trans>
+          <trans lang="sl">jaz</trans>
+          <trans lang="sv">jag</trans>
+          <trans lang="crh">men</trans>
+          <trans lang="tt">мин</trans>
+          <trans lang="cs">já</trans>
+          <trans lang="cv">эпĕ</trans>
+          <trans lang="th">ผม</trans>
+          <trans lang="th">ดิฉัน</trans>
+          <trans lang="th">ฉัน</trans>
+          <trans lang="kim">мен</trans>
+          <trans lang="tyv">мен</trans>
+          <trans lang="tsolyáni">lín</trans>
+          <trans lang="tsolyáni">lú</trans>
+          <trans lang="tsolyáni">lúm</trans>
+          <trans lang="tsolyáni">lukán</trans>
+          <trans lang="tsolyáni">salúm</trans>
+          <trans lang="tsolyáni">kosalúm</trans>
+          <trans lang="tr">ben</trans>
+          <trans lang="uk">я</trans>
+          <trans lang="uum">мен</trans>
+          <trans lang="vi">tôi</trans>
+        </translations>
+      </pos>
+      <section type="homophones">
+        <item>jeu</item>
+        <item>jeux</item>
+      </section>
+    </text>
+  </article>

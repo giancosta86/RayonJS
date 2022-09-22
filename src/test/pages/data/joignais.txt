@@ -1,0 +1,32 @@
+  <article>
+    <title>joignais</title>
+    <pageId>321806</pageId>
+    <meta/>
+    <text>
+      <pos type="verbe" lemma="0" locution="0">
+        <pronunciations>
+          <pron>ʒwa.ɲɛ</pron>
+        </pronunciations>
+        <inflectionInfos>
+          <inflectedForm gracePOS="Vmii1s-" lemma="joindre"/>
+          <inflectedForm gracePOS="Vmii2s-" lemma="joindre"/>
+          <inflectedForm gracePOS="Vm?i1s-" lemma="joindre"/>
+          <inflectedForm gracePOS="Vm?i2s-" lemma="joindre"/>
+        </inflectionInfos>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><i>Première personne du singulier de l'imparfait de</i><innerLink ref="joindre">joindre</innerLink>.</xml>
+              <txt>Première personne du singulier de l'imparfait de joindre.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>Deuxième personne du singulier de l'imparfait de</i><innerLink ref="joindre">joindre</innerLink>.</xml>
+              <txt>Deuxième personne du singulier de l'imparfait de joindre.</txt>
+            </gloss>
+          </definition>
+        </definitions>
+      </pos>
+    </text>
+  </article>

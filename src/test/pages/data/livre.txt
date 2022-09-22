@@ -1,0 +1,572 @@
+  <article>
+    <title>livre</title>
+    <pageId>373</pageId>
+    <meta>
+      <import>DAF8</import>
+    </meta>
+    <text>
+      <pronunciations>
+        <pron area="France Ouest">'liː.vʁə</pron>
+        <pron area="prononciation fréquente">liv</pron>
+        <pron area="standard">livʁ</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml><i>(nom commun 1)</i> du latin <foreignWord lang="la" sense="livre, écrit">liber</foreignWord>.</xml>
+          <txt>du latin liber  (livre, écrit).</txt>
+        </etym>
+        <etym>
+          <xml><i>(nom commun 2)</i> du latin <foreignWord lang="la" sense="poids d'une livre">libra</foreignWord>, apparenté à <i><innerLink ref="litre">litre</innerLink></i> via un <innerLink ref="étymon">étymon</innerLink> grec commun.</xml>
+          <txt>du latin libra  (poids d'une livre), apparenté à litre via un étymon grec commun.</txt>
+        </etym>
+      </etymology>
+      <pos type="nom" lemma="1" locution="0" homoNb="1" gender="m" number="s">
+        <pronunciations>
+          <pron>livʁ</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="livre" gracePOS="Ncms" prons="livʁ"/>
+          <inflection form="livres" gracePOS="Ncmp" prons="livʁ"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="ensemble">Ensemble</innerLink> de <innerLink ref="page">page</innerLink>s <innerLink ref="relié">relié</innerLink>es entre elles et dotées de <innerLink ref="signe">signe</innerLink>s destinés à <innerLink ref="lire">être lus</innerLink>.</xml>
+              <txt>Ensemble de pages reliées entre elles et dotées de signes destinés à être lus.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>C'est le <b>livre</b> des Destinées, dit l'ermite ; voulez-vous en lire quelque chose ?</i>
+              </xml>
+              <txt>C'est le livre des Destinées, dit l'ermite ; voulez-vous en lire quelque chose ?</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Un <b>livre</b> à demi ouvert sur mes genoux croisés, je suis assis devant la cheminée, où flambe le premier feu de la saison.</i>
+              </xml>
+              <txt>Un livre à demi ouvert sur mes genoux croisés, je suis assis devant la cheminée, où flambe le premier feu de la saison.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="ouvrage">Ouvrage</innerLink> de l'esprit, en <innerLink ref="prose">prose</innerLink> ou en <innerLink ref="vers">vers</innerLink>, d'assez grande étendue pour faire au moins un <innerLink ref="volume">volume</innerLink>.</xml>
+              <txt>Ouvrage de l'esprit, en prose ou en vers, d'assez grande étendue pour faire au moins un volume.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Les hommes qui ont reçu une éducation primaire ont, en général, la superstition du <b>livre</b>, et ils attribuent facilement du génie aux gens qui occupent beaucoup l'attention du monde lettré ; […]. </i>
+              </xml>
+              <txt>Les hommes qui ont reçu une éducation primaire ont, en général, la superstition du livre, et ils attribuent facilement du génie aux gens qui occupent beaucoup l'attention du monde lettré ; […].</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Les journaux et les magazines qui alimentaient les cerveaux américains (car les <b>livres</b>, sur ce continent impatient, n'intéressaient plus que les collectionneurs) devinrent instantanément un feu d'artifice […].</i>
+              </xml>
+              <txt>Les journaux et les magazines qui alimentaient les cerveaux américains (car les livres, sur ce continent impatient, n'intéressaient plus que les collectionneurs) devinrent instantanément un feu d'artifice […].</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Les ressources de Brasillac ont consisté, d'une part, dans les revenus de ses <b>livres</b> publiés par les éditeurs Plon, Denoël et Gallimard, d'autre part, dans les rémunérations de ses articles de journaux.</i>
+              </xml>
+              <txt>Les ressources de Brasillac ont consisté, d'une part, dans les revenus de ses livres publiés par les éditeurs Plon, Denoël et Gallimard, d'autre part, dans les rémunérations de ses articles de journaux.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Écrit sur une face et se présentant sous forme de <innerLink ref="rouleau">rouleau</innerLink>.</xml>
+              <txt>Écrit sur une face et se présentant sous forme de rouleau.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Livre</b> de papyrus, livre de soie.</i>
+              </xml>
+              <txt>Livre de papyrus, livre de soie.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Ensemble de feuilles de parchemin ou de papier écrites des deux côtés et rassemblées en cahiers, <innerLink ref="codex">codex</innerLink>.</xml>
+              <txt>Ensemble de feuilles de parchemin ou de papier écrites des deux côtés et rassemblées en cahiers, codex.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Livre</b> de parchemin.</i>
+              </xml>
+              <txt>Livre de parchemin.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Ouvrage <innerLink ref="imprimé">imprimé</innerLink>, <innerLink ref="relié">relié</innerLink> ou <innerLink ref="broché">broché</innerLink>, <innerLink ref="non périodique">non périodique</innerLink>, comportant un assez grand nombre de pages.</xml>
+              <txt>Ouvrage imprimé, relié ou broché, non périodique, comportant un assez grand nombre de pages.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Au milieu des <b>livres</b>, j'ai découvert ce <b>livre</b> d'images. Il était enveloppé de cellophane et entouré d'une ficelle dorée.</i>
+              </xml>
+              <txt>Au milieu des livres, j'ai découvert ce livre d'images. Il était enveloppé de cellophane et entouré d'une ficelle dorée.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Cette bibliothèque compte cent-cinquante-mille <b>livres</b>.</i>
+              </xml>
+              <txt>Cette bibliothèque compte cent-cinquante-mille livres.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Ce type d'ouvrage, <innerLink ref="publié">publié</innerLink> sur un autre support.</xml>
+              <txt>Ce type d'ouvrage, publié sur un autre support.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Un <b>livre</b> électronique, <b>livre</b> audio.</i>
+              </xml>
+              <txt>Un livre électronique, livre audio.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="sous-partie">Sous-partie</innerLink>, <innerLink ref="division">division</innerLink> de ces ouvrages.</xml>
+              <txt>Sous-partie, division de ces ouvrages.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Cet auteur a distribué, divisé son ouvrage en douze <b>livres</b>.</i>
+              </xml>
+              <txt>Cet auteur a distribué, divisé son ouvrage en douze livres.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Le premier, le second <b>livre</b> des Rois.</i>
+              </xml>
+              <txt>Le premier, le second livre des Rois.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>C'est un extrait du <b>livre</b> troisième de telle œuvre.</i>
+              </xml>
+              <txt>C'est un extrait du livre troisième de telle œuvre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Terme <innerLink ref="générique">générique</innerLink> faisant référence à un ouvrage qui sert de base à une religion et considéré comme <innerLink ref="sacré">sacré</innerLink>.</xml>
+              <txt>Terme générique faisant référence à un ouvrage qui sert de base à une religion et considéré comme sacré.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Le judaïsme, le christianisme et l'islam sont parfois appelées « religions du <b>livre</b> ».</i>
+              </xml>
+              <txt>Le judaïsme, le christianisme et l'islam sont parfois appelées « religions du livre ».</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="domain" value="commerce"/>
+              </labels>
+              <xml><innerLink ref="registre">Registre</innerLink> sur lequel on inscrit ce qu'on <innerLink ref="recevoir">reçoit</innerLink> et ce qu'on <innerLink ref="dépenser">dépense</innerLink>, ce qu'on achète et ce qu'on vend, ses dettes <innerLink ref="actif">actives</innerLink> et ses dettes <innerLink ref="passif">passives</innerLink>, etc.</xml>
+              <txt>Registre sur lequel on inscrit ce qu'on reçoit et ce qu'on dépense, ce qu'on achète et ce qu'on vend, ses dettes actives et ses dettes passives, etc.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Les <b>livres</b> que les marchands sont obligés de tenir, et pour lesquels ils n'ont pas observé les formalités prescrites, ne peuvent être représentés ni faire foi en justice, au profit de ceux qui les ont tenus.</i>
+              </xml>
+              <txt>Les livres que les marchands sont obligés de tenir, et pour lesquels ils n'ont pas observé les formalités prescrites, ne peuvent être représentés ni faire foi en justice, au profit de ceux qui les ont tenus.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="domain" value="diplomatie"/>
+              </labels>
+              <xml>Accompagné d'une épithète de <innerLink ref="couleur">couleur</innerLink> (désignant la couverture) : <innerLink ref="recueil">Recueil</innerLink> de pièces <innerLink ref="diplomatique">diplomatique</innerLink>s, publié par le <innerLink ref="gouvernement">gouvernement</innerLink> d'un pays.</xml>
+              <txt>Accompagné d'une épithète de couleur (désignant la couverture) : Recueil de pièces diplomatiques, publié par le gouvernement d'un pays.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Livre</b> jaune, <b>livre</b> bleu, <b>livre</b> blanc, etc.</i>
+              </xml>
+              <txt>Livre jaune, livre bleu, livre blanc, etc.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="secteur">Secteur</innerLink> d'activité regroupant l'<innerLink ref="édition">édition</innerLink> et l'<innerLink ref="imprimerie">imprimerie</innerLink>.</xml>
+              <txt>Secteur d'activité regroupant l'édition et l'imprimerie.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Le salon du <b>livre</b>.</i>
+              </xml>
+              <txt>Le salon du livre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Faire l'histoire du <b>livre</b> en Nouvelle-France.</i>
+              </xml>
+              <txt>Faire l'histoire du livre en Nouvelle-France.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="synonym">bouquin</item>
+          <item type="synonym">écrit</item>
+          <item type="synonym">manuel</item>
+          <item type="synonym">ouvrage</item>
+          <item type="synonym">recueil</item>
+          <item type="synonym">tome</item>
+          <item type="synonym">volume</item>
+          <item type="hyponym">incunable</item>
+        </subsection>
+        <subsection type="morpho">
+          <item type="derivative">à livre ouvert</item>
+          <item type="derivative">appui-livres</item>
+          <item type="derivative">dévorer un livre</item>
+          <item type="derivative">avidité</item>
+          <item type="derivative">en faire un livre</item>
+          <item type="derivative">être écrit dans le livre du destin</item>
+          <item type="derivative">grand-livre</item>
+          <item type="derivative">livre blanc</item>
+          <item type="derivative">livre bleu</item>
+          <item type="derivative">livre de chevet</item>
+          <item type="derivative">livre de cuisine</item>
+          <item type="derivative">livre de cul</item>
+          <item type="derivative">livre de loch</item>
+          <item type="derivative">livre de messe</item>
+          <item type="derivative">livre de poche</item>
+          <item type="derivative">livre de police</item>
+          <item type="derivative">livre d'heures</item>
+          <item type="derivative">livre d'or</item>
+          <item type="derivative">livre électronique</item>
+          <item type="derivative">livre jaune</item>
+          <item type="derivative">livre noir</item>
+          <item type="derivative">livre rouge</item>
+          <item type="derivative">livre vert</item>
+          <item type="derivative">livresque</item>
+          <item type="derivative">n'avoir jamais mis le nez dans un livre</item>
+          <item type="derivative">parler comme un livre</item>
+          <item type="derivative">serre-livre</item>
+          <item type="related">ex-libris</item>
+          <item type="related">libraire</item>
+          <item type="related">libraire-éditeur</item>
+          <item type="related">librairie</item>
+          <item type="related">librettiste</item>
+          <item type="related">libretto</item>
+        </subsection>
+        <translations>
+          <trans lang="abx">libro</trans>
+          <trans lang="af">boek</trans>
+          <trans lang="sq">libër</trans>
+          <trans lang="de">Buch</trans>
+          <trans lang="en">book</trans>
+          <trans lang="ang">boc</trans>
+          <trans lang="ar">كتاب</trans>
+          <trans lang="hy">գիրք</trans>
+          <trans lang="az">kitab</trans>
+          <trans lang="ba">китап</trans>
+          <trans lang="bm">gafɛ</trans>
+          <trans lang="eu">liburu</trans>
+          <trans lang="be">кніга</trans>
+          <trans lang="br">levr</trans>
+          <trans lang="bg">книга</trans>
+          <trans lang="ca">llibre</trans>
+          <trans lang="zh">书</trans>
+          <trans lang="ko">책</trans>
+          <trans lang="ko">서적</trans>
+          <trans lang="kw">lyver</trans>
+          <trans lang="da">bog</trans>
+          <trans lang="dlg">кинигэ</trans>
+          <trans lang="es">libro</trans>
+          <trans lang="eo">libro</trans>
+          <trans lang="et">raamat</trans>
+          <trans lang="fo">bók</trans>
+          <trans lang="fi">kirja</trans>
+          <trans lang="fy">boek</trans>
+          <trans lang="gd">leabhar</trans>
+          <trans lang="ga">leabhar</trans>
+          <trans lang="gag">kiyat</trans>
+          <trans lang="gl">libro</trans>
+          <trans lang="cy">llyfr</trans>
+          <trans lang="ka">წიგნი</trans>
+          <trans lang="got">𐌱𐍉𐌺𐍉𐍃</trans>
+          <trans lang="el">βιβλίο</trans>
+          <trans lang="el">κιτάπι</trans>
+          <trans lang="haw">puke</trans>
+          <trans lang="he">ספר</trans>
+          <trans lang="hi">पुस्तक</trans>
+          <trans lang="hi">किताब</trans>
+          <trans lang="hu">könyv</trans>
+          <trans lang="sah">кинигэ</trans>
+          <trans lang="io">libro</trans>
+          <trans lang="id">buku</trans>
+          <trans lang="id">bacaan</trans>
+          <trans lang="id">pustaka</trans>
+          <trans lang="ia">libro</trans>
+          <trans lang="iu">ᐅᖃᓕᒫᒐᖅ</trans>
+          <trans lang="is">bók</trans>
+          <trans lang="it">libro</trans>
+          <trans lang="ja">本</trans>
+          <trans lang="krc">китаб</trans>
+          <trans lang="kk">кітап</trans>
+          <trans lang="kjh">кинде</trans>
+          <trans lang="rw">tabo</trans>
+          <trans lang="ky">китеп</trans>
+          <trans lang="kum">китап</trans>
+          <trans lang="ku">kitêb</trans>
+          <trans lang="ku">pirtûk</trans>
+          <trans lang="ku">کتێب</trans>
+          <trans lang="la">liber</trans>
+          <trans lang="la">caudex</trans>
+          <trans lang="la">codex</trans>
+          <trans lang="lzz">სუპარა</trans>
+          <trans lang="lv">grāmata</trans>
+          <trans lang="lt">knyga</trans>
+          <trans lang="lb">Buch</trans>
+          <trans lang="mk">книга</trans>
+          <trans lang="ms">buku</trans>
+          <trans lang="ms">kitab</trans>
+          <trans lang="mg">boky</trans>
+          <trans lang="mt">ktieb</trans>
+          <trans lang="mi">pukapuka</trans>
+          <trans lang="mr">पुस्तक</trans>
+          <trans lang="yua">hu'un</trans>
+          <trans lang="mn">ном</trans>
+          <trans lang="nl">boek</trans>
+          <trans lang="ne">पुस्तक</trans>
+          <trans lang="ne">किताप</trans>
+          <trans lang="no_nb">bok</trans>
+          <trans lang="no_nn">bok</trans>
+          <trans lang="oc">libre</trans>
+          <trans lang="otq">mfixtꞌofo</trans>
+          <trans lang="ur">کتاب</trans>
+          <trans lang="uz">kitob</trans>
+          <trans lang="pap">buki</trans>
+          <trans lang="pa">ਪੁਸਤਕ</trans>
+          <trans lang="fa">کتاب</trans>
+          <trans lang="pcd">life</trans>
+          <trans lang="plodarisch">puich</trans>
+          <trans lang="pl">książka</trans>
+          <trans lang="pt">livro</trans>
+          <trans lang="rm">cudesch</trans>
+          <trans lang="ro">carte</trans>
+          <trans lang="ru">книга</trans>
+          <trans lang="se">girji</trans>
+          <trans lang="sa">पुस्तक</trans>
+          <trans lang="sc">libru</trans>
+          <trans lang="syn">ksuuta</trans>
+          <trans lang="sr">књига</trans>
+          <trans lang="xsr">किताब</trans>
+          <trans lang="sk">kniha</trans>
+          <trans lang="sl">knjiga</trans>
+          <trans lang="srn">buku</trans>
+          <trans lang="sv">bok</trans>
+          <trans lang="sw">kitabu</trans>
+          <trans lang="tg">китоб</trans>
+          <trans lang="tl">aklát</trans>
+          <trans lang="tl">libró</trans>
+          <trans lang="ta">நூல்</trans>
+          <trans lang="crh">kitap</trans>
+          <trans lang="tt">китап</trans>
+          <trans lang="cs">kniha</trans>
+          <trans lang="cv">кĕнеке</trans>
+          <trans lang="th">หนังสือ</trans>
+          <trans lang="kim">һінеэк</trans>
+          <trans lang="kim">һінээк</trans>
+          <trans lang="tyv">ном</trans>
+          <trans lang="tr">kitap</trans>
+          <trans lang="tk">kitap</trans>
+          <trans lang="uk">книга</trans>
+          <trans lang="vi">sách</trans>
+          <trans lang="zu">ibhuku</trans>
+          <trans lang="zu">ilibhuku</trans>
+          <trans lang="zu">incwadi</trans>
+          <trans lang="de">Buch</trans>
+          <trans lang="en">Good Book</trans>
+          <trans lang="sv">bok</trans>
+        </translations>
+      </pos>
+      <pos type="nom" lemma="1" locution="0" homoNb="2" gender="f" number="s">
+        <pronunciations>
+          <pron>livʁ</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="livre" gracePOS="Ncfs" prons="livʁ"/>
+          <inflection form="livres" gracePOS="Ncfp" prons="livʁ"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="unité">Unité</innerLink><innerLink ref="monétaire">monétaire</innerLink><innerLink ref="ancien">ancien</innerLink>ne puis <innerLink ref="étrangère">étrangère</innerLink>. Le symbole de la livre sterling est <b><innerLink ref="£">£</innerLink></b> (Unicode U+00A3).</xml>
+              <txt>Unité monétaire ancienne puis étrangère. Le symbole de la livre sterling est £ (Unicode U+00A3).</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Un rapport et avis d'experts porte qu'il sera planté des bornes, pour limiter les fonds de Catherine Lambert et ceux des pères Jésuites. Il existe en date du 8 octobre de la même année, une quittance de 18 <b>livres</b> de la susdite aux RR. PP. pour payement de la ferme du broteau des balmes.</i>
+              </xml>
+              <txt>Un rapport et avis d'experts porte qu'il sera planté des bornes, pour limiter les fonds de Catherine Lambert et ceux des pères Jésuites. Il existe en date du 8 octobre de la même année, une quittance de 18 livres de la susdite aux RR. PP. pour payement de la ferme du broteau des balmes.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Cela fera 12 <b>livres</b> sterling.</i>
+              </xml>
+              <txt>Cela fera 12 livres sterling.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="domain" value="métrologie"/>
+              </labels>
+              <xml>Unité de mesure de <innerLink ref="masse">masse</innerLink> (symbole : <b><innerLink ref="lb">lb</innerLink></b>) dans le <innerLink ref="système">système</innerLink> de mesures <innerLink ref="britannique">britannique</innerLink> et qui vaut exactement 453,592 37 grammes (livre <innerLink ref="avoirdupois">avoirdupois</innerLink>). <cf value="pound"/></xml>
+              <txt>Unité de mesure de masse (symbole : lb) dans le système de mesures britannique et qui vaut exactement 453,592 37 grammes (livre avoirdupois). voir pound</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="domain" value="métrologie"/>
+              </labels>
+              <xml>Unité informelle de mesure de masse (<innerLink ref="France">France</innerLink>), surtout utilisée lors d'achats de <innerLink ref="produit">produit</innerLink>s alimentaires ou <innerLink ref="agricole">agricole</innerLink>s et qui équivaut environ à 500 grammes. On l'appelle parfois (à tort) « livre <innerLink ref="métrique">métrique</innerLink> ».</xml>
+              <txt>Unité informelle de mesure de masse (France), surtout utilisée lors d'achats de produits alimentaires ou agricoles et qui équivaut environ à 500 grammes. On l'appelle parfois (à tort) « livre métrique ».</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>[…] n'avait-il point remarqué une superbe truite qui se calait sous un rocher de la rive. Son coup d'œil l'avait soupesée : deux ou trois <b>livres</b> au moins, fameux morceau qu'il pourrait vendre facilement chez l'un ou l'autre de ses clients […]</i>
+              </xml>
+              <txt>n'avait-il point remarqué une superbe truite qui se calait sous un rocher de la rive. Son coup d'œil l'avait soupesée : deux ou trois livres au moins, fameux morceau qu'il pourrait vendre facilement chez l'un ou l'autre de ses clients […]</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="domain" value="métrologie"/>
+              </labels>
+              <xml>Ancienne unité de mesure de masse (France), symbole <b><innerLink ref="lp">lp</innerLink></b> (<innerLink ref="livre de Paris">livre de Paris</innerLink>, <innerLink ref="livre de poids de marc">livre de poids de marc</innerLink>).</xml>
+              <txt>Ancienne unité de mesure de masse (France), symbole lp (livre de Paris, livre de poids de marc).</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Une <b>livre</b> = 489,5 grammes</i>
+              </xml>
+              <txt>Une livre = 489,5 grammes</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><b>Livre</b><innerLink ref="apothicaire">apothicaire</innerLink> (<i><innerLink ref="apothecary pound">apothecary pound</innerLink></i> ou <i><innerLink ref="troy pound">troy pound</innerLink></i>), symboles respectifs : <b><innerLink ref="lb av">lb av</innerLink></b> et <b><innerLink ref="lb t">lb t</innerLink></b> ou <b><innerLink ref="lb Tr">lb Tr</innerLink></b>, qui vaut exactement 373,241 721 6 g.</xml>
+              <txt>Livre apothicaire (apothecary pound ou troy pound), symboles respectifs : lb av et lb t ou lb Tr, qui vaut exactement 373,241 721 6 g.</txt>
+            </gloss>
+          </definition>
+        </definitions>
+        <translations>
+          <trans lang="af">pond</trans>
+          <trans lang="de">Pfund</trans>
+          <trans lang="en">pound</trans>
+          <trans lang="ar">جنيه</trans>
+          <trans lang="ca">lliura</trans>
+          <trans lang="hr">funt</trans>
+          <trans lang="da">pund</trans>
+          <trans lang="es">libra</trans>
+          <trans lang="eo">pundo</trans>
+          <trans lang="el">λίρα</trans>
+          <trans lang="hu">font</trans>
+          <trans lang="it">lira</trans>
+          <trans lang="ja">ポンド</trans>
+          <trans lang="la">libra</trans>
+          <trans lang="lt">svaras</trans>
+          <trans lang="lb">Pond</trans>
+          <trans lang="nl">pond</trans>
+          <trans lang="no_nb">bok</trans>
+          <trans lang="no_nn">bok</trans>
+          <trans lang="pl">funt</trans>
+          <trans lang="pt">libra</trans>
+          <trans lang="ro">liră</trans>
+          <trans lang="ru">фунт</trans>
+          <trans lang="sk">libra</trans>
+          <trans lang="sv">pund</trans>
+          <trans lang="cs">libra</trans>
+          <trans lang="af">pond</trans>
+          <trans lang="de">Pfund</trans>
+          <trans lang="en">pound</trans>
+          <trans lang="crm">tipāpēskocikan</trans>
+          <trans lang="hr">funt</trans>
+          <trans lang="eo">funto</trans>
+          <trans lang="ja">ポンド</trans>
+          <trans lang="la">libra</trans>
+          <trans lang="lb">Pond</trans>
+          <trans lang="nl">pond</trans>
+          <trans lang="pl">funt</trans>
+          <trans lang="pt">libra</trans>
+          <trans lang="de">Pfund</trans>
+          <trans lang="en">half a kilo</trans>
+          <trans lang="hr">funt</trans>
+          <trans lang="lb">Pond</trans>
+          <trans lang="nl">pond</trans>
+          <trans lang="pt">libra</trans>
+          <trans lang="de">Pfund</trans>
+          <trans lang="en">pound</trans>
+          <trans lang="hr">funt</trans>
+          <trans lang="eo">funto</trans>
+          <trans lang="lb">Pond</trans>
+          <trans lang="pt">libra</trans>
+        </translations>
+      </pos>
+      <pos type="verbe" lemma="0" locution="0">
+        <pronunciations>
+          <pron>livʁ</pron>
+        </pronunciations>
+        <inflectionInfos>
+          <inflectedForm gracePOS="Vmip1s-" lemma="livrer"/>
+          <inflectedForm gracePOS="Vmip3s-" lemma="livrer"/>
+          <inflectedForm gracePOS="Vmsp1s-" lemma="livrer"/>
+          <inflectedForm gracePOS="Vmsp3s-" lemma="livrer"/>
+          <inflectedForm gracePOS="Vmmp2s-" lemma="livrer"/>
+        </inflectionInfos>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><i>Première personne du singulier du présent de l'indicatif de</i><innerLink ref="livrer">livrer</innerLink>.</xml>
+              <txt>Première personne du singulier du présent de l'indicatif de livrer.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>Troisième personne du singulier du présent de l'indicatif de</i><innerLink ref="livrer">livrer</innerLink>.</xml>
+              <txt>Troisième personne du singulier du présent de l'indicatif de livrer.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>Première personne du singulier du présent du subjonctif de</i><innerLink ref="livrer">livrer</innerLink>.</xml>
+              <txt>Première personne du singulier du présent du subjonctif de livrer.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>Troisième personne du singulier du présent du subjonctif de</i><innerLink ref="livrer">livrer</innerLink>.</xml>
+              <txt>Troisième personne du singulier du présent du subjonctif de livrer.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>Deuxième personne du singulier de l'impératif présent de</i><innerLink ref="livrer">livrer</innerLink>.</xml>
+              <txt>Deuxième personne du singulier de l'impératif présent de livrer.</txt>
+            </gloss>
+          </definition>
+        </definitions>
+        <subsection type="paronyms">
+          <item>ivre</item>
+          <item>libre</item>
+        </subsection>
+      </pos>
+      <section type="homophones">
+        <item>livrent</item>
+        <item>livres</item>
+      </section>
+      <section type="anagrammes">
+        <item>liver</item>
+      </section>
+    </text>
+  </article>

@@ -1,0 +1,138 @@
+  <article>
+    <title>rousse</title>
+    <pageId>18676</pageId>
+    <meta/>
+    <text>
+      <etymology>
+        <etym>
+          <xml>féminin de <i><innerLink ref="roux">roux</innerLink></i>.</xml>
+          <txt>féminin de roux.</txt>
+        </etym>
+      </etymology>
+      <pos type="nom" lemma="1" locution="0" homoNb="1" gender="f" number="s" equivMasc="roux">
+        <pronunciations>
+          <pron>ʁus</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="rousse" gracePOS="Ncfs" prons="ʁus"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Personne du sexe féminin qui a les cheveux <innerLink ref="roux">roux</innerLink>.</xml>
+              <txt>Personne du sexe féminin qui a les cheveux roux.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>J'ai cru voir que Pauline était une <b>rousse</b>.</i>
+              </xml>
+              <txt>J'ai cru voir que Pauline était une rousse.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="attitudinal" value="argot"/>
+              </labels>
+              <xml><innerLink ref="police">Police</innerLink>.</xml>
+              <txt>Police.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Comme si nous n'avions pas déjà assez de la police ! Elle ne nous traque pas assez, la <b>rousse</b>, sans mettre le public dans la combinaison ! Ah ! ces sacrés journaux ! Parole, j'aime encore mieux les juges d'instruction.</i>
+              </xml>
+              <txt>Comme si nous n'avions pas déjà assez de la police ! Elle ne nous traque pas assez, la rousse, sans mettre le public dans la combinaison ! Ah ! ces sacrés journaux ! Parole, j'aime encore mieux les juges d'instruction.</txt>
+            </example>
+            <example>
+              <xml>''C'était un brav' gnière&amp;lt;br</xml>
+              <txt>C'était un brav' gnière&amp;lt;br</txt>
+            </example>
+          </definition>
+        </definitions>
+      </pos>
+      <pos type="nom" lemma="1" locution="0" homoNb="2" gender="f" number="s">
+        <pronunciations>
+          <pron>ʁus</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="rousse" gracePOS="Ncfs" prons="ʁus"/>
+          <inflection form="rousses" gracePOS="Ncfp" prons="ʁus"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="domain" value="poissons"/>
+              </labels>
+              <xml><innerLink ref="gardon commun">Gardon commun</innerLink> (poisson).</xml>
+              <txt>Gardon commun (poisson).</txt>
+            </gloss>
+          </definition>
+        </definitions>
+      </pos>
+      <pos type="adjectif" lemma="0" locution="0" gender="f" number="s">
+        <pronunciations>
+          <pron>ʁus</pron>
+        </pronunciations>
+        <inflectionInfos>
+          <inflectedForm gracePOS="Afpfs" lemma="roux"/>
+        </inflectionInfos>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><i>Féminin singulier de</i><innerLink ref="roux">roux</innerLink>.</xml>
+              <txt>Féminin singulier de roux.</txt>
+            </gloss>
+          </definition>
+        </definitions>
+      </pos>
+      <pos type="verbe" lemma="0" locution="0">
+        <pronunciations>
+          <pron>ʁus</pron>
+        </pronunciations>
+        <inflectionInfos>
+          <inflectedForm gracePOS="Vmip1s-" lemma="rousser"/>
+          <inflectedForm gracePOS="Vmip3s-" lemma="rousser"/>
+          <inflectedForm gracePOS="Vmsp1s-" lemma="rousser"/>
+          <inflectedForm gracePOS="Vmsp3s-" lemma="rousser"/>
+          <inflectedForm gracePOS="Vmmp2s-" lemma="rousser"/>
+        </inflectionInfos>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><i>Première personne du singulier de l'indicatif présent de</i><innerLink ref="rousser">rousser</innerLink>.</xml>
+              <txt>Première personne du singulier de l'indicatif présent de rousser.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>Troisième personne du singulier de l'indicatif présent de</i><innerLink ref="rousser">rousser</innerLink>.</xml>
+              <txt>Troisième personne du singulier de l'indicatif présent de rousser.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>Première personne du singulier du subjonctif présent de</i><innerLink ref="rousser">rousser</innerLink>.</xml>
+              <txt>Première personne du singulier du subjonctif présent de rousser.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>Troisième personne du singulier du subjonctif présent de</i><innerLink ref="rousser">rousser</innerLink>.</xml>
+              <txt>Troisième personne du singulier du subjonctif présent de rousser.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>Deuxième personne du singulier de l'impératif présent de</i><innerLink ref="rousser">rousser</innerLink>.</xml>
+              <txt>Deuxième personne du singulier de l'impératif présent de rousser.</txt>
+            </gloss>
+          </definition>
+        </definitions>
+      </pos>
+      <section type="anagrammes">
+        <item>ourses</item>
+        <item>sœurs</item>
+      </section>
+    </text>
+  </article>

@@ -1,0 +1,53 @@
+  <article>
+    <title>parbleu</title>
+    <pageId>170355</pageId>
+    <meta>
+      <import>DAF8</import>
+    </meta>
+    <text>
+      <etymology>
+        <etym>
+          <xml>altération de <i>par <innerLink ref="dieu">dieu</innerLink></i>, où <i><innerLink ref="bleu">bleu</innerLink></i> est substitué pour contourner le <innerLink ref="blasphème">blasphème</innerLink>.</xml>
+          <txt>altération de par dieu, où bleu est substitué pour contourner le blasphème.</txt>
+        </etym>
+      </etymology>
+      <pos type="interjection" lemma="1" locution="0">
+        <pronunciations>
+          <pron>paʁ.blø</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="diachronic" value="vieilli"/>
+              </labels>
+              <xml>Sorte de <innerLink ref="juron">juron</innerLink>.</xml>
+              <txt>Sorte de juron.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>- On les condamne donc à mort ceux qui vont proclamant des vérités,
+- Tiens!... <b>Parbleu!</b>... Il ne manquerait plus qu'on les nommât ministres ou archevêques... ou qu'on leur donnât la croix de la Légion d'honneur!... Ah! çà!... D'où venez-vous?.</i>
+              </xml>
+              <txt>- On les condamne donc à mort ceux qui vont proclamant des vérités,
+- Tiens!... Parbleu!... Il ne manquerait plus qu'on les nommât ministres ou archevêques... ou qu'on leur donnât la croix de la Légion d'honneur!... Ah! çà!... D'où venez-vous?.</txt>
+            </example>
+            <example>
+              <xml><i>Les Chasseurs n'étaient peut-être pas non plus étrangers à cette manigance. <b>Parbleu</b>, en se débarrassant d'un concurrent, ils profitaient de son gibier.</i> }}</xml>
+              <txt>Les Chasseurs n'étaient peut-être pas non plus étrangers à cette manigance. Parbleu, en se débarrassant d'un concurrent, ils profitaient de son gibier. }}</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Je déteste les Allemands, <b>parbleu</b>, mais sans conviction.</i>
+              </xml>
+              <txt>Je déteste les Allemands, parbleu, mais sans conviction.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <translations>
+          <trans lang="en">by Jove</trans>
+          <trans lang="it">per Giove</trans>
+        </translations>
+      </pos>
+    </text>
+  </article>

@@ -1,0 +1,76 @@
+  <article>
+    <title>bien que</title>
+    <pageId>14907</pageId>
+    <meta/>
+    <text>
+      <pronunciations>
+        <pron area="France Paris">bjɛ̃ kə</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml><century>?</century> composé de <i><innerLink ref="bien">bien</innerLink></i> et <i><innerLink ref="que">que</innerLink></i>.</xml>
+          <txt>composé de bien et que.</txt>
+        </etym>
+      </etymology>
+      <pos type="conjonction" lemma="1" locution="1">
+        <pronunciations>
+          <pron>bjɛ̃ kə</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="conjonction">Conjonction</innerLink> de <innerLink ref="subordination">subordination</innerLink> <innerLink ref="introduisant">introduisant</innerLink> une <innerLink ref="concession">concession</innerLink>.</xml>
+              <txt>Conjonction de subordination introduisant une concession.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>La brume nous enveloppa de nouveau, <b>bien que</b> le soleil brillât dans une échappée de ciel au dessus de nos têtes.</i>
+              </xml>
+              <txt>La brume nous enveloppa de nouveau, bien que le soleil brillât dans une échappée de ciel au dessus de nos têtes.</txt>
+            </example>
+            <example>
+              <xml><i>Elle ne salait les mets qu'après la cuisson, <b>bien qu</b>'elle sût à quel point la fadeur lui en était désagréable.</i> }}</xml>
+              <txt>Elle ne salait les mets qu'après la cuisson, bien qu'elle sût à quel point la fadeur lui en était désagréable. }}</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="synonym">combien que</item>
+          <item type="synonym">encore que</item>
+          <item type="synonym">encore qu'</item>
+          <item type="synonym">quoique</item>
+          <item type="synonym">quoiqu'</item>
+          <item type="synonym">malgré que</item>
+          <item type="synonym">malgré qu'</item>
+          <item type="synonym">nonobstant que</item>
+        </subsection>
+        <translations>
+          <trans lang="de">obwohl</trans>
+          <trans lang="de">obschon</trans>
+          <trans lang="de">obgleich</trans>
+          <trans lang="en">although</trans>
+          <trans lang="en">even though</trans>
+          <trans lang="dsb">rownož</trans>
+          <trans lang="ca">malgrat que</trans>
+          <trans lang="ca">encara que</trans>
+          <trans lang="ko">bien que</trans>
+          <trans lang="es">aunque</trans>
+          <trans lang="es">si bien</trans>
+          <trans lang="eo">kvankam</trans>
+          <trans lang="hi">यद्यपि</trans>
+          <trans lang="it">benché</trans>
+          <trans lang="it">nonostante che</trans>
+          <trans lang="it">malgrado che</trans>
+          <trans lang="oc">encara que</trans>
+          <trans lang="pl">chociaż</trans>
+          <trans lang="pt">embora</trans>
+          <trans lang="pt">se bem que</trans>
+          <trans lang="pt">conquanto</trans>
+          <trans lang="se">vaikko</trans>
+          <trans lang="sv">fastän</trans>
+          <trans lang="uk">хоча</trans>
+          <trans lang="uk">хоча</trans>
+        </translations>
+      </pos>
+    </text>
+  </article>

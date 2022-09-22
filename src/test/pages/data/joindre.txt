@@ -1,0 +1,451 @@
+  <article>
+    <title>joindre</title>
+    <pageId>165873</pageId>
+    <meta>
+      <import>DAF8</import>
+    </meta>
+    <text>
+      <pronunciations>
+        <pron area="France">ʒwɛ̃dʁ</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml>du latin <foreignWord lang="la">jungo</foreignWord>.</xml>
+          <txt>du latin jungo .</txt>
+        </etym>
+      </etymology>
+      <pos type="verbe" lemma="1" locution="0">
+        <pronunciations>
+          <pron>ʒwɛ̃dʁ</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="joignent" gracePOS="Vmip3p-" prons="ʒwaɲ"/>
+          <inflection form="joindrais" gracePOS="Vmcp2s-" prons="ʒwɛ̃.dʁɛ"/>
+          <inflection form="joignant" gracePOS="Vmpp---" prons="ʒwa.ɲã"/>
+          <inflection form="joignais" gracePOS="Vmii2s-" prons="ʒwa.ɲɛ"/>
+          <inflection form="joindront" gracePOS="Vmif3p-" prons="ʒwɛ̃.dʁɔ̃"/>
+          <inflection form="joignirent" gracePOS="Vmis3p-" prons="ʒwa.ɲiʁ"/>
+          <inflection form="joindras" gracePOS="Vmif2s-" prons="ʒwɛ̃.dʁa"/>
+          <inflection form="joignissent" gracePOS="Vmsi3p-" prons="ʒwa.ɲis"/>
+          <inflection form="joigne" gracePOS="Vmsp3s-" prons="ʒwaɲ"/>
+          <inflection form="joindre" gracePOS="Vmn----" prons="ʒwɛ̃dʁ"/>
+          <inflection form="joignîtes" gracePOS="Vmis2p-" prons="ʒwa.ɲit"/>
+          <inflection form="joindra" gracePOS="Vmif3s-" prons="ʒwɛ̃.dʁa"/>
+          <inflection form="joignît" gracePOS="Vmsi3s-" prons="ʒwa.ɲi"/>
+          <inflection form="joignes" gracePOS="Vmsp2s-" prons="ʒwaɲ"/>
+          <inflection form="joignais" gracePOS="Vmii1s-" prons="ʒwa.ɲɛ"/>
+          <inflection form="joins" gracePOS="Vmip2s-" prons="ʒwɛ̃"/>
+          <inflection form="joignisse" gracePOS="Vmsi1s-" prons="ʒwa.ɲis"/>
+          <inflection form="joignissiez" gracePOS="Vmsi2p-" prons="ʒwa.ɲi.sje"/>
+          <inflection form="joindrions" gracePOS="Vmcp1p-" prons="ʒwɛ̃.dʁi.jɔ̃"/>
+          <inflection form="joindrez" gracePOS="Vmif2p-" prons="ʒwɛ̃.dʁe"/>
+          <inflection form="joignions" gracePOS="Vmii1p-" prons="ʒwa.ɲjɔ̃"/>
+          <inflection form="joins" gracePOS="Vmip1s-" prons="ʒwɛ̃"/>
+          <inflection form="joignîmes" gracePOS="Vmis1p-" prons="ʒwa.ɲim"/>
+          <inflection form="joindrai" gracePOS="Vmif1s-" prons="ʒwɛ̃.dʁe"/>
+          <inflection form="jointe" gracePOS="Vmps-sf" prons=""/>
+          <inflection form="joignent" gracePOS="Vmsp3p-" prons="ʒwaɲ"/>
+          <inflection form="joignons" gracePOS="Vmip1p-" prons="ʒwa.ɲɔ̃"/>
+          <inflection form="joint" gracePOS="Vmps-sm" prons="ʒwɛ̃"/>
+          <inflection form="joignit" gracePOS="Vmis3s-" prons="ʒwa.ɲi"/>
+          <inflection form="joindrait" gracePOS="Vmcp3s-" prons="ʒwɛ̃.dʁɛ"/>
+          <inflection form="joignis" gracePOS="Vmis1s-" prons="ʒwa.ɲi"/>
+          <inflection form="joigniez" gracePOS="Vmsp2p-" prons="ʒwa.ɲje"/>
+          <inflection form="jointes" gracePOS="Vmps-pf" prons=""/>
+          <inflection form="joindrais" gracePOS="Vmcp1s-" prons="ʒwɛ̃.dʁɛ"/>
+          <inflection form="joints" gracePOS="Vmps-pm" prons=""/>
+          <inflection form="joignissions" gracePOS="Vmsi1p-" prons="ʒwa.ɲi.sjɔ̃"/>
+          <inflection form="joigniez" gracePOS="Vmii2p-" prons="ʒwa.ɲje"/>
+          <inflection form="joins" gracePOS="Vmmp2s-" prons="ʒwɛ̃"/>
+          <inflection form="joint" gracePOS="Vmip3s-" prons="ʒwɛ̃"/>
+          <inflection form="joignons" gracePOS="Vmmp1p-" prons="ʒwa.ɲɔ̃"/>
+          <inflection form="joindraient" gracePOS="Vmcp3p-" prons="ʒwɛ̃.dʁɛ"/>
+          <inflection form="joindrons" gracePOS="Vmif1p-" prons="ʒwɛ̃.dʁɔ̃"/>
+          <inflection form="joignait" gracePOS="Vmii3s-" prons="ʒwa.ɲɛ"/>
+          <inflection form="joignez" gracePOS="Vmmp2p-" prons="ʒwa.ɲe"/>
+          <inflection form="joignions" gracePOS="Vmsp1p-" prons="ʒwa.ɲjɔ̃"/>
+          <inflection form="joigne" gracePOS="Vmsp1s-" prons="ʒwaɲ"/>
+          <inflection form="joindriez" gracePOS="Vmcp2p-" prons="ʒwɛ̃.dʁi.je"/>
+          <inflection form="joignisses" gracePOS="Vmsi2s-" prons="ʒwa.ɲis"/>
+          <inflection form="joignez" gracePOS="Vmip2p-" prons="ʒwa.ɲe"/>
+          <inflection form="joignaient" gracePOS="Vmii3p-" prons="ʒwa.ɲɛ"/>
+          <inflection form="joignis" gracePOS="Vmis2s-" prons="ʒwa.ɲi"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="approcher">Approcher</innerLink> deux choses l'une contre l'autre, en sorte qu'elles se <innerLink ref="toucher">touchent</innerLink> ou qu'elles se <innerLink ref="tenir">tiennent</innerLink>.</xml>
+              <txt>Approcher deux choses l'une contre l'autre, en sorte qu'elles se touchent ou qu'elles se tiennent.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Joindre</b> deux planches avec de la colle forte, avec des chevilles.</i>
+              </xml>
+              <txt>Joindre deux planches avec de la colle forte, avec des chevilles.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Joindre</b> deux morceaux d'étoffe en les cousant ensemble.</i>
+              </xml>
+              <txt>Joindre deux morceaux d'étoffe en les cousant ensemble.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>L'endroit où une chose se <b>joint</b> à une autre, où deux choses se <b>joignent</b>.</i>
+              </xml>
+              <txt>L'endroit où une chose se joint à une autre, où deux choses se joignent.</txt>
+            </example>
+            <example>
+              <xml><i>Sauter à pieds <b>joints</b>.</i> Il est aussi intransitif dans cette acception :</xml>
+              <txt>Sauter à pieds joints. Il est aussi intransitif dans cette acception :</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Ces planches, cette porte, ces fenêtres ne <b>joignent</b> pas bien.</i>
+              </xml>
+              <txt>Ces planches, cette porte, ces fenêtres ne joignent pas bien.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Faites que cela <b>joigne</b> mieux.</i>
+              </xml>
+              <txt>Faites que cela joigne mieux.</txt>
+            </example>
+            <example>
+              <xml><i>Se <b>joindre</b></i> se dit des Personnes.</xml>
+              <txt>Se joindre se dit des Personnes.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Quand il a vu qu'il était égaré il est venu se <b>joindre</b> à nous.</i>
+              </xml>
+              <txt>Quand il a vu qu'il était égaré il est venu se joindre à nous.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il se <b>joignit</b> à l'équipe précédente.</i>
+              </xml>
+              <txt>Il se joignit à l'équipe précédente.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Nous n'avons pu nous <b>joindre</b> une seule fois.</i>
+              </xml>
+              <txt>Nous n'avons pu nous joindre une seule fois.</txt>
+            </example>
+            <example>
+              <xml><i><b>Joindre</b> les mains,</i> approcher les deux mains en sorte qu'elles se touchent en dedans.</xml>
+              <txt>Joindre les mains, approcher les deux mains en sorte qu'elles se touchent en dedans.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Joindre</b> les mains pour prier Dieu, pour demander pardon.</i>
+              </xml>
+              <txt>Joindre les mains pour prier Dieu, pour demander pardon.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Faire de deux choses un tout, en sorte que l'une soit le <innerLink ref="complément">complément</innerLink> de l'autre.</xml>
+              <txt>Faire de deux choses un tout, en sorte que l'une soit le complément de l'autre.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Pour donner , en effet, un digne apanage à son frère, Louis XI <b>joignit</b> au pays de Guyenne les judicatures du pays toulousain qui se trouvaient sur la rive gauche de la Garonne.</i>
+              </xml>
+              <txt>Pour donner , en effet, un digne apanage à son frère, Louis XI joignit au pays de Guyenne les judicatures du pays toulousain qui se trouvaient sur la rive gauche de la Garonne.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Joignez</b> cette maison à la vôtre.</i>
+              </xml>
+              <txt>Joignez cette maison à la vôtre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il a <b>joint</b> ces deux jardins.</i>
+              </xml>
+              <txt>Il a joint ces deux jardins.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Joindre</b> les intérêts au capital.</i>
+              </xml>
+              <txt>Joindre les intérêts au capital.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>On a <b>joint</b> à l'ouvrage une table analytique des matières.</i>
+              </xml>
+              <txt>On a joint à l'ouvrage une table analytique des matières.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>On est tenu de <b>joindre</b> à sa réclamation les pièces qui constatent, etc.</i>
+              </xml>
+              <txt>On est tenu de joindre à sa réclamation les pièces qui constatent, etc.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Je <b>joindrai</b> mon témoignage au sien.</i>
+              </xml>
+              <txt>Je joindrai mon témoignage au sien.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Joindre</b> le prénom au nom.</i>
+              </xml>
+              <txt>Joindre le prénom au nom.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Joignez à cela que… Cette rivière va se <b>joindre</b> à telle autre en tel endroit.</i>
+              </xml>
+              <txt>Joignez à cela que… Cette rivière va se joindre à telle autre en tel endroit.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>à ces premières difficultés vint se <b>joindre</b> une difficulté plus grave encore.</i>
+              </xml>
+              <txt>à ces premières difficultés vint se joindre une difficulté plus grave encore.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Ce corps d'armée est allé se <b>joindre</b> à tel autre.</i>
+              </xml>
+              <txt>Ce corps d'armée est allé se joindre à tel autre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="unir">Unir</innerLink>, <innerLink ref="allier">allier</innerLink>.</xml>
+              <txt>Unir, allier.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>La société enrichie la veille par des spéculations, honnêtes ou non, <b>joignait</b> à ses richesses des titres nobiliaires ; chacun s'improvisait comte, marquis ou baron.</i>
+              </xml>
+              <txt>La société enrichie la veille par des spéculations, honnêtes ou non, joignait à ses richesses des titres nobiliaires ; chacun s'improvisait comte, marquis ou baron.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Joindre</b> l'utile à l'agréable.</i>
+              </xml>
+              <txt>Joindre l'utile à l'agréable.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Joindre</b> l'autorité spirituelle avec la temporelle.</i>
+              </xml>
+              <txt>Joindre l'autorité spirituelle avec la temporelle.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Joindre</b> la prudence et la valeur, à la valeur, avec la valeur.</i>
+              </xml>
+              <txt>Joindre la prudence et la valeur, à la valeur, avec la valeur.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Ils sont <b>joints</b> ensemble pour leur intérêt commun.</i>
+              </xml>
+              <txt>Ils sont joints ensemble pour leur intérêt commun.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Ils résolurent de <b>joindre</b> leurs forces, de <b>joindre</b> leurs armes, etc.</i>
+              </xml>
+              <txt>Ils résolurent de joindre leurs forces, de joindre leurs armes, etc.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Joindre</b> ses prières à celles d'un autre.</i>
+              </xml>
+              <txt>Joindre ses prières à celles d'un autre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Ils <b>joignirent</b> leurs efforts.</i>
+              </xml>
+              <txt>Ils joignirent leurs efforts.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Ces deux familles se sont jointes par plusieurs alliances.</i>
+              </xml>
+              <txt>Ces deux familles se sont jointes par plusieurs alliances.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Quand il a vu qu'il était trop faible, il s'est <b>joint</b> à un tel, avec un tel.</i>
+              </xml>
+              <txt>Quand il a vu qu'il était trop faible, il s'est joint à un tel, avec un tel.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="atteindre">Atteindre</innerLink>.</xml>
+              <txt>Atteindre.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Quoiqu'il fût parti avant moi, je le <b>joignis</b> bientôt.</i>
+              </xml>
+              <txt>Quoiqu'il fût parti avant moi, je le joignis bientôt.</txt>
+            </example>
+            <example>
+              <xml><i><b>Joindre</b> quelqu'un</i> signifie aussi Se rencontrer avec lui, parvenir à le trouver et à lui parler.</xml>
+              <txt>Joindre quelqu'un signifie aussi Se rencontrer avec lui, parvenir à le trouver et à lui parler.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Si une fois je puis le <b>joindre</b>, je lui parlerai comme il faut.</i>
+              </xml>
+              <txt>Si une fois je puis le joindre, je lui parlerai comme il faut.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="synonym">connecter</item>
+        </subsection>
+        <subsection type="morpho">
+          <item type="derivative">à mains jointes</item>
+          <item type="derivative">à pieds joints</item>
+          <item type="derivative">adjoindre</item>
+          <item type="derivative">adjoint</item>
+          <item type="derivative">ci-joint</item>
+          <item type="derivative">conjoindre</item>
+          <item type="derivative">conjoint</item>
+          <item type="derivative">conjonction</item>
+          <item type="derivative">conjoncture</item>
+          <item type="derivative">disjoindre</item>
+          <item type="derivative">disjoint</item>
+          <item type="derivative">enjoindre</item>
+          <item type="derivative">injoignable</item>
+          <item type="derivative">joignable</item>
+          <item type="derivative">joindre les deux bouts</item>
+          <item type="derivative">joint</item>
+          <item type="derivative">joint que</item>
+          <item type="derivative">jointement</item>
+          <item type="derivative">jointer</item>
+          <item type="derivative">jointure</item>
+          <item type="derivative">jointurer</item>
+          <item type="derivative">rejoindre</item>
+        </subsection>
+        <translations>
+          <trans lang="af">verbind</trans>
+          <trans lang="af">aaneenbind</trans>
+          <trans lang="af">bymekaarbring</trans>
+          <trans lang="af">aaneenvoeg</trans>
+          <trans lang="af">verstel</trans>
+          <trans lang="af">byvoeg</trans>
+          <trans lang="af">toevoeg</trans>
+          <trans lang="de">verbinden</trans>
+          <trans lang="de">verknüpfen</trans>
+          <trans lang="de">fügen</trans>
+          <trans lang="de">gesellen</trans>
+          <trans lang="de">vereinigen</trans>
+          <trans lang="de">addieren</trans>
+          <trans lang="de">beifügen</trans>
+          <trans lang="de">zufügen</trans>
+          <trans lang="de">hinzutun</trans>
+          <trans lang="de">zugeben</trans>
+          <trans lang="de">anfügen</trans>
+          <trans lang="de">hinzufügen</trans>
+          <trans lang="de">beilegen</trans>
+          <trans lang="de">ergänzen</trans>
+          <trans lang="de">hinzusetzen</trans>
+          <trans lang="en">join</trans>
+          <trans lang="en">attach</trans>
+          <trans lang="en">assemble</trans>
+          <trans lang="en">link</trans>
+          <trans lang="en">link up</trans>
+          <trans lang="en">put together</trans>
+          <trans lang="en">build</trans>
+          <trans lang="en">compose</trans>
+          <trans lang="en">construct</trans>
+          <trans lang="en">draught</trans>
+          <trans lang="en">combine</trans>
+          <trans lang="en">connect</trans>
+          <trans lang="en">unite</trans>
+          <trans lang="en">add</trans>
+          <trans lang="en">append</trans>
+          <trans lang="ca">ajuntar</trans>
+          <trans lang="ca">afegir</trans>
+          <trans lang="da">tilføje</trans>
+          <trans lang="es">juntar</trans>
+          <trans lang="es">ayuntar</trans>
+          <trans lang="es">reunirse</trans>
+          <trans lang="eo">sinsekvigi</trans>
+          <trans lang="eo">kunmeti</trans>
+          <trans lang="eo">kunligi</trans>
+          <trans lang="eo">kunigi</trans>
+          <trans lang="eo">alĝustigi</trans>
+          <trans lang="eo">aldoni</trans>
+          <trans lang="fo">seta saman</trans>
+          <trans lang="fo">binda saman</trans>
+          <trans lang="fo">knýta saman</trans>
+          <trans lang="fo">leggja afturat</trans>
+          <trans lang="fi">lisätä</trans>
+          <trans lang="fy">ferbine</trans>
+          <trans lang="fy">gearbine</trans>
+          <trans lang="fy">bydwaan</trans>
+          <trans lang="hu">összetesz</trans>
+          <trans lang="hu">hozzáad</trans>
+          <trans lang="io">juntar</trans>
+          <trans lang="is">bæta við</trans>
+          <trans lang="it">congiungere</trans>
+          <trans lang="it">aggiungere</trans>
+          <trans lang="it">giuntare</trans>
+          <trans lang="la">copulare</trans>
+          <trans lang="la">accensere</trans>
+          <trans lang="la">accommodare</trans>
+          <trans lang="nl">aaneenschakelen</trans>
+          <trans lang="nl">bijeenvoegen</trans>
+          <trans lang="nl">ineenzetten</trans>
+          <trans lang="nl">samenstellen</trans>
+          <trans lang="nl">bijeenbinden</trans>
+          <trans lang="nl">samenbinden</trans>
+          <trans lang="nl">verbinden</trans>
+          <trans lang="nl">aaneenvoegen</trans>
+          <trans lang="nl">bijeenbrengen</trans>
+          <trans lang="nl">samenbrengen</trans>
+          <trans lang="nl">verenigen</trans>
+          <trans lang="nl">afstellen</trans>
+          <trans lang="nl">passend maken</trans>
+          <trans lang="nl">verstellen</trans>
+          <trans lang="nl">instellen</trans>
+          <trans lang="nl">bijdoen</trans>
+          <trans lang="nl">bijmengen</trans>
+          <trans lang="nl">bijvoegen</trans>
+          <trans lang="nl">toegeven</trans>
+          <trans lang="nl">toevoegen</trans>
+          <trans lang="oc">jónher</trans>
+          <trans lang="oc">júnher</trans>
+          <trans lang="pap">kombiná</trans>
+          <trans lang="pap">agregá</trans>
+          <trans lang="pap">añadí</trans>
+          <trans lang="pcd">ablouquer</trans>
+          <trans lang="pl">związać</trans>
+          <trans lang="pl">połączyć</trans>
+          <trans lang="pt">compor</trans>
+          <trans lang="pt">unir</trans>
+          <trans lang="pt">reunir</trans>
+          <trans lang="pt">adaptar</trans>
+          <trans lang="pt">ajustar</trans>
+          <trans lang="pt">acrescentar</trans>
+          <trans lang="pt">adicionar</trans>
+          <trans lang="pt">ajuntar</trans>
+          <trans lang="ro">adăuga</trans>
+          <trans lang="ru">присоединиться</trans>
+          <trans lang="se">ovttastahttit</trans>
+          <trans lang="sv">ansluta</trans>
+          <trans lang="sv">bifoga</trans>
+          <trans lang="cs">spojit</trans>
+          <trans lang="cs">přepnout</trans>
+          <trans lang="wa">djonde</trans>
+          <trans lang="wa">atôtchî</trans>
+        </translations>
+      </pos>
+    </text>
+  </article>

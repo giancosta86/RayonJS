@@ -1,0 +1,332 @@
+  <article>
+    <title>contre</title>
+    <pageId>12320</pageId>
+    <meta>
+      <reference>DAF8</reference>
+    </meta>
+    <text>
+      <etymology>
+        <etym>
+          <xml>du latin <foreignWord lang="la" sense="en face de">contra</foreignWord>.</xml>
+          <txt>du latin contra  (en face de).</txt>
+        </etym>
+      </etymology>
+      <pos type="préposition" lemma="1" locution="0">
+        <pronunciations>
+          <pron>kɔ̃tʁ</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>En <innerLink ref="opposition">opposition</innerLink> à ; en <innerLink ref="rencontre">rencontre</innerLink> ; dans un <innerLink ref="choc">choc</innerLink>, etc.</xml>
+              <txt>En opposition à ; en rencontre ; dans un choc, etc.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Mettez-vous en garde <b>contre</b> ces belles promesses, elles cachent souvent la plus infame des tromperies.</i>
+              </xml>
+              <txt>Mettez-vous en garde contre ces belles promesses, elles cachent souvent la plus infame des tromperies.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Marcher <b>contre</b> l'ennemi. - Ils combattirent l'un <b>contre</b> l'autre.</i>
+              </xml>
+              <txt>Marcher contre l'ennemi. - Ils combattirent l'un contre l'autre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Donner de la tête <b>contre</b> la muraille.</i>
+              </xml>
+              <txt>Donner de la tête contre la muraille.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Plaider <b>contre</b> quelqu'un.</i>
+              </xml>
+              <txt>Plaider contre quelqu'un.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="malgré">Malgré</innerLink>, sans avoir <innerLink ref="égard">égard</innerLink> à ; <innerLink ref="en dépit de">en dépit de</innerLink>.</xml>
+              <txt>Malgré, sans avoir égard à ; en dépit de.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Il a fait cela <b>contre</b> mon sentiment, <b>contre</b> l'avis, <b>contre</b> la volonté de tous ses parents, <b>contre</b> les défenses qu'on lui en avait faites.</i>
+              </xml>
+              <txt>Il a fait cela contre mon sentiment, contre l'avis, contre la volonté de tous ses parents, contre les défenses qu'on lui en avait faites.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="auprès de">Auprès de</innerLink>, <innerLink ref="proche de">proche de</innerLink>, <innerLink ref="à côté de">à côté de</innerLink>.</xml>
+              <txt>Auprès de, proche de, à côté de.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Sa maison est <b>contre</b> la mienne.</i>
+              </xml>
+              <txt>Sa maison est contre la mienne.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>J'étais assis <b>contre</b> le mur.</i>
+              </xml>
+              <txt>J'étais assis contre le mur.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Ce champ est <b>contre</b> le bois.</i>
+              </xml>
+              <txt>Ce champ est contre le bois.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>À <innerLink ref="comparer">comparer</innerLink> avec. Note : s'emploie uniquement pour établir un contraste entre des chiffres.</xml>
+              <txt>À comparer avec. Note : s'emploie uniquement pour établir un contraste entre des chiffres.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>La part des femmes employées dans ce secteur a atteint 44 % en 2011, <b>contre</b> 41 % l'année précédente.</i>
+              </xml>
+              <txt>La part des femmes employées dans ce secteur a atteint 44 % en 2011, contre 41 % l'année précédente.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="synonym">auprès</item>
+          <item type="synonym">avec</item>
+          <item type="synonym">près</item>
+          <item type="synonym">sur</item>
+          <item type="synonym">opposé</item>
+          <item type="synonym">malgré</item>
+          <item type="synonym">nonobstant</item>
+          <item type="antonym">loin</item>
+          <item type="antonym">pour</item>
+          <item type="antonym">avec</item>
+          <item type="antonym">conformément</item>
+          <item type="antonym">selon</item>
+        </subsection>
+        <subsection type="morpho">
+          <item type="derivative">à-contre</item>
+          <item type="derivative">basse-contre</item>
+          <item type="derivative">ci-contre</item>
+          <item type="derivative">contraceptif</item>
+          <item type="derivative">contraception</item>
+          <item type="derivative">contradicteur</item>
+          <item type="derivative">contradiction</item>
+          <item type="derivative">contradictoire</item>
+          <item type="derivative">contradictoirement</item>
+          <item type="derivative">contraire</item>
+          <item type="derivative">contrairement</item>
+          <item type="derivative">contralte</item>
+          <item type="derivative">contraltiste</item>
+          <item type="derivative">contralto</item>
+          <item type="derivative">contrapointiste</item>
+          <item type="derivative">contrapontiste</item>
+          <item type="derivative">contrapuntiste</item>
+          <item type="derivative">contraposition</item>
+          <item type="derivative">contrapuntique</item>
+          <item type="derivative">contrariant</item>
+          <item type="derivative">contrarier</item>
+          <item type="derivative">contrariété</item>
+          <item type="derivative">contrarotatif</item>
+          <item type="derivative">contrastant</item>
+          <item type="derivative">contraste</item>
+          <item type="derivative">contraster</item>
+          <item type="derivative">contravention</item>
+          <item type="derivative">contraventionnel</item>
+          <item type="derivative">contravis</item>
+          <item type="derivative">contre-</item>
+          <item type="derivative">contrer</item>
+          <item type="derivative">controlatéral</item>
+          <item type="derivative">contrordre</item>
+          <item type="derivative">contro-stimulant</item>
+          <item type="derivative">controversable</item>
+          <item type="derivative">controverse</item>
+          <item type="derivative">controversé</item>
+          <item type="derivative">controverser</item>
+          <item type="derivative">controversiste</item>
+          <item type="derivative">demi-contre</item>
+          <item type="derivative">encontre</item>
+          <item type="derivative">envers et contre tout</item>
+          <item type="derivative">haute-contre</item>
+          <item type="derivative">incontradiction</item>
+          <item type="derivative">incontroversable</item>
+          <item type="derivative">incontroversé</item>
+          <item type="derivative">malencontre</item>
+          <item type="derivative">malencontreusement</item>
+          <item type="derivative">malencontreux</item>
+          <item type="derivative">non-contradiction</item>
+          <item type="derivative">par-contre</item>
+          <item type="derivative">recontrer</item>
+          <item type="derivative">rencontrer</item>
+          <item type="derivative">rencontreur</item>
+          <item type="derivative">sous-contraire</item>
+          <item type="derivative">subcontraire</item>
+          <item type="derivative">surcontrer</item>
+        </subsection>
+        <subsection type="phrases">
+          <item>contre toute attente</item>
+          <item>contre vents et marées</item>
+          <item>élever autel contre autel</item>
+          <item>le pot de terre contre le pot de fer</item>
+          <item>parler pour et contre</item>
+        </subsection>
+        <translations>
+          <trans lang="de">gegen</trans>
+          <trans lang="en">against</trans>
+          <trans lang="en">despite</trans>
+          <trans lang="en">versus</trans>
+          <trans lang="ca">contra</trans>
+          <trans lang="ca">en contra</trans>
+          <trans lang="ca">en contra de</trans>
+          <trans lang="es">contra</trans>
+          <trans lang="es">en contra</trans>
+          <trans lang="es">en contra de</trans>
+          <trans lang="eo">kontraŭ</trans>
+          <trans lang="mt">kontra</trans>
+          <trans lang="nl">tegen</trans>
+          <trans lang="oc">contra</trans>
+          <trans lang="ro">împotriva</trans>
+          <trans lang="se">vuostá</trans>
+          <trans lang="tsolyáni">sel-</trans>
+          <trans lang="tsolyáni">ngis-</trans>
+        </translations>
+      </pos>
+      <pos type="adverbe" lemma="1" locution="0">
+        <pronunciations>
+          <pron>kɔ̃tʁ</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>D'une façon proche ; en le touchant.</xml>
+              <txt>D'une façon proche ; en le touchant.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>J'étais appuyé tout <b>contre</b>.</i>
+              </xml>
+              <txt>J'étais appuyé tout contre.</txt>
+            </example>
+          </definition>
+        </definitions>
+      </pos>
+      <pos type="nom" lemma="1" locution="0" gender="m" number="s">
+        <pronunciations>
+          <pron>kɔ̃tʁ</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="contre" gracePOS="Ncms" prons="kɔ̃tʁ"/>
+          <inflection form="contres" gracePOS="Ncmp" prons="kɔ̃tʁ"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="gram" value="au singulier"/>
+              </labels>
+              <xml>Ensemble des <innerLink ref="raison">raison</innerLink>s, des <innerLink ref="fait">fait</innerLink>s, des <innerLink ref="circonstance">circonstance</innerLink>s <innerLink ref="défavorable">défavorable</innerLink>s en quelque <innerLink ref="affaire">affaire</innerLink>.</xml>
+              <txt>Ensemble des raisons, des faits, des circonstances défavorables en quelque affaire.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>On parle diversement de cette affaire, il faut savoir le pour et le <b>contre</b>.</i>
+              </xml>
+              <txt>On parle diversement de cette affaire, il faut savoir le pour et le contre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>La chose n'est pas sans difficulté, il y a du pour et du <b>contre</b>.</i>
+              </xml>
+              <txt>La chose n'est pas sans difficulté, il y a du pour et du contre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Soutenir le pour et le <b>contre</b>.</i>
+              </xml>
+              <txt>Soutenir le pour et le contre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="domain" value="billard"/>
+              </labels>
+              <xml>retour d'une bille, que l'on avait touchée, vers le joueur, après avoir frappé la bande.</xml>
+              <txt>retour d'une bille, que l'on avait touchée, vers le joueur, après avoir frappé la bande.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="domain" value="escrime"/>
+              </labels>
+              <xml><innerLink ref="changement">Changement</innerLink> de ligne en joignant l'épée par les battements, froissement en opposition sur l'attaque de l'adversaire.</xml>
+              <txt>Changement de ligne en joignant l'épée par les battements, froissement en opposition sur l'attaque de l'adversaire.</txt>
+            </gloss>
+          </definition>
+        </definitions>
+        <translations>
+          <trans lang="de">Konter</trans>
+        </translations>
+      </pos>
+      <pos type="verbe" lemma="0" locution="0">
+        <pronunciations>
+          <pron>kɔ̃tʁ</pron>
+        </pronunciations>
+        <inflectionInfos>
+          <inflectedForm gracePOS="Vmip1s-" lemma="contrer"/>
+          <inflectedForm gracePOS="Vmip3s-" lemma="contrer"/>
+          <inflectedForm gracePOS="Vmsp1s-" lemma="contrer"/>
+          <inflectedForm gracePOS="Vmsp3s-" lemma="contrer"/>
+          <inflectedForm gracePOS="Vmmp2s-" lemma="contrer"/>
+        </inflectionInfos>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><i>Première personne du singulier de l'indicatif présent de</i><innerLink ref="contrer">contrer</innerLink>.</xml>
+              <txt>Première personne du singulier de l'indicatif présent de contrer.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>Troisième personne du singulier de l'indicatif présent de</i><innerLink ref="contrer">contrer</innerLink>.</xml>
+              <txt>Troisième personne du singulier de l'indicatif présent de contrer.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>Première personne du singulier du subjonctif présent de</i><innerLink ref="contrer">contrer</innerLink>.</xml>
+              <txt>Première personne du singulier du subjonctif présent de contrer.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>Troisième personne du singulier du subjonctif présent de</i><innerLink ref="contrer">contrer</innerLink>.</xml>
+              <txt>Troisième personne du singulier du subjonctif présent de contrer.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>Deuxième personne du singulier de l'impératif présent de</i><innerLink ref="contrer">contrer</innerLink>.</xml>
+              <txt>Deuxième personne du singulier de l'impératif présent de contrer.</txt>
+            </gloss>
+          </definition>
+        </definitions>
+      </pos>
+      <section type="homophones">
+        <item>contrent</item>
+        <item>contres</item>
+      </section>
+      <section type="anagrammes">
+        <item>conter</item>
+        <item>cornet</item>
+        <item>ocrent</item>
+        <item>roncet</item>
+      </section>
+    </text>
+  </article>

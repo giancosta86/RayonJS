@@ -1,0 +1,277 @@
+<article>
+  <title>aussi</title>
+  <pageId>5160</pageId>
+  <meta>
+    <import>DAF8</import>
+  </meta>
+  <text>
+    <pronunciations>
+      <pron>o.si</pron>
+      <pron area="France">o.si</pron>
+    </pronunciations>
+    <etymology>
+      <etym>
+        <xml>du latin <foreignWord lang="la">alius</foreignWord> et <i><innerLink ref="si#la">si</innerLink></i>. on note en ancien français les graphies <i><innerLink ref="alsi">alsi</innerLink></i>, <i><innerLink ref="ausi">ausi</innerLink></i> mais également <i><innerLink ref="aussi#fro">aussi</innerLink></i>.</xml>
+        <txt>du latin alius  et si. on note en ancien français les graphies alsi, ausi mais également aussi.</txt>
+      </etym>
+    </etymology>
+    <pos type="adverbe" lemma="1" locution="0">
+      <pronunciations>
+        <pron>o.si</pron>
+      </pronunciations>
+      <definitions>
+        <definition>
+          <gloss>
+            <xml><innerLink ref="autant">Autant</innerLink>. -</xml>
+            <txt>Autant. -</txt>
+          </gloss>
+          <example>
+            <xml><i>Supputer ce qui eût été accompli, avec une volonté différente, est une spéculation <b>aussi</b> vaine que magnifique.</i> }}</xml>
+            <txt>Supputer ce qui eût été accompli, avec une volonté différente, est une spéculation aussi vaine que magnifique. }}</txt>
+          </example>
+          <example>
+            <xml>
+              <i>Elle est <b>aussi</b> belle que sa mère.</i>
+            </xml>
+            <txt>Elle est aussi belle que sa mère.</txt>
+          </example>
+          <example>
+            <xml>
+              <i>Il n'est plus <b>aussi</b> beau qu'autrefois.</i>
+            </xml>
+            <txt>Il n'est plus aussi beau qu'autrefois.</txt>
+          </example>
+          <example>
+            <xml>
+              <i>Vous savez cela <b>aussi</b> bien que moi.</i>
+            </xml>
+            <txt>Vous savez cela aussi bien que moi.</txt>
+          </example>
+          <example>
+            <xml>
+              <i>Elle danse <b>aussi</b> bien qu'elle chante.</i>
+            </xml>
+            <txt>Elle danse aussi bien qu'elle chante.</txt>
+          </example>
+          <example>
+            <xml>
+              <i>Ce livre est estimable, mais il y en a d'<b>aussi</b> bons.</i>
+            </xml>
+            <txt>Ce livre est estimable, mais il y en a d'aussi bons.</txt>
+          </example>
+          <example>
+            <xml>
+              <i>Il est <b>aussi</b> affable que son frère est bourru.</i>
+            </xml>
+            <txt>Il est aussi affable que son frère est bourru.</txt>
+          </example>
+        </definition>
+        <definition>
+          <gloss>
+            <xml><innerLink ref="également">Également</innerLink> ; <innerLink ref="de même">de même</innerLink>.</xml>
+            <txt>Également ; de même.</txt>
+          </gloss>
+          <example>
+            <xml>
+              <i>Vous le voulez, et moi <b>aussi</b>.</i>
+            </xml>
+            <txt>Vous le voulez, et moi aussi.</txt>
+          </example>
+        </definition>
+        <definition>
+          <gloss>
+            <xml><innerLink ref="de plus">De plus</innerLink> ; <innerLink ref="encore">encore</innerLink>.</xml>
+            <txt>De plus ; encore.</txt>
+          </gloss>
+          <example>
+            <xml>
+              <i>Dites- lui <b>aussi</b> bonjour de ma part.</i>
+            </xml>
+            <txt>Dites- lui aussi bonjour de ma part.</txt>
+          </example>
+        </definition>
+        <definition>
+          <gloss>
+            <xml>C'est <innerLink ref="pourquoi">pourquoi</innerLink> ; <innerLink ref="à cause de">à cause de</innerLink> <innerLink ref="cela">cela</innerLink>.</xml>
+            <txt>C'est pourquoi ; à cause de cela.</txt>
+          </gloss>
+          <example>
+            <xml>
+              <i>Quinze sous par jour, pour cinq personnes, il n'y a pas de quoi faire gras, je vous assure… <b>Aussi</b> nous ne mangions pas tous les jours parce qu'il fallait d'abord que le père malade ne manquât de rien.</i>
+            </xml>
+            <txt>Quinze sous par jour, pour cinq personnes, il n'y a pas de quoi faire gras, je vous assure… Aussi nous ne mangions pas tous les jours parce qu'il fallait d'abord que le père malade ne manquât de rien.</txt>
+          </example>
+          <example>
+            <xml>
+              <i>Le général était podagre depuis longtemps et ne pouvait se déplacer qu'avec d'extrêmes difficultés ; <b>aussi</b> se faisait-il porter par ses soldats.</i>
+            </xml>
+            <txt>Le général était podagre depuis longtemps et ne pouvait se déplacer qu'avec d'extrêmes difficultés ; aussi se faisait-il porter par ses soldats.</txt>
+          </example>
+        </definition>
+        <definition>
+          <example>
+            <xml>
+              <i><b>Aussi</b>, dès les âges les plus reculés, le pays a-t-il été habité.</i>
+            </xml>
+            <txt>Aussi, dès les âges les plus reculés, le pays a-t-il été habité.</txt>
+          </example>
+        </definition>
+      </definitions>
+      <subsection type="semRel">
+        <item type="synonym">autant</item>
+        <item type="synonym">de même</item>
+        <item type="synonym">en plus</item>
+        <item type="synonym">également</item>
+        <item type="synonym">pareillement</item>
+        <item type="antonym">non plus</item>
+        <item type="antonym">pas</item>
+        <item type="antonym">sauf</item>
+      </subsection>
+      <subsection type="phrases">
+        <item>aussi bien</item>
+      </subsection>
+      <translations>
+        <trans lang="de">so</trans>
+        <trans lang="en">as</trans>
+        <trans lang="ca">tan</trans>
+        <trans lang="es">tan</trans>
+        <trans lang="eo">tiel</trans>
+        <trans lang="it">tanto</trans>
+        <trans lang="ln">lokóla</trans>
+        <trans lang="nl">even</trans>
+        <trans lang="fra-nor">itou</trans>
+        <trans lang="oc">autan</trans>
+        <trans lang="pl">tak</trans>
+        <trans lang="se">seamma</trans>
+        <trans lang="zdj">sawa</trans>
+        <trans lang="sv">lika</trans>
+        <trans lang="sv">likaså</trans>
+        <trans lang="wa">ossu</trans>
+        <trans lang="wo">itam</trans>
+        <trans lang="de">auch</trans>
+        <trans lang="en">also</trans>
+        <trans lang="ar">أيضا</trans>
+        <trans lang="arz">كمان</trans>
+        <trans lang="bar">aa</trans>
+        <trans lang="br">ivez</trans>
+        <trans lang="ca">també</trans>
+        <trans lang="es">también</trans>
+        <trans lang="es">asimismo</trans>
+        <trans lang="gd">cuideachd</trans>
+        <trans lang="iu">-ᑦᑕᐅᖅ</trans>
+        <trans lang="it">anche</trans>
+        <trans lang="it">pure</trans>
+        <trans lang="koy">koonh</trans>
+        <trans lang="lv">ari</trans>
+        <trans lang="ln">lokóla</trans>
+        <trans lang="swb">wajau</trans>
+        <trans lang="swb">tsena</trans>
+        <trans lang="nl">ook</trans>
+        <trans lang="fra-nor">itou</trans>
+        <trans lang="oc">tanben</trans>
+        <trans lang="pl">także</trans>
+        <trans lang="pl">też</trans>
+        <trans lang="pl">również</trans>
+        <trans lang="se">maiddái</trans>
+        <trans lang="sc">ànchi</trans>
+        <trans lang="zdj">wadjau</trans>
+        <trans lang="zdj">tsena</trans>
+        <trans lang="sv">också</trans>
+        <trans lang="sv">även</trans>
+        <trans lang="uk">також</trans>
+        <trans lang="wa">ossu</trans>
+        <trans lang="wa">eto</trans>
+        <trans lang="de">auch</trans>
+        <trans lang="en">also</trans>
+        <trans lang="bar">aa</trans>
+        <trans lang="br">ivez</trans>
+        <trans lang="ca">també</trans>
+        <trans lang="ca">a més</trans>
+        <trans lang="es">también</trans>
+        <trans lang="es">además</trans>
+        <trans lang="eo">ankaŭ</trans>
+        <trans lang="gd">cuideachd</trans>
+        <trans lang="swb">na</trans>
+        <trans lang="nl">ook</trans>
+        <trans lang="oc">tanben</trans>
+        <trans lang="pl">jeszcze</trans>
+        <trans lang="sc">ancòra</trans>
+        <trans lang="zdj">na</trans>
+        <trans lang="uk">ще</trans>
+        <trans lang="af">daarom</trans>
+        <trans lang="de">darum</trans>
+        <trans lang="en">therefore</trans>
+        <trans lang="es">por este motivo</trans>
+        <trans lang="es">es por ésto</trans>
+        <trans lang="swb">ha izo</trans>
+        <trans lang="nl">daarom</trans>
+        <trans lang="nl">bijgevolg</trans>
+        <trans lang="pl">dlatego</trans>
+        <trans lang="pl">przeto</trans>
+        <trans lang="pl">więc</trans>
+        <trans lang="sv">också</trans>
+        <trans lang="sv">följaktligen</trans>
+        <trans lang="wa">ossu</trans>
+        <trans lang="wa">eto</trans>
+        <trans lang="mt">ukoll</trans>
+        <trans lang="pcd">auchi</trans>
+      </translations>
+    </pos>
+    <pos type="conjonction" lemma="1" locution="0">
+      <pronunciations>
+        <pron>o.si</pron>
+      </pronunciations>
+      <definitions>
+        <definition>
+          <gloss>
+            <xml><innerLink ref="marquer">Marque</innerLink> la <innerLink ref="conformité">conformité</innerLink>, le <innerLink ref="rapport">rapport</innerLink> logique d'une <innerLink ref="proposition">proposition</innerLink> avec celle qui <innerLink ref="précéder">précède</innerLink>.</xml>
+            <txt>Marque la conformité, le rapport logique d'une proposition avec celle qui précède.</txt>
+          </gloss>
+          <example>
+            <xml>
+              <i>Il aime les sucreries. <b>Aussi</b> aime-t-il les caramels.</i>
+            </xml>
+            <txt>Il aime les sucreries. Aussi aime-t-il les caramels.</txt>
+          </example>
+          <example>
+            <xml>
+              <i>Il a été volé la nuit ; mais <b>aussi</b> pourquoi n'y avait-t-il personne pour garder cet entrepôt ?</i>
+            </xml>
+            <txt>Il a été volé la nuit ; mais aussi pourquoi n'y avait-t-il personne pour garder cet entrepôt ?</txt>
+          </example>
+        </definition>
+      </definitions>
+      <subsection type="semRel">
+        <item type="synonym">ainsi</item>
+      </subsection>
+      <translations>
+        <trans lang="de">auch</trans>
+        <trans lang="en">too</trans>
+        <trans lang="bm">fana</trans>
+        <trans lang="bm">fɛnɛ</trans>
+        <trans lang="ca">així</trans>
+        <trans lang="es">así</trans>
+        <trans lang="hu">is</trans>
+        <trans lang="io">tam</trans>
+        <trans lang="io">anke</trans>
+        <trans lang="io">tante</trans>
+        <trans lang="id">juga</trans>
+        <trans lang="it">anche</trans>
+        <trans lang="rw">nawe</trans>
+        <trans lang="la">quoque</trans>
+        <trans lang="mn">бас</trans>
+        <trans lang="nl">ook</trans>
+        <trans lang="oc">tanben</trans>
+        <trans lang="pl">też</trans>
+        <trans lang="pl">także</trans>
+        <trans lang="pl">również</trans>
+        <trans lang="pt">também</trans>
+        <trans lang="cs">také</trans>
+      </translations>
+    </pos>
+    <section type="anagrammes">
+      <item>suais</item>
+      <item>usais</item>
+    </section>
+  </text>
+</article>

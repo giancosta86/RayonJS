@@ -1,0 +1,204 @@
+  <article>
+    <title>roux</title>
+    <pageId>8468</pageId>
+    <meta>
+      <category>Couleurs en français</category>
+      <import>DAF8</import>
+    </meta>
+    <text>
+      <pronunciations>
+        <pron area="France Paris">ʁu</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml>du latin <foreignWord lang="la"/> <i><innerLink ref="russus">rŭssus</innerLink></i> (« <innerLink ref="rouge">rouge</innerLink>, roux »). <century>xii</century> <i><innerLink ref="ros">ros</innerLink>, <innerLink ref="rus">rus</innerLink></i>.</xml>
+          <txt>du latin   rŭssus (« rouge, roux »). (xiie siècle) ros, rus.</txt>
+        </etym>
+      </etymology>
+      <pos type="adjectif" lemma="1" locution="0" gender="m" number="s">
+        <pronunciations>
+          <pron>ʁu</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="roux" gracePOS="Afpms" prons="ʁu"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>D'une couleur proche de l'<innerLink ref="orange">orange</innerLink>, souvent en parlant des cheveux.</xml>
+              <txt>D'une couleur proche de l'orange, souvent en parlant des cheveux.</txt>
+            </gloss>
+            <example>
+              <xml><i>Sous son chapeau, à bords retroussés, apparaissaient, riches et crépus, des cheveux plutôt <b>roux</b> que blonds […]</i> }}</xml>
+              <txt>Sous son chapeau, à bords retroussés, apparaissaient, riches et crépus, des cheveux plutôt roux que blonds […] }}</txt>
+            </example>
+            <example>
+              <xml>
+                <i>On distingue sept teintes naturelles de cheveux, réparties, en France, selon les proportions suivantes : 50 % de cheveux châtains, 20 % de cheveux gris, 10 % de cheveux blonds et noirs, 5% de cheveux <b>roux</b> et 2,5% de cheveux bruns et blancs.</i>
+              </xml>
+              <txt>On distingue sept teintes naturelles de cheveux, réparties, en France, selon les proportions suivantes : 50 % de cheveux châtains, 20 % de cheveux gris, 10 % de cheveux blonds et noirs, 5% de cheveux roux et 2,5% de cheveux bruns et blancs.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui a les <innerLink ref="cheveu">cheveu</innerLink>x roux.</xml>
+              <txt>Qui a les cheveux roux.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Un homme <b>roux</b>, une femme <b>rousse</b>.</i>
+              </xml>
+              <txt>Un homme roux, une femme rousse.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>C'est une couleur nette, au moins : je suis content d'être <b>roux</b>. […] J'ai encore de la chance : si mon front portait une de ces chevelures ternes qui n'arrivent pas à se décider entre le châtain et le blond, ma figure se perdrait dans le vague, elle me donnerait le vertige.</i>
+              </xml>
+              <txt>C'est une couleur nette, au moins : je suis content d'être roux. […] J'ai encore de la chance : si mon front portait une de ces chevelures ternes qui n'arrivent pas à se décider entre le châtain et le blond, ma figure se perdrait dans le vague, elle me donnerait le vertige.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Fondu et <innerLink ref="cuire">cuit</innerLink> jusqu'à obtenir une couleur rousse en cuisine.</xml>
+              <txt>Fondu et cuit jusqu'à obtenir une couleur rousse en cuisine.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Beurre <b>roux</b>.</i>
+              </xml>
+              <txt>Beurre roux.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="near-synonym">auburn</item>
+          <item type="near-synonym">blond vénitien</item>
+          <item type="near-synonym">rougeâtre</item>
+        </subsection>
+        <subsection type="morpho">
+          <item type="derivative">lune rousse</item>
+          <item type="derivative">rouquin</item>
+          <item type="derivative">rouquine</item>
+          <item type="derivative">roussette</item>
+          <item type="derivative">rousse</item>
+          <item type="derivative">rousseur</item>
+          <item type="derivative">roussir</item>
+          <item type="derivative">roussi</item>
+          <item type="derivative">sauce rouilleuse</item>
+          <item type="derivative">vent roux</item>
+        </subsection>
+        <subsection type="relatedVocabulary">
+          <item>blond</item>
+          <item>brun</item>
+          <item>châtain</item>
+          <item>noir</item>
+        </subsection>
+        <translations>
+          <trans lang="en">russet</trans>
+          <trans lang="ca">rogenc</trans>
+          <trans lang="ca">vermellós</trans>
+          <trans lang="ca">vermellenc</trans>
+          <trans lang="co">russicciu</trans>
+          <trans lang="es">rojizo</trans>
+          <trans lang="eo">rufa</trans>
+          <trans lang="el">κοκκινομάλλης</trans>
+          <trans lang="cs">zrzavý</trans>
+          <trans lang="de">rothaarig</trans>
+          <trans lang="en">red</trans>
+          <trans lang="en">redheaded</trans>
+          <trans lang="en">ginger</trans>
+          <trans lang="en">red-haired</trans>
+          <trans lang="ca">pèl-roig</trans>
+          <trans lang="co">russinu</trans>
+          <trans lang="co">capirossu</trans>
+          <trans lang="es">pelirrojo</trans>
+          <trans lang="id">pirang</trans>
+          <trans lang="aii">kəƶƶə</trans>
+          <trans lang="sv">rödhårig</trans>
+          <trans lang="cs">zrzavý</trans>
+          <trans lang="pt">ruivo</trans>
+        </translations>
+      </pos>
+      <pos type="nom" lemma="1" locution="0" homoNb="1" gender="m" number="s">
+        <pronunciations>
+          <pron>ʁu</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="roux" gracePOS="Ncms" prons="ʁu"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Couleur rousse.</xml>
+              <txt>Couleur rousse.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Il est d'un <b>roux</b> ardent, d'un vilain <b>roux</b>, d'un <b>roux</b> désagréable.</i>
+              </xml>
+              <txt>Il est d'un roux ardent, d'un vilain roux, d'un roux désagréable.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="domain" value="cuisine"/>
+              </labels>
+              <xml>Préparation obtenue en faisant fondre du <innerLink ref="beurre">beurre</innerLink> avec de la <innerLink ref="farine">farine</innerLink>, et en ajoutant un peu de liquide.</xml>
+              <txt>Préparation obtenue en faisant fondre du beurre avec de la farine, et en ajoutant un peu de liquide.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Faire un <b>roux</b>.</i>
+              </xml>
+              <txt>Faire un roux.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="morpho">
+          <item type="derivative">faire un roux</item>
+          <item type="derivative">roux blanc</item>
+          <item type="derivative">roux blond</item>
+          <item type="derivative">roux brun</item>
+        </subsection>
+        <translations>
+          <trans lang="bg">запръжка</trans>
+        </translations>
+      </pos>
+      <pos type="nom" lemma="1" locution="0" homoNb="2" gender="m" number="s" equivFem="rousse">
+        <pronunciations>
+          <pron>ʁu</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="roux" gracePOS="Ncms" prons="ʁu"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Homme qui a les cheveux roux.</xml>
+              <txt>Homme qui a les cheveux roux.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Un <b>roux</b>, une <b>rousse</b>.</i>
+              </xml>
+              <txt>Un roux, une rousse.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <translations>
+          <trans lang="de">Rotkopf</trans>
+          <trans lang="de">Rotschopf</trans>
+          <trans lang="en">redhead</trans>
+          <trans lang="en_es">pelirrojo</trans>
+          <trans lang="it">testarossa</trans>
+        </translations>
+      </pos>
+      <section type="homophones">
+        <item>roue</item>
+        <item>roue</item>
+        <item>rouent</item>
+        <item>roues</item>
+      </section>
+    </text>
+  </article>

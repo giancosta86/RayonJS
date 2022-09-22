@@ -1,0 +1,437 @@
+  <article>
+    <title>sur</title>
+    <pageId>2248</pageId>
+    <meta>
+      <import>DAF8</import>
+      <reference>TLFi</reference>
+    </meta>
+    <text>
+      <pronunciations>
+        <pron area="France Paris">syʁ</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml><i>(<innerLink ref="sur#fr-prép">préposition</innerLink>)</i> du latin <foreignWord lang="la" sense="au-dessus de">super</foreignWord>.</xml>
+          <txt>du latin super  (au-dessus de).</txt>
+        </etym>
+        <etym>
+          <xml><i>(<innerLink ref="sur#fr-adj">adjectif</innerLink>)</i> du francique <foreignWord lang="frk"/> sûr (« acide, aigre ») (cf. moyen néerlandais <i>suur</i>, ancien haut allemand <i>sûr</i>, allemand moderne <i><innerLink ref="sauer#de">sauer</innerLink></i>, anglais <i><innerLink ref="sour#en">sour</innerLink></i>).</xml>
+          <txt>du francique   sûr (« acide, aigre ») (cf. moyen néerlandais suur, ancien haut allemand sûr, allemand moderne sauer, anglais sour).</txt>
+        </etym>
+      </etymology>
+      <pos type="préposition" lemma="1" locution="0">
+        <pronunciations>
+          <pron>syʁ</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Indique une <innerLink ref="position">position</innerLink> plus <innerLink ref="élever">élevée</innerLink>.</xml>
+              <txt>Indique une position plus élevée.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Le chat est <b>sur</b> le lit.</i>
+              </xml>
+              <txt>Le chat est sur le lit.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="sem" value="par extension"/>
+              </labels>
+              <xml>Indique une <innerLink ref="supériorité">supériorité</innerLink>.</xml>
+              <txt>Indique une supériorité.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>La France l'a emporté <b>sur</b> le Brésil.</i>
+              </xml>
+              <txt>La France l'a emporté sur le Brésil.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Indique une <innerLink ref="direction">direction</innerLink>.</xml>
+              <txt>Indique une direction.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Cette marche avait pour but de s'assurer si l'ennemi, signalé à Vouziers et à Grandpré, ne rétrogradait pas vers Stenay ou s'il continuait sa marche <b>sur</b> Paris.</i>
+              </xml>
+              <txt>Cette marche avait pour but de s'assurer si l'ennemi, signalé à Vouziers et à Grandpré, ne rétrogradait pas vers Stenay ou s'il continuait sa marche sur Paris.</txt>
+            </example>
+            <example>
+              <xml><i>Concini marcha <b>sur</b> Giselle. Sans la toucher, il se pencha <b>sur</b> elle.</i> }}</xml>
+              <txt>Concini marcha sur Giselle. Sans la toucher, il se pencha sur elle. }}</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Indique une position <innerLink ref="temporelle">temporelle</innerLink>, un <innerLink ref="instant">instant</innerLink> <innerLink ref="donner">donné</innerLink>.</xml>
+              <txt>Indique une position temporelle, un instant donné.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Je suis <b>sur</b> le point de partir.</i>
+              </xml>
+              <txt>Je suis sur le point de partir.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Indique l'<innerLink ref="origine">origine</innerLink>, la <innerLink ref="base">base</innerLink> ou ce qui <innerLink ref="servir">sert</innerLink> de <innerLink ref="garantie">garantie</innerLink> <innerLink ref="morale">morale</innerLink>.</xml>
+              <txt>Indique l'origine, la base ou ce qui sert de garantie morale.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Je me suis basé <b>sur</b> vos dires.</i>
+              </xml>
+              <txt>Je me suis basé sur vos dires.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il jure <b>sur</b> son honneur.</i>
+              </xml>
+              <txt>Il jure sur son honneur.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Indique un <innerLink ref="rapport">rapport</innerLink> de <innerLink ref="dimension">dimension</innerLink>.</xml>
+              <txt>Indique un rapport de dimension.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Un carré de cinq mètres <b>sur</b> cinq.</i>
+              </xml>
+              <txt>Un carré de cinq mètres sur cinq.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Indique un rapport de <innerLink ref="proportion">proportion</innerLink>.</xml>
+              <txt>Indique un rapport de proportion.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Deux cents personnes <b>sur</b> mille s'y sont déclarés favorables.</i>
+              </xml>
+              <txt>Deux cents personnes sur mille s'y sont déclarés favorables.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Une note de cinq <b>sur</b> dix.</i>
+              </xml>
+              <txt>Une note de cinq sur dix.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Indique un rapport de <innerLink ref="répétition">répétition</innerLink>.</xml>
+              <txt>Indique un rapport de répétition.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Cet enfant fait étourderies <b>sur</b> étourderies.</i>
+              </xml>
+              <txt>Cet enfant fait étourderies sur étourderies.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="domain" value="mathématiques"/>
+              </labels>
+              <xml>Indique une fraction.</xml>
+              <txt>Indique une fraction.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>a/b se lit a divisé par b ou simplement a <b>sur</b> b.</i>
+              </xml>
+              <txt>a/b se lit a divisé par b ou simplement a sur b.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="exprimer">Exprime</innerLink> une <innerLink ref="idée">idée</innerLink> de <innerLink ref="contact">contact</innerLink>.</xml>
+              <txt>Exprime une idée de contact.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Il avait le nez <b>sur</b> la fenêtre.</i>
+              </xml>
+              <txt>Il avait le nez sur la fenêtre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Les frites sont collées les unes <b>sur</b> les autres.</i>
+              </xml>
+              <txt>Les frites sont collées les unes sur les autres.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="attitudinal" value="familier"/>
+                <label type="diatopic" value="France"/>
+              </labels>
+              <xml>Indique une <innerLink ref="proximité">proximité</innerLink> géographique. [NB : L'Académie française juge cet emploi inapproprié.]</xml>
+              <txt>Indique une proximité géographique. [NB : L'Académie française juge cet emploi inapproprié.]</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>J'habite <b>sur</b> Paris.</i>
+              </xml>
+              <txt>J'habite sur Paris.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Ce site gratuit propose des petites annonces immobilières <b>sur</b> Lyon.</i>
+              </xml>
+              <txt>Ce site gratuit propose des petites annonces immobilières sur Lyon.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="diachronic" value="vieilli"/>
+              </labels>
+              <xml>Indique une approximation de temps ; <innerLink ref="vers">vers</innerLink>.</xml>
+              <txt>Indique une approximation de temps ; vers.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>La bonne femme ne répondait jamais rien : elle revint <b>sur</b> le soir et n'apporta point à souper.</i>
+              </xml>
+              <txt>La bonne femme ne répondait jamais rien : elle revint sur le soir et n'apporta point à souper.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="synonym">au-dessus</item>
+          <item type="synonym">par-dessus</item>
+          <item type="synonym">contre</item>
+          <item type="synonym">à</item>
+          <item type="synonym">en direction de</item>
+          <item type="synonym">vers</item>
+          <item type="synonym">à</item>
+          <item type="synonym">d'après</item>
+          <item type="synonym">par</item>
+          <item type="synonym">pour</item>
+          <item type="synonym">après</item>
+          <item type="synonym">par</item>
+          <item type="synonym">à</item>
+          <item type="synonym">contre</item>
+          <item type="synonym">aux alentours de</item>
+          <item type="synonym">à proximité de</item>
+          <item type="synonym">aux environs de</item>
+          <item type="synonym">dans</item>
+          <item type="synonym">secteur</item>
+          <item type="synonym">vers</item>
+        </subsection>
+        <subsection type="morpho">
+          <item type="related">sur-</item>
+          <item type="derivative">sur ce</item>
+          <item type="derivative">sur-le-champ</item>
+        </subsection>
+        <subsection type="phrases">
+          <item>sur le fil</item>
+          <item>marcher sur</item>
+          <item>faire mouvement</item>
+          <item>prendre d'assaut</item>
+        </subsection>
+        <translations>
+          <trans lang="af">by</trans>
+          <trans lang="af">om</trans>
+          <trans lang="af">aan</trans>
+          <trans lang="af">op</trans>
+          <trans lang="af">aan</trans>
+          <trans lang="de">bei</trans>
+          <trans lang="de">zu</trans>
+          <trans lang="de">neben</trans>
+          <trans lang="de">auf</trans>
+          <trans lang="en">on</trans>
+          <trans lang="en">upon</trans>
+          <trans lang="en">onto</trans>
+          <trans lang="en">over</trans>
+          <trans lang="en">out of</trans>
+          <trans lang="ar">على</trans>
+          <trans lang="arz">على</trans>
+          <trans lang="arz">ع</trans>
+          <trans lang="ary">فوق</trans>
+          <trans lang="ary">فوڭ</trans>
+          <trans lang="ary">فوأ</trans>
+          <trans lang="bm">san</trans>
+          <trans lang="br">war</trans>
+          <trans lang="ca">a</trans>
+          <trans lang="ca">a casa de</trans>
+          <trans lang="ca">en</trans>
+          <trans lang="ca">sobre</trans>
+          <trans lang="kw">ar</trans>
+          <trans lang="kw">war</trans>
+          <trans lang="da">hos</trans>
+          <trans lang="da">over</trans>
+          <trans lang="da">på</trans>
+          <trans lang="es">en</trans>
+          <trans lang="es">en casa de</trans>
+          <trans lang="es">sobre</trans>
+          <trans lang="es">encima de</trans>
+          <trans lang="eo">sur</trans>
+          <trans lang="fo">hjá</trans>
+          <trans lang="fo">við</trans>
+          <trans lang="fo">á</trans>
+          <trans lang="fi">-lla</trans>
+          <trans lang="fi">-lle</trans>
+          <trans lang="fi">-lta</trans>
+          <trans lang="fi">pää</trans>
+          <trans lang="fi">hetki</trans>
+          <trans lang="fi">kohta</trans>
+          <trans lang="fi">-ssa</trans>
+          <trans lang="fi">-llaan</trans>
+          <trans lang="fi">kertaa</trans>
+          <trans lang="fi">-sta</trans>
+          <trans lang="fy">op</trans>
+          <trans lang="gd">air</trans>
+          <trans lang="got">𐌰𐌽𐌰</trans>
+          <trans lang="el">επί</trans>
+          <trans lang="hbo">בעד</trans>
+          <trans lang="hbo">על</trans>
+          <trans lang="hu">mellett</trans>
+          <trans lang="iu">ᖁᓛᓂ</trans>
+          <trans lang="it">a</trans>
+          <trans lang="it">su</trans>
+          <trans lang="it">accanto a</trans>
+          <trans lang="it">al</trans>
+          <trans lang="koy">tleekkʼe</trans>
+          <trans lang="ms">pada</trans>
+          <trans lang="nl">op</trans>
+          <trans lang="nl">aan</trans>
+          <trans lang="nl">bij</trans>
+          <trans lang="nl">ten huize van</trans>
+          <trans lang="fra-nor">sus</trans>
+          <trans lang="no">på</trans>
+          <trans lang="pap">riba</trans>
+          <trans lang="pap">ariba</trans>
+          <trans lang="fa">روی</trans>
+          <trans lang="pl">na</trans>
+          <trans lang="pt">sobre</trans>
+          <trans lang="ro">pe</trans>
+          <trans lang="ru">на</trans>
+          <trans lang="se">badjel</trans>
+          <trans lang="se">alde</trans>
+          <trans lang="sv">på</trans>
+          <trans lang="sv">vid</trans>
+          <trans lang="sv">över</trans>
+          <trans lang="sv">efter</trans>
+          <trans lang="sv">mot</trans>
+          <trans lang="sv">till</trans>
+          <trans lang="sv">av</trans>
+          <trans lang="sw">juu ya</trans>
+          <trans lang="tl">sa</trans>
+          <trans lang="tl">sa ibábaw</trans>
+          <trans lang="cs">na</trans>
+          <trans lang="tpw">aribo</trans>
+          <trans lang="zu">phezu kwa-</trans>
+          <trans lang="de">auf</trans>
+          <trans lang="de">an</trans>
+          <trans lang="kk">үстінде</trans>
+          <trans lang="swb">harimwa</trans>
+          <trans lang="zdj">ho-djuu mwa</trans>
+          <trans lang="sw">juu ya</trans>
+          <trans lang="de">an</trans>
+          <trans lang="swb">harimwa</trans>
+        </translations>
+      </pos>
+      <pos type="adjectif" lemma="1" locution="0" gender="m" number="s">
+        <pronunciations>
+          <pron>syʁ</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="sur" gracePOS="Afpms" prons="syʁ"/>
+          <inflection form="surs" gracePOS="Afpmp" prons="syʁ"/>
+          <inflection form="sure" gracePOS="Afpfs" prons="syʁ"/>
+          <inflection form="sures" gracePOS="Afpfp" prons="syʁ"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Qui a un <innerLink ref="goût">goût</innerLink> <innerLink ref="acide">acide</innerLink> et <innerLink ref="aigrelet">aigrelet</innerLink>.</xml>
+              <txt>Qui a un goût acide et aigrelet.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Fruit <b>sur</b>.</i>
+              </xml>
+              <txt>Fruit sur.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Lait <b>sur</b>.</i>
+              </xml>
+              <txt>Lait sur.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Plus douce qu'aux enfants la chair des pommes <b>sures</b>,&amp;lt;br&amp;gt;L'eau verte pénétra ma coque de sapin.</i>
+              </xml>
+              <txt>Plus douce qu'aux enfants la chair des pommes sures,&amp;lt;br&amp;gt;L'eau verte pénétra ma coque de sapin.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>L'oseille est très <b>sure</b>.</i>
+              </xml>
+              <txt>L'oseille est très sure.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Combinez le sucre, le sel, la crème <b>sure</b>, l'oignon vert et le vinaigre.</i>
+              </xml>
+              <txt>Combinez le sucre, le sel, la crème sure, l'oignon vert et le vinaigre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="domain" value="chimie"/>
+              </labels>
+              <xml><innerLink ref="qualifier">Qualifie</innerLink> les <innerLink ref="eaux">eaux</innerLink> servant à <innerLink ref="amollir">amollir</innerLink> les <innerLink ref="cuirs">cuirs</innerLink>, ou bien l'eau <innerLink ref="résiduelle">résiduelle</innerLink> issue de l'<innerLink ref="extraction">extraction</innerLink> de <innerLink ref="sels">sels</innerLink>, de <innerLink ref="cristaux">cristaux</innerLink> ou d'<innerLink ref="amidon">amidon</innerLink>.</xml>
+              <txt>Qualifie les eaux servant à amollir les cuirs, ou bien l'eau résiduelle issue de l'extraction de sels, de cristaux ou d'amidon.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Vous pouvez jeter l'eau <b>sure</b>, nous n'utiliserons que les cristaux.</i>
+              </xml>
+              <txt>Vous pouvez jeter l'eau sure, nous n'utiliserons que les cristaux.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="paronyms">
+          <item>sciure</item>
+        </subsection>
+        <translations>
+          <trans lang="de">sauer</trans>
+          <trans lang="en">sour</trans>
+          <trans lang="zh">酸</trans>
+          <trans lang="ko">산</trans>
+          <trans lang="ja">酸</trans>
+          <trans lang="se">suvrris</trans>
+        </translations>
+      </pos>
+      <section type="homophones">
+        <item>sûr</item>
+        <item>sûre</item>
+        <item>sure</item>
+        <item>sûres</item>
+        <item>sures</item>
+        <item>sûrs</item>
+        <item>surs</item>
+        <item>surent</item>
+      </section>
+      <section type="anagrammes">
+        <item>rus</item>
+      </section>
+    </text>
+  </article>

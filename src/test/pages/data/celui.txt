@@ -1,0 +1,79 @@
+  <article>
+    <title>celui</title>
+    <pageId>40647</pageId>
+    <meta/>
+    <text>
+      <pronunciations>
+        <pron area="France">sə.lɥi</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml>forme moderne de l'ancien pronom <i><innerLink ref="icelui">icelui</innerLink></i> (au féminin <i><innerLink ref="icelle">icelle</innerLink></i>), lui-même formé des mots <i><innerLink ref="ici">ici</innerLink></i> (autrefois <i><innerLink ref="ecce">ecce</innerLink></i>) et de <i><innerLink ref="lui">lui</innerLink></i> (ou d'<innerLink ref="elle">elle</innerLink>). littéralement, il signifie : « lui (ou elle) qui se trouve ici ».</xml>
+          <txt>forme moderne de l'ancien pronom icelui (au féminin icelle), lui-même formé des mots ici (autrefois ecce) et de lui (ou d'elle). littéralement, il signifie : « lui (ou elle) qui se trouve ici ».</txt>
+        </etym>
+      </etymology>
+      <pos type="pronom démonstratif" lemma="1" locution="0">
+        <pronunciations>
+          <pron>sə.lɥi</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Utilisé pour remplacer la <innerLink ref="personne">personne</innerLink> ou la <innerLink ref="chose">chose</innerLink> dont on parle. -</xml>
+              <txt>Utilisé pour remplacer la personne ou la chose dont on parle. -</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Dans ce monde de pasteurs, la femme n'a nullement la vie serve qu'elle mène dans <b>celui</b> de chasse et de guerre.</i>
+              </xml>
+              <txt>Dans ce monde de pasteurs, la femme n'a nullement la vie serve qu'elle mène dans celui de chasse et de guerre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Celui</b> qui vient n'est pas <b>celui</b> qu'on attend.</i>
+              </xml>
+              <txt>Celui qui vient n'est pas celui qu'on attend.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Allons plus loin, et tâchons de saisir le caractère essentiel de l'opposition qui est ainsi formulée entre l'idée de moyen âge et <b>celle</b> de civilisation […]</i>
+              </xml>
+              <txt>Allons plus loin, et tâchons de saisir le caractère essentiel de l'opposition qui est ainsi formulée entre l'idée de moyen âge et celle de civilisation […]</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Qui est <b>celui</b> qui a triomphé du monde, sinon <b>celui</b> qui croit que Jésus est le Fils de Dieu ?</i>
+              </xml>
+              <txt>Qui est celui qui a triomphé du monde, sinon celui qui croit que Jésus est le Fils de Dieu ?</txt>
+            </example>
+            <example>
+              <xml>
+                <i>En de telles occasions, nous nous rappelons l'immense dette que nous avons contractée envers <b>ceux</b> et <b>celles</b> qui ont porté l'uniforme et qui ont servi ce pays dans le passé et qui le servent maintenant.</i>
+              </xml>
+              <txt>En de telles occasions, nous nous rappelons l'immense dette que nous avons contractée envers ceux et celles qui ont porté l'uniforme et qui ont servi ce pays dans le passé et qui le servent maintenant.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="morpho">
+          <item type="derivative">celui-ci</item>
+          <item type="derivative">celui-là</item>
+          <item type="derivative">ceusses</item>
+          <item type="related">ceux</item>
+          <item type="related">celle</item>
+          <item type="related">celles</item>
+        </subsection>
+        <translations>
+          <trans lang="en">that</trans>
+          <trans lang="en">the one</trans>
+          <trans lang="eo">tiu</trans>
+          <trans lang="nl">degene</trans>
+          <trans lang="fra-nor">syin</trans>
+          <trans lang="pt">aquele</trans>
+          <trans lang="pt">aquela</trans>
+        </translations>
+      </pos>
+      <section type="anagrammes">
+        <item>Lucie</item>
+      </section>
+    </text>
+  </article>

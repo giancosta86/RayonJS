@@ -1,0 +1,100 @@
+  <article>
+    <title>les</title>
+    <pageId>163</pageId>
+    <meta/>
+    <text>
+      <pronunciations>
+        <pron>lɛ</pron>
+        <pron area="France, Paris">le</pron>
+      </pronunciations>
+      <pos type="article défini" lemma="0" locution="0">
+        <pronunciations>
+          <pron>lɛ</pron>
+          <pron>le</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Pluriel de <i><innerLink ref="le#fr-art-déf">le</innerLink></i> ou <i><innerLink ref="la#fr-flex-art-déf">la</innerLink></i>.</xml>
+              <txt>Pluriel de le ou la.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Les</b> pommes sont meilleures en été.</i>
+              </xml>
+              <txt>Les pommes sont meilleures en été.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <translations>
+          <trans lang="af">die</trans>
+          <trans lang="de">die</trans>
+          <trans lang="de">den</trans>
+          <trans lang="de">der</trans>
+          <trans lang="en">the</trans>
+          <trans lang="ca">els</trans>
+          <trans lang="ca">les</trans>
+          <trans lang="es">los</trans>
+          <trans lang="es">las</trans>
+          <trans lang="ht">yo</trans>
+          <trans lang="it">i</trans>
+          <trans lang="it">gli</trans>
+          <trans lang="it">le</trans>
+          <trans lang="nl">de</trans>
+          <trans lang="oc">los</trans>
+          <trans lang="oc">las</trans>
+          <trans lang="pt">os</trans>
+        </translations>
+      </pos>
+      <pos type="pronom personnel" lemma="1" locution="0">
+        <pronunciations>
+          <pron>lɛ</pron>
+          <pron>le</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Pronom personnel de la troisième personne du <innerLink ref="pluriel">pluriel</innerLink> <innerLink ref="accusatif">accusatif</innerLink>.</xml>
+              <txt>Pronom personnel de la troisième personne du pluriel accusatif.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Je <b>les</b> ai attendues pendant une heure !</i>
+              </xml>
+              <txt>Je les ai attendues pendant une heure !</txt>
+            </example>
+          </definition>
+        </definitions>
+        <translations>
+          <trans lang="en">them</trans>
+          <trans lang="es">los</trans>
+          <trans lang="es">las</trans>
+          <trans lang="es">les</trans>
+          <trans lang="eo">ilin</trans>
+          <trans lang="ht">yo</trans>
+          <trans lang="it">loro</trans>
+          <trans lang="it">essi</trans>
+          <trans lang="oc">los</trans>
+          <trans lang="oc">las</trans>
+          <trans lang="ro">îi</trans>
+          <trans lang="ro">le</trans>
+        </translations>
+      </pos>
+      <section type="homophones">
+        <item>lé</item>
+        <item>lés</item>
+        <item>lai</item>
+        <item>laid</item>
+        <item>laie</item>
+        <item>lais</item>
+        <item>lait</item>
+        <item>legs</item>
+        <item>lei</item>
+        <item>lès</item>
+        <item>lez</item>
+      </section>
+      <section type="anagrammes">
+        <item>sel</item>
+      </section>
+    </text>
+  </article>

@@ -1,0 +1,328 @@
+  <article>
+    <title>crayon</title>
+    <pageId>7962</pageId>
+    <meta>
+      <reference>DAF8</reference>
+    </meta>
+    <text>
+      <pronunciations>
+        <pron>kʁɛ.jɔ̃</pron>
+        <pron area="France">ɛ̃.kʁe.jɔ̃</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml><cf value="craie|-on"/>.</xml>
+          <txt>voir craie et -on.</txt>
+        </etym>
+      </etymology>
+      <pos type="nom" lemma="1" locution="0" gender="m" number="s">
+        <pronunciations>
+          <pron>kʁɛ.jɔ̃</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="crayon" gracePOS="Ncms" prons="kʁɛ.jɔ̃"/>
+          <inflection form="crayons" gracePOS="Ncmp" prons="kʁɛ.jɔ̃"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="morceau">Morceau</innerLink> de <innerLink ref="bois">bois</innerLink> <innerLink ref="cylindrique">cylindrique</innerLink> <innerLink ref="fin">fin</innerLink> <innerLink ref="contenir">contenant</innerLink> une <innerLink ref="mine">mine</innerLink> en son <innerLink ref="centre">centre</innerLink>, <innerLink ref="taillé">taillé</innerLink> <innerLink ref="afin">afin</innerLink> d'<innerLink ref="obtenir">obtenir</innerLink> une <innerLink ref="pointe">pointe</innerLink> à l'<innerLink ref="extrémité">extrémité</innerLink> et qui <innerLink ref="permet">permet</innerLink> de <innerLink ref="dessiner">dessiner</innerLink>, <innerLink ref="colorier">colorier</innerLink> ou <innerLink ref="écrire">écrire</innerLink> avec la <innerLink ref="main">main</innerLink>.</xml>
+              <txt>Morceau de bois cylindrique fin contenant une mine en son centre, taillé afin d'obtenir une pointe à l'extrémité et qui permet de dessiner, colorier ou écrire avec la main.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Tailler un <b>crayon</b>. - Portrait au <b>crayon</b>. - Une note écrite au <b>crayon</b>. - Donner quelques coups de <b>crayon</b>.</i>
+              </xml>
+              <txt>Tailler un crayon. - Portrait au crayon. - Une note écrite au crayon. - Donner quelques coups de crayon.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="diachronic" value="vieilli"/>
+              </labels>
+              <xml><innerLink ref="mine">Mine</innerLink> ou toute <innerLink ref="autre">autre</innerLink> <innerLink ref="matière">matière</innerLink> <innerLink ref="colorer">colorée</innerLink> <innerLink ref="propre">propre</innerLink> à <innerLink ref="dessiner">dessiner</innerLink> (sans sa <innerLink ref="gangue">gangue</innerLink> de bois).</xml>
+              <txt>Mine ou toute autre matière colorée propre à dessiner (sans sa gangue de bois).</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Crayon</b> de sanguine. - <b>Crayon</b> de charbon. - <b>Crayon</b> de pastel.</i>
+              </xml>
+              <txt>Crayon de sanguine. - Crayon de charbon. - Crayon de pastel.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="sem" value="en particulier"/>
+              </labels>
+              <xml>Petite <innerLink ref="barre">barre</innerLink> de <innerLink ref="produit">produit</innerLink> <innerLink ref="cosmétique">cosmétique</innerLink> <innerLink ref="solide">solide</innerLink>.</xml>
+              <txt>Petite barre de produit cosmétique solide.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Elle achetait les onguents, des pots de fard, des <b>crayons</b>, qui traînaient sur tous les meubles, avec des houppettes de poudre de riz et des flacons d'odeur. Ses journées, elle les passait, devant sa glace, à se maquiller, à se contempler, […].</i>
+              </xml>
+              <txt>Elle achetait les onguents, des pots de fard, des crayons, qui traînaient sur tous les meubles, avec des houppettes de poudre de riz et des flacons d'odeur. Ses journées, elle les passait, devant sa glace, à se maquiller, à se contempler, […].</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Les <b>crayons</b> pour les lèvres sont destinés soit à empêcher celles-ci de gercer, soit à leur donner un éclat spécial.</i>
+              </xml>
+              <txt>Les crayons pour les lèvres sont destinés soit à empêcher celles-ci de gercer, soit à leur donner un éclat spécial.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="domain" value="géologie"/>
+              </labels>
+              <xml><innerLink ref="marne">Marne</innerLink><innerLink ref="argileux">argileuse</innerLink> et <innerLink ref="sablonneux">sablonneuse</innerLink>.</xml>
+              <txt>Marne argileuse et sablonneuse.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="sem" value="analogie"/>
+              </labels>
+              <xml>Ensemble constitué d'un empilement de <innerLink ref="pastilles">pastilles</innerLink> de <innerLink ref="combustible">combustible</innerLink> <innerLink ref="nucléaire">nucléaire</innerLink> enveloppées dans une <innerLink ref="gaine">gaine</innerLink> <innerLink ref="tubulaire">tubulaire</innerLink>.</xml>
+              <txt>Ensemble constitué d'un empilement de pastilles de combustible nucléaire enveloppées dans une gaine tubulaire.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Les pastilles sont enfilées dans des tubes en métal de 4 m de long dont les extrémités sont bouchées, pour constituer ce que l'on appelle des <b>crayons</b>. Ces <b>crayons</b> sont regroupés par lots dans des assemblages combustibles. Ces assemblages sont placés dans le cœur du réacteur pour le faire fonctionner.</i>
+              </xml>
+              <txt>Les pastilles sont enfilées dans des tubes en métal de 4 m de long dont les extrémités sont bouchées, pour constituer ce que l'on appelle des crayons. Ces crayons sont regroupés par lots dans des assemblages combustibles. Ces assemblages sont placés dans le cœur du réacteur pour le faire fonctionner.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="sem" value="par extension"/>
+              </labels>
+              <xml><innerLink ref="manière">Manière</innerLink> de <innerLink ref="dessiner">dessiner</innerLink> ou manière dont une <innerLink ref="chose">chose</innerLink> est dessinée.</xml>
+              <txt>Manière de dessiner ou manière dont une chose est dessinée.</txt>
+            </gloss>
+            <example>
+              <xml><i>L'aspect étrange que présentait cette réunion d'aventuriers aux traits sombres, […], offrait un tableau digne du <b>crayon</b> satirique de Callot, ….</i> }}</xml>
+              <txt>L'aspect étrange que présentait cette réunion d'aventuriers aux traits sombres, […], offrait un tableau digne du crayon satirique de Callot, …. }}</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="sem" value="par extension"/>
+              </labels>
+              <xml>Tout <innerLink ref="dessin">dessin</innerLink> fait au <b>crayon</b>.</xml>
+              <txt>Tout dessin fait au crayon.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Les <b>crayons</b> de cet artiste sont très estimés. - Il a fait le <b>crayon</b> d'un tel.</i>
+              </xml>
+              <txt>Les crayons de cet artiste sont très estimés. - Il a fait le crayon d'un tel.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>La ressemblance d'une figure oubliée depuis des années se dessinait désormais avec une netteté singulière ; c'était un <b>crayon</b> qui se faisait peinture ...</i>
+              </xml>
+              <txt>La ressemblance d'une figure oubliée depuis des années se dessinait désormais avec une netteté singulière ; c'était un crayon qui se faisait peinture ...</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="sem" value="par extension"/>
+              </labels>
+              <xml><innerLink ref="portrait">Portrait</innerLink>.</xml>
+              <txt>Portrait.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Vous nous avez fait un fidèle <b>crayon</b> de cet homme-là.</i>
+              </xml>
+              <txt>Vous nous avez fait un fidèle crayon de cet homme-là.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="esquisse">Esquisse</innerLink>, <innerLink ref="ébauche">ébauche</innerLink> d'un <innerLink ref="tableau">tableau</innerLink>.</xml>
+              <txt>Esquisse, ébauche d'un tableau.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Il n'a pas encore commencé ce tableau, il n'en a fait que le <b>crayon</b>.</i>
+              </xml>
+              <txt>Il n'a pas encore commencé ce tableau, il n'en a fait que le crayon.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="sem" value="analogie"/>
+                <label type="attitudinal" value="soutenu"/>
+              </labels>
+              <xml><innerLink ref="premier jet">Premier jet</innerLink> d'une <innerLink ref="idée">idée</innerLink>.</xml>
+              <txt>Premier jet d'une idée.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Cette pièce n'est pas achevée, ce n'est encore qu'un <b>crayon</b> imparfait. - Je ne vous ai tracé qu'un léger <b>crayon</b> des événements qui précédèrent cette époque.</i>
+              </xml>
+              <txt>Cette pièce n'est pas achevée, ce n'est encore qu'un crayon imparfait. - Je ne vous ai tracé qu'un léger crayon des événements qui précédèrent cette époque.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Par la souplesse de son rythme, la netteté de sa langue et la mélancolie de ses plaintes, Rutebœuf est déjà un premier <b>crayon</b> de Villon.</i>
+              </xml>
+              <txt>Par la souplesse de son rythme, la netteté de sa langue et la mélancolie de ses plaintes, Rutebœuf est déjà un premier crayon de Villon.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="attitudinal" value="argot"/>
+              </labels>
+              <xml><innerLink ref="jambe">Jambe</innerLink>.</xml>
+              <txt>Jambe.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Je me suis emmêlé les <b>crayons</b>, je me suis ramassé.</i>
+              </xml>
+              <txt>Je me suis emmêlé les crayons, je me suis ramassé.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="attitudinal" value="argot"/>
+                <label type="gram" value="au pluriel"/>
+              </labels>
+              <xml><i>(au pluriel)</i><innerLink ref="main">Main</innerLink>.</xml>
+              <txt>Main.</txt>
+            </gloss>
+            <example>
+              <xml>''- Allez on met les adjas. Donne ta paluche.&amp;lt;br</xml>
+              <txt>- Allez on met les adjas. Donne ta paluche.&amp;lt;br</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="synonym">stylo</item>
+          <item type="hyponym">crayon à papier</item>
+          <item type="hyponym">crayon à mine</item>
+          <item type="hyponym">crayon de bois</item>
+          <item type="hyponym">crayon de couleur</item>
+          <item type="hyponym">crayon de mine</item>
+          <item type="hyponym">crayon de papier</item>
+          <item type="hyponym">crayon de plomb</item>
+          <item type="hyponym">crayon gris</item>
+          <item type="hyponym">crayon mine</item>
+          <item type="hyponym">crayon noir</item>
+          <item type="hyponym">crayon optique</item>
+          <item type="hyponym">crayon ordinaire</item>
+          <item type="hyponym">crayon-bois</item>
+        </subsection>
+        <subsection type="morpho">
+          <item type="derivative">affile-crayon</item>
+          <item type="derivative">aiguise-crayon</item>
+          <item type="derivative">crayon-feutre</item>
+          <item type="derivative">crayonnage</item>
+          <item type="derivative">crayonné</item>
+          <item type="derivative">crayonner</item>
+          <item type="derivative">crayonneur</item>
+          <item type="derivative">crayonneux</item>
+          <item type="derivative">crayonniste</item>
+          <item type="derivative">décrayonnage</item>
+          <item type="derivative">plante-crayon</item>
+          <item type="derivative">porte-crayon</item>
+          <item type="derivative">taille-crayon</item>
+          <item type="derivative">trois-crayons</item>
+          <item type="related">craie</item>
+          <item type="related">crayer</item>
+          <item type="related">crayère</item>
+          <item type="related">crayeux</item>
+        </subsection>
+        <subsection type="relatedVocabulary">
+          <item>calame</item>
+          <item>plume</item>
+          <item>stylet</item>
+          <item>stylo</item>
+        </subsection>
+        <subsection type="paronyms">
+          <item>créions</item>
+        </subsection>
+        <translations>
+          <trans lang="sq">laps</trans>
+          <trans lang="de">Stift</trans>
+          <trans lang="de">Bleistift</trans>
+          <trans lang="de">Crayon</trans>
+          <trans lang="de">Buntstift</trans>
+          <trans lang="en">pencil</trans>
+          <trans lang="ar">قلم</trans>
+          <trans lang="hy">մատիտ</trans>
+          <trans lang="eu">arkatz</trans>
+          <trans lang="be">аловак</trans>
+          <trans lang="br">pluenn-blom</trans>
+          <trans lang="br">kreion</trans>
+          <trans lang="bg">молив</trans>
+          <trans lang="ca">llapis</trans>
+          <trans lang="zh">铅笔</trans>
+          <trans lang="ko">연필</trans>
+          <trans lang="co">mina</trans>
+          <trans lang="co">piumbinu</trans>
+          <trans lang="co">crïo</trans>
+          <trans lang="da">blyant</trans>
+          <trans lang="es">lápiz</trans>
+          <trans lang="eo">krajono</trans>
+          <trans lang="et">pliiats</trans>
+          <trans lang="fo">blýantur</trans>
+          <trans lang="fi">kynä</trans>
+          <trans lang="fy">poatlead</trans>
+          <trans lang="gd">peansail</trans>
+          <trans lang="ka">ფანქარი</trans>
+          <trans lang="el">μολύβι</trans>
+          <trans lang="he">עיפרון</trans>
+          <trans lang="hu">ceruza</trans>
+          <trans lang="io">krayono</trans>
+          <trans lang="id">potlot</trans>
+          <trans lang="it">matita</trans>
+          <trans lang="it">lapis</trans>
+          <trans lang="ja">鉛筆</trans>
+          <trans lang="kk">қарындаш</trans>
+          <trans lang="km">ខ្មៅដៃ</trans>
+          <trans lang="la">plumbum</trans>
+          <trans lang="lv">zīmulis</trans>
+          <trans lang="lt">pieštukas</trans>
+          <trans lang="ms">pensel</trans>
+          <trans lang="mg">pensilihazo</trans>
+          <trans lang="mvf">ᠬᠠᠷᠠᠨᠳᠠ</trans>
+          <trans lang="nl">potlood</trans>
+          <trans lang="no">blyant</trans>
+          <trans lang="oc">gredon</trans>
+          <trans lang="pap">pòtlot</trans>
+          <trans lang="pl">ołówek</trans>
+          <trans lang="pt">lápis</trans>
+          <trans lang="ro">creion</trans>
+          <trans lang="ru">карандаш</trans>
+          <trans lang="se">bliánta</trans>
+          <trans lang="sk">ceruza</trans>
+          <trans lang="sk">ceruzka</trans>
+          <trans lang="sl">svinčnik</trans>
+          <trans lang="srn">skriftiki</trans>
+          <trans lang="sv">penna</trans>
+          <trans lang="sw">kalamu</trans>
+          <trans lang="tl">lápis</trans>
+          <trans lang="cs">tužka</trans>
+          <trans lang="th">ดินสอ</trans>
+          <trans lang="kim">һарандааш</trans>
+          <trans lang="tr">kurşun kalem</trans>
+          <trans lang="uk">олівець</trans>
+          <trans lang="zu">ilipensele</trans>
+          <trans lang="zu">ipensele</trans>
+        </translations>
+      </pos>
+    </text>
+  </article>

@@ -1,0 +1,308 @@
+  <article>
+    <title>le</title>
+    <pageId>161</pageId>
+    <meta>
+      <reference>DAF8</reference>
+    </meta>
+    <text>
+      <pronunciations>
+        <pron area="France Région parisienne">lə</pron>
+        <pron>lø</pron>
+        <pron>lə</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml>du latin <foreignWord lang="la">illum</foreignWord>, accusatif de <i><innerLink ref="ille#la">ille</innerLink></i> (« <innerLink ref="celui-ci">celui-ci</innerLink> »), pronom démonstratif de la troisième personne.</xml>
+          <txt>du latin illum , accusatif de ille (« celui-ci »), pronom démonstratif de la troisième personne.</txt>
+        </etym>
+      </etymology>
+      <pos type="article défini" lemma="1" locution="0">
+        <pronunciations>
+          <pron>lə</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Ce … dont on parle maintenant. <innerLink ref="déterminant">Déterminant</innerLink> marquant un nom masculin singulier, référant à une seule entité possible dans un contexte.</xml>
+              <txt>Ce … dont on parle maintenant. Déterminant marquant un nom masculin singulier, référant à une seule entité possible dans un contexte.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Le</b> petit chat dort sur <b>le</b> canapé.</i>
+              </xml>
+              <txt>Le petit chat dort sur le canapé.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Le seul. Déterminant marquant un nom masculin singulier, référant à une seule entité possible par définition.</xml>
+              <txt>Le seul. Déterminant marquant un nom masculin singulier, référant à une seule entité possible par définition.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Le</b> drapeau des États-Unis.</i>
+              </xml>
+              <txt>Le drapeau des États-Unis.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Le</b> chef-lieu de ce canton.</i>
+              </xml>
+              <txt>Le chef-lieu de ce canton.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>(Sujet d'une proposition)</i> Tout, sans exception.</xml>
+              <txt>Tout, sans exception.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Le</b> lion est un mammifère carnivore.</i>
+              </xml>
+              <txt>Le lion est un mammifère carnivore.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>(Le + nom propre)</i> Marquant une vaste région comme un pays, un continent, une province ou un État, ou un <innerLink ref="cours d'eau">cours d'eau</innerLink>.</xml>
+              <txt>Marquant une vaste région comme un pays, un continent, une province ou un État, ou un cours d'eau.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Le</b> Canada.</i>
+              </xml>
+              <txt>Le Canada.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Le</b> Rhône.</i>
+              </xml>
+              <txt>Le Rhône.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>(Le + nom propre)</i> Marquant un nom propre dont le <innerLink ref="noyau">noyau</innerLink> est issu d'un nom commun.</xml>
+              <txt>Marquant un nom propre dont le noyau est issu d'un nom commun.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Le</b> Royaume de Suède.</i>
+              </xml>
+              <txt>Le Royaume de Suède.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>(Le + nom commun + nom propre)</i> Attribut du nom propre suivant.</xml>
+              <txt>Attribut du nom propre suivant.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i><b>Le</b> vaisseau Soyuz décollera dans quelques minutes.</i>
+              </xml>
+              <txt>Le vaisseau Soyuz décollera dans quelques minutes.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>(Prénom + le + attribut)</i> Surnom du prénom précédent.</xml>
+              <txt>Surnom du prénom précédent.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Alexandre <b>le</b> Grand.</i>
+              </xml>
+              <txt>Alexandre le Grand.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="other" value="usage"/>
+              </labels>
+              <xml><i>(Le premier, le + numéro de 2 à 31)</i> Le jour du mois, sans <innerLink ref="jour de la semaine">jour de la semaine</innerLink>.  Peut fonctionner comme <innerLink ref="adverbe de temps">adverbe de temps</innerLink>.</xml>
+              <txt>Le jour du mois, sans jour de la semaine.  Peut fonctionner comme adverbe de temps.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Parti <b>le</b> 11, à midi ; arrivé <b>le</b> 21, à six heures du soir, seulement.</i>
+              </xml>
+              <txt>Parti le 11, à midi ; arrivé le 21, à six heures du soir, seulement.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="alternativeForm">
+          <item>l'</item>
+          <item>au</item>
+          <item>du</item>
+          <item>à</item>
+          <item>de</item>
+        </subsection>
+        <translations>
+          <trans lang="af">die</trans>
+          <trans lang="af">het</trans>
+          <trans lang="de">der</trans>
+          <trans lang="de">die</trans>
+          <trans lang="de">das</trans>
+          <trans lang="de">die</trans>
+          <trans lang="en">the</trans>
+          <trans lang="ar">ال</trans>
+          <trans lang="arz">ال</trans>
+          <trans lang="eu">-a</trans>
+          <trans lang="eu">-ak</trans>
+          <trans lang="ca">el</trans>
+          <trans lang="ko">그</trans>
+          <trans lang="es">el</trans>
+          <trans lang="es">la</trans>
+          <trans lang="es">los</trans>
+          <trans lang="es">las</trans>
+          <trans lang="eo">la</trans>
+          <trans lang="fi">se</trans>
+          <trans lang="got">𐍃𐌰</trans>
+          <trans lang="got">𐍃𐍉</trans>
+          <trans lang="got">𐌸𐌰𐍄𐌰</trans>
+          <trans lang="el">ο</trans>
+          <trans lang="he">ה</trans>
+          <trans lang="hbo">ה</trans>
+          <trans lang="hu">a</trans>
+          <trans lang="hu">az</trans>
+          <trans lang="ja">その</trans>
+          <trans lang="nl">de</trans>
+          <trans lang="nl">het</trans>
+          <trans lang="oc">lo</trans>
+          <trans lang="oc">eth</trans>
+          <trans lang="oc">era</trans>
+          <trans lang="pcd">ch'</trans>
+          <trans lang="pcd">l'</trans>
+          <trans lang="pcd">el</trans>
+          <trans lang="pt">o</trans>
+          <trans lang="pt">a</trans>
+          <trans lang="pt">os</trans>
+          <trans lang="pt">as</trans>
+          <trans lang="ro">-ul</trans>
+          <trans lang="ro">cel</trans>
+          <trans lang="cs">ten</trans>
+          <trans lang="cs">ta</trans>
+          <trans lang="cs">to</trans>
+          <trans lang="wa">li</trans>
+          <trans lang="wa">el</trans>
+          <trans lang="en">on</trans>
+          <trans lang="ko">일</trans>
+          <trans lang="ja">日</trans>
+        </translations>
+      </pos>
+      <pos type="pronom personnel" lemma="1" locution="0">
+        <pronunciations>
+          <pron>lə</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Pronom représentant celui (personne ou objet) dont on parle. Utilisé en tant que <innerLink ref="complément d'objet direct">complément d'objet direct</innerLink>. Devant un son vocalique (voyelle ou h muet), le <i>e</i> est élidé et le pronom se transforme en <i><innerLink ref="l'#fr-flex-pronom-pers">l'</innerLink></i>.</xml>
+              <txt>Pronom représentant celui (personne ou objet) dont on parle. Utilisé en tant que complément d'objet direct. Devant un son vocalique (voyelle ou h muet), le e est élidé et le pronom se transforme en l.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Je <b>l</b>'aime.</i>
+              </xml>
+              <txt>Je l'aime.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Je <b>le</b> veux bien.</i>
+              </xml>
+              <txt>Je le veux bien.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Je <b>le</b> dis toujours : rien ne sert de courir.</i>
+              </xml>
+              <txt>Je le dis toujours : rien ne sert de courir.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Tu veux bien me <b>le</b> prêter ?</i>
+              </xml>
+              <txt>Tu veux bien me le prêter ?</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="other" value="neutre"/>
+                <label type="other" value="attribut du sujet"/>
+                <label type="other" value="usage"/>
+              </labels>
+              <xml>Pronom représentant l'<innerLink ref="attribut">attribut</innerLink> précédent, le plus souvent avec le verbe <i><innerLink ref="être#fr-verb">être</innerLink></i>. Peut être modifié par <i><innerLink ref="plus">plus</innerLink></i> ou <i><innerLink ref="moins">moins</innerLink></i> comme <innerLink ref="adjectif">adjectif</innerLink>.  Ne s'accorde ni en <innerLink ref="genre">genre</innerLink> ni en <innerLink ref="nombre">nombre</innerLink>.</xml>
+              <txt>Pronom représentant l'attribut précédent, le plus souvent avec le verbe être. Peut être modifié par plus ou moins comme adjectif.  Ne s'accorde ni en genre ni en nombre.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Je trouve les caprices de la mode, chez les Français, étonnants. Ils ont oublié comment ils étaient habillés cet été. Ils ignorent encore plus comment ils <b>le</b> seront cet hiver.</i>
+              </xml>
+              <txt>Je trouve les caprices de la mode, chez les Français, étonnants. Ils ont oublié comment ils étaient habillés cet été. Ils ignorent encore plus comment ils le seront cet hiver.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Donc, si l'année qui commence n'est pas bonne pour moi, elle <b>le</b> sera pour lui, et réciproquement.</i>
+              </xml>
+              <txt>Donc, si l'année qui commence n'est pas bonne pour moi, elle le sera pour lui, et réciproquement.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>L'Italie tient à être l'amie de la France ; elle ne peut <b>le</b> rester qu'à la condition que sa position à Rome ne soit pas troublée, et, puisque le catholicisme joue un rôle si considérable en France, il importe que les hommes de bonne foi soient convaincus que leurs croyances ne courent aucun danger par le changement politique qui s'est fait à Rome.</i>
+              </xml>
+              <txt>L'Italie tient à être l'amie de la France ; elle ne peut le rester qu'à la condition que sa position à Rome ne soit pas troublée, et, puisque le catholicisme joue un rôle si considérable en France, il importe que les hommes de bonne foi soient convaincus que leurs croyances ne courent aucun danger par le changement politique qui s'est fait à Rome.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Assurément, le mouvement n'était ni continu, ni général. Un soulèvement agraire ne <b>l</b>'est jamais.</i>
+              </xml>
+              <txt>Assurément, le mouvement n'était ni continu, ni général. Un soulèvement agraire ne l'est jamais.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Cette Poitevine est honnête ; mais elle <b>l</b>'est moins que la première, pour avoir voulu le paraître davantage.</i>
+              </xml>
+              <txt>Cette Poitevine est honnête ; mais elle l'est moins que la première, pour avoir voulu le paraître davantage.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="alternativeForm">
+          <item>l'</item>
+        </subsection>
+        <translations>
+          <trans lang="de">ihn</trans>
+          <trans lang="de">sie</trans>
+          <trans lang="de">es</trans>
+          <trans lang="en">him</trans>
+          <trans lang="en">her</trans>
+          <trans lang="en">it</trans>
+          <trans lang="es">lo</trans>
+          <trans lang="es">la</trans>
+          <trans lang="es">los</trans>
+          <trans lang="es">las</trans>
+          <trans lang="fi">häntä</trans>
+          <trans lang="fi">hänet</trans>
+          <trans lang="fi">sitä</trans>
+          <trans lang="fi">sen</trans>
+          <trans lang="ht">li</trans>
+          <trans lang="nl">hem</trans>
+          <trans lang="nl">'m</trans>
+          <trans lang="nl">haar</trans>
+          <trans lang="nl">d'r</trans>
+          <trans lang="nl">het</trans>
+          <trans lang="ro">îl</trans>
+          <trans lang="ro">o</trans>
+          <trans lang="sv">honom</trans>
+          <trans lang="sv">henne</trans>
+          <trans lang="sv">den</trans>
+          <trans lang="sv">det</trans>
+          <trans lang="en">so</trans>
+          <trans lang="ja">そう</trans>
+        </translations>
+      </pos>
+    </text>
+  </article>

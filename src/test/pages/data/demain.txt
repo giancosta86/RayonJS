@@ -1,0 +1,216 @@
+  <article>
+    <title>demain</title>
+    <pageId>12190</pageId>
+    <meta>
+      <category>Adverbes de temps en français</category>
+    </meta>
+    <text>
+      <pronunciations>
+        <pron area="France Avignon">dø.mɛ̃ </pron>
+        <pron>də.mɛ̃</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml>du latin <foreignWord lang="la"/> <i><innerLink ref="de#la">de</innerLink></i> et <i><innerLink ref="mane#la">mane</innerLink></i>, « <innerLink ref="matin#fr">matin</innerLink> ».</xml>
+          <txt>du latin   de et mane, « matin ».</txt>
+        </etym>
+      </etymology>
+      <pos type="adverbe" lemma="1" locution="0">
+        <pronunciations>
+          <pron>də.mɛ̃</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Le <innerLink ref="jour">jour</innerLink> qui <innerLink ref="suivre">suivra</innerLink> <innerLink ref="immédiatement">immédiatement</innerLink> celui où l'on est. <innerLink ref="dans">Dans</innerLink> un jour.</xml>
+              <txt>Le jour qui suivra immédiatement celui où l'on est. Dans un jour.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>On se voit <b>demain</b> ?</i>
+              </xml>
+              <txt>On se voit demain ?</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Dans le <innerLink ref="futur">futur</innerLink>.</xml>
+              <txt>Dans le futur.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Son procès se jugera <b>demain</b>, se juge <b>demain</b>.</i>
+              </xml>
+              <txt>Son procès se jugera demain, se juge demain.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il arrivera <b>demain</b> matin.</i>
+              </xml>
+              <txt>Il arrivera demain matin.</txt>
+            </example>
+            <example>
+              <xml><i><b>Demain</b> au matin.</i> Substantivement,</xml>
+              <txt>Demain au matin. Substantivement,</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Avant que <b>demain</b> soit passé.</i>
+              </xml>
+              <txt>Avant que demain soit passé.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Vous avez tout <b>demain</b> pour y songer.</i>
+              </xml>
+              <txt>Vous avez tout demain pour y songer.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Demain</b> est un jour de fête.</i>
+              </xml>
+              <txt>Demain est un jour de fête.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il m'a remis à <b>demain</b>.</i>
+              </xml>
+              <txt>Il m'a remis à demain.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Adieu jusqu'à <b>demain</b>.</i>
+              </xml>
+              <txt>Adieu jusqu'à demain.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>À <b>demain</b>.</i>
+              </xml>
+              <txt>À demain.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>À compter de <b>demain</b>.</i>
+              </xml>
+              <txt>À compter de demain.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>De <b>demain</b> en huit.</i>
+              </xml>
+              <txt>De demain en huit.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>D'ici à <b>demain</b>.</i>
+              </xml>
+              <txt>D'ici à demain.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Se dit, dans un sens moins <innerLink ref="restreindre">restreint</innerLink>, d'une <innerLink ref="époque">époque</innerLink> qui en suit une autre de <innerLink ref="fort">fort</innerLink> près, par opposition à <i>aujourd'hui</i>.</xml>
+              <txt>Se dit, dans un sens moins restreint, d'une époque qui en suit une autre de fort près, par opposition à aujourd'hui.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>La multitude est inconstante, elle ne voudra plus <b>demain</b> ce qu'elle veut aujourd'hui.</i>
+              </xml>
+              <txt>La multitude est inconstante, elle ne voudra plus demain ce qu'elle veut aujourd'hui.</txt>
+            </example>
+          </definition>
+          <definition>
+            <example>
+              <xml><i>À <b>demain</b> les affaires</i> : Songeons aujourd'hui au plaisir et remettons les choses sérieuses à un autre jour.</xml>
+              <txt>À demain les affaires : Songeons aujourd'hui au plaisir et remettons les choses sérieuses à un autre jour.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="alternativeForm">
+          <item>d'main</item>
+        </subsection>
+        <subsection type="morpho">
+          <item type="derivative">après-demain</item>
+          <item type="derivative">lendemain</item>
+        </subsection>
+        <subsection type="semRel">
+          <item type="antonym">hier</item>
+          <item type="antonym">autrefois</item>
+        </subsection>
+        <translations>
+          <trans lang="de">morgen</trans>
+          <trans lang="alt">эртен</trans>
+          <trans lang="en">tomorrow</trans>
+          <trans lang="ar">غَداً</trans>
+          <trans lang="arz">بكره</trans>
+          <trans lang="ast">mañana</trans>
+          <trans lang="bm">sini</trans>
+          <trans lang="eu">bihar</trans>
+          <trans lang="br">warc'hoazh</trans>
+          <trans lang="bg">утре</trans>
+          <trans lang="ca">demà</trans>
+          <trans lang="zh">明天</trans>
+          <trans lang="ko">내일</trans>
+          <trans lang="da">i morgen</trans>
+          <trans lang="es">mañana</trans>
+          <trans lang="eo">morgaŭ</trans>
+          <trans lang="et">homme</trans>
+          <trans lang="fi">huomenna</trans>
+          <trans lang="gd">a-màireach</trans>
+          <trans lang="gl">mañá</trans>
+          <trans lang="ka">ხვალ</trans>
+          <trans lang="el">αύριο</trans>
+          <trans lang="grc">αὔριον</trans>
+          <trans lang="ht">demen</trans>
+          <trans lang="he">מחר</trans>
+          <trans lang="hi">कल</trans>
+          <trans lang="hu">holnap</trans>
+          <trans lang="id">besok</trans>
+          <trans lang="iu">ᖃᐅᑉᐸᑦ</trans>
+          <trans lang="iu">ᖃᐅᒃᐸᑦ</trans>
+          <trans lang="is">á morgun</trans>
+          <trans lang="it">domani</trans>
+          <trans lang="ja">明日</trans>
+          <trans lang="kk">ертең</trans>
+          <trans lang="kjh">таңда</trans>
+          <trans lang="rw">ejo</trans>
+          <trans lang="koy">kkʼodon daaʼ</trans>
+          <trans lang="la">cras</trans>
+          <trans lang="lt">rytoj</trans>
+          <trans lang="lmo">doman</trans>
+          <trans lang="swb">meso</trans>
+          <trans lang="mn">маргааш</trans>
+          <trans lang="nl">morgen</trans>
+          <trans lang="nb">i morgen</trans>
+          <trans lang="no_nn">i morgon</trans>
+          <trans lang="oc">deman</trans>
+          <trans lang="plodarisch">morgn</trans>
+          <trans lang="pl">jutro</trans>
+          <trans lang="pt">amanhã</trans>
+          <trans lang="ro">mâine</trans>
+          <trans lang="ru">завтра</trans>
+          <trans lang="se">ihttin</trans>
+          <trans lang="sc">dumàni</trans>
+          <trans lang="zdj">maudu</trans>
+          <trans lang="scn">dumani</trans>
+          <trans lang="sk">zajtra</trans>
+          <trans lang="sl">jutri</trans>
+          <trans lang="sv">i morgon</trans>
+          <trans lang="cs">zítra</trans>
+          <trans lang="tyv">даарта</trans>
+          <trans lang="tsolyáni">zhúlin</trans>
+          <trans lang="tr">yarın</trans>
+          <trans lang="uk">завтра</trans>
+          <trans lang="vi">ngày mai</trans>
+        </translations>
+      </pos>
+      <section type="anagrammes">
+        <item>Damien</item>
+        <item>damien</item>
+        <item>démina</item>
+        <item>médian</item>
+        <item>mendia</item>
+      </section>
+    </text>
+  </article>

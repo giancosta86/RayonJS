@@ -1,0 +1,540 @@
+  <article>
+    <title>deux</title>
+    <pageId>349</pageId>
+    <meta>
+      <category>Adjectifs invariables en français</category>
+    </meta>
+    <text>
+      <pronunciations>
+        <pron area="France Ouest">dø</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml><century>deuxième moitié du x</century> du latin <foreignWord lang="la" sense="dif=dŭos" translit="dif=dŭos">duos</foreignWord>, accusatif masculin pluriel de <i><innerLink ref="duo">duo</innerLink></i> (« deux »), lui-même issu de l'indo-européen <innerLink ref="annexe:indo-européen commun/*dwóh₁">dwóh₁</innerLink>.</xml>
+          <txt>du latin duos dif=dŭos (dif=dŭos), accusatif masculin pluriel de duo (« deux »), lui-même issu de l'indo-européen dwóh₁.</txt>
+        </etym>
+      </etymology>
+      <pos type="adjectif numéral" lemma="1" locution="0">
+        <pronunciations>
+          <pron>dø</pron>
+        </pronunciations>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Un plus un.</xml>
+              <txt>Un plus un.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui est le <innerLink ref="double">double</innerLink> de l'<innerLink ref="unité">unité</innerLink>.</xml>
+              <txt>Qui est le double de l'unité.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>La ploutocratie chilienne s'était appuyée sur <b>deux</b> forces : les milieux réactionnaires de la Marine et les intérêts impérialistes britanniques.</i>
+              </xml>
+              <txt>La ploutocratie chilienne s'était appuyée sur deux forces : les milieux réactionnaires de la Marine et les intérêts impérialistes britanniques.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il occupait <b>deux</b> fois autant de place qu'à l'ordinaire.</i>
+              </xml>
+              <txt>Il occupait deux fois autant de place qu'à l'ordinaire.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>C'est un business des <b>deux</b> côtés de la Manche.</i>
+              </xml>
+              <txt>C'est un business des deux côtés de la Manche.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il l'a fait en <b>deux</b> jours.</i>
+              </xml>
+              <txt>Il l'a fait en deux jours.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>(Ça fait <b>deux</b>)</i> Deux <innerLink ref="chose">chose</innerLink>s <innerLink ref="différent">différent</innerLink>es, <innerLink ref="séparé">séparé</innerLink>es, <innerLink ref="distinct">distinct</innerLink>es, <innerLink ref="irréconciliable">irréconciliable</innerLink>s.</xml>
+              <txt>Deux choses différentes, séparées, distinctes, irréconciliables.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Toi et la patience, ça fait <b>deux</b>.</i>
+              </xml>
+              <txt>Toi et la patience, ça fait deux.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="attitudinal" value="familier"/>
+              </labels>
+              <xml>Très petit <innerLink ref="nombre">nombre</innerLink> <innerLink ref="indéterminé">indéterminé</innerLink>.</xml>
+              <txt>Très petit nombre indéterminé.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>J'ai <b>deux</b> mots à vous dire.</i>
+              </xml>
+              <txt>J'ai deux mots à vous dire.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Ce n'est qu'à <b>deux</b> pas d'ici.</i>
+              </xml>
+              <txt>Ce n'est qu'à deux pas d'ici.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Écrivez-moi <b>deux</b> lignes seulement.</i>
+              </xml>
+              <txt>Écrivez-moi deux lignes seulement.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Je suis à vous dans <b>deux</b> secondes.</i>
+              </xml>
+              <txt>Je suis à vous dans deux secondes.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="deuxième">Deuxième</innerLink>, <innerLink ref="second">second</innerLink>.</xml>
+              <txt>Deuxième, second.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Page <b>deux</b>.</i>
+              </xml>
+              <txt>Page deux.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Article <b>deux</b>. Tome <b>deux</b>.</i>
+              </xml>
+              <txt>Article deux. Tome deux.</txt>
+            </example>
+            <example>
+              <xml><i>Le <b>deux</b> du mois,</i> ou simplement <i>le <b>deux</b></i>, le second jour du mois.</xml>
+              <txt>Le deux du mois, ou simplement le deux, le second jour du mois.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Henri <b>deux</b>, roi de France. Catherine <b>deux</b>, impératrice de toutes les Russies.</i>
+              </xml>
+              <txt>Henri deux, roi de France. Catherine deux, impératrice de toutes les Russies.</txt>
+            </example>
+            <example>
+              <xml>On écrit ordinairement : <i>Henri II, Catherine II.</i></xml>
+              <txt>On écrit ordinairement : Henri II, Catherine II.</txt>
+            </example>
+            <example>
+              <xml>Cet emploi est critiqué : <i>On emploie les adjectifs de nombres cardinaux au lieu des adjectifs de nombre ordinaux […] en parlant des souverains et des princes de même nom qui ont gouverné le même pays, comme : Georges trois, Louis quatorze. On doit excepter les deux premiers de la série, comme Edward Premier, François Second, Henri Second. Il n'est point exact de dire : François Deux, Henri Deux. Bien des personnes font cette faute.</i></xml>
+              <txt>Cet emploi est critiqué : On emploie les adjectifs de nombres cardinaux au lieu des adjectifs de nombre ordinaux […] en parlant des souverains et des princes de même nom qui ont gouverné le même pays, comme : Georges trois, Louis quatorze. On doit excepter les deux premiers de la série, comme Edward Premier, François Second, Henri Second. Il n'est point exact de dire : François Deux, Henri Deux. Bien des personnes font cette faute.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="morpho">
+          <item type="derivative">à deux mains</item>
+          <item type="derivative">à la six-quatre-deux</item>
+          <item type="derivative">avant-deux</item>
+          <item type="derivative">bête à deux dos</item>
+          <item type="derivative">ça fait deux</item>
+          <item type="derivative">cheval à deux mains</item>
+          <item type="derivative">cinquante-deux</item>
+          <item type="derivative">comme pas deux</item>
+          <item type="derivative">de deux choses l'une</item>
+          <item type="derivative">de mes deux</item>
+          <item type="derivative">deux à deux</item>
+          <item type="derivative">deux par deux</item>
+          <item type="derivative">deux-chevaux</item>
+          <item type="derivative">deuche</item>
+          <item type="derivative">deudeuche</item>
+          <item type="derivative">deux-mâts</item>
+          <item type="derivative">deux-pattes</item>
+          <item type="derivative">deux-pièces</item>
+          <item type="derivative">deux poids et deux mesures</item>
+          <item type="derivative">deux points</item>
+          <item type="derivative">deux-points</item>
+          <item type="derivative">deux-ponts</item>
+          <item type="derivative">deux-roues</item>
+          <item type="derivative">deux-temps</item>
+          <item type="derivative">deuxiémisme</item>
+          <item type="derivative">diploprion à deux bandes</item>
+          <item type="derivative">dormir sur ses deux oreilles</item>
+          <item type="derivative">en moins de deux</item>
+          <item type="derivative">entredeux</item>
+          <item type="derivative">entre-deux</item>
+          <item type="derivative">entre-deux-guerres</item>
+          <item type="derivative">épée à deux mains</item>
+          <item type="derivative">in-trente-deux</item>
+          <item type="derivative">les deux</item>
+          <item type="derivative">les deux côtés de la médaille</item>
+          <item type="derivative">nager entre deux eaux</item>
+          <item type="derivative">poisson-clown à deux bandes</item>
+          <item type="derivative">quarante-deux</item>
+          <item type="derivative">quatre-vingt-deux</item>
+          <item type="derivative">scolie à deux bandes</item>
+          <item type="derivative">soixante-deux</item>
+          <item type="derivative">tous les deux</item>
+          <item type="derivative">trente-deux</item>
+          <item type="derivative">vingt-deux</item>
+        </subsection>
+        <subsection type="phrases">
+          <item>il n'y a pas deux voix</item>
+        </subsection>
+        <subsection type="relatedVocabulary">
+          <item>biathlon</item>
+          <item>biennal</item>
+          <item>bilatéral</item>
+          <item>binaire</item>
+          <item>diarchie</item>
+          <item>double</item>
+          <item>doublement</item>
+          <item>doubler</item>
+          <item>duo</item>
+          <item>dyade</item>
+          <item>second</item>
+          <item>secundo</item>
+          <item>bi-</item>
+          <item>di-</item>
+        </subsection>
+        <translations>
+          <trans lang="abx">duwa</trans>
+          <trans lang="akz">tòklo</trans>
+          <trans lang="de">zwei</trans>
+          <trans lang="alt">эки</trans>
+          <trans lang="en">two</trans>
+          <trans lang="en">both</trans>
+          <trans lang="rup">doi</trans>
+          <trans lang="az">iki</trans>
+          <trans lang="bm">fila</trans>
+          <trans lang="eu">bi</trans>
+          <trans lang="bkd">duwa</trans>
+          <trans lang="akm">wāsi</trans>
+          <trans lang="br">daou</trans>
+          <trans lang="br">div</trans>
+          <trans lang="ca">dos</trans>
+          <trans lang="ca">dues</trans>
+          <trans lang="cjs">ийги</trans>
+          <trans lang="zh">二</trans>
+          <trans lang="zh">两</trans>
+          <trans lang="ko">두</trans>
+          <trans lang="hr">dva</trans>
+          <trans lang="es">dos</trans>
+          <trans lang="es">ambos</trans>
+          <trans lang="es">ambas</trans>
+          <trans lang="eo">du</trans>
+          <trans lang="gag">iki</trans>
+          <trans lang="gl">dous</trans>
+          <trans lang="ka">ორი</trans>
+          <trans lang="gu">બે</trans>
+          <trans lang="el">δύο</trans>
+          <trans lang="el">δυο</trans>
+          <trans lang="ht">de</trans>
+          <trans lang="hi">दो</trans>
+          <trans lang="sah">икки</trans>
+          <trans lang="iu">ᒪᕐᕉᒃ</trans>
+          <trans lang="ruo">doi</trans>
+          <trans lang="it">due</trans>
+          <trans lang="krc">эки</trans>
+          <trans lang="kk">екі</trans>
+          <trans lang="kjh">iкi</trans>
+          <trans lang="ky">эки</trans>
+          <trans lang="kum">эки</trans>
+          <trans lang="ku">du</trans>
+          <trans lang="ku">didu</trans>
+          <trans lang="la">duo</trans>
+          <trans lang="lv">divi</trans>
+          <trans lang="lt">du</trans>
+          <trans lang="ml">രണ്ട്</trans>
+          <trans lang="mg">roa</trans>
+          <trans lang="mta">duwa</trans>
+          <trans lang="ruq">doi</trans>
+          <trans lang="nog">эки</trans>
+          <trans lang="oc">dos</trans>
+          <trans lang="oc">doas</trans>
+          <trans lang="pt">dois</trans>
+          <trans lang="pt">duas</trans>
+          <trans lang="ru">два</trans>
+          <trans lang="se">guokte</trans>
+          <trans lang="sc">duos</trans>
+          <trans lang="sk">dva</trans>
+          <trans lang="sk">dve</trans>
+          <trans lang="slovio">dva</trans>
+          <trans lang="ses">ihinka</trans>
+          <trans lang="sv">två</trans>
+          <trans lang="ta">இரண்டு</trans>
+          <trans lang="crh">eki</trans>
+          <trans lang="cs">dva</trans>
+          <trans lang="cs">dvě</trans>
+          <trans lang="cv">иккĕ</trans>
+          <trans lang="cv">икĕ</trans>
+          <trans lang="cv">ик</trans>
+          <trans lang="kim">иъһи</trans>
+          <trans lang="tyv">ийи</trans>
+          <trans lang="tsolyáni">gán</trans>
+          <trans lang="tpw">mocói</trans>
+          <trans lang="tr">iki</trans>
+          <trans lang="tk">iki</trans>
+          <trans lang="uum">эт'и</trans>
+          <trans lang="wls">lua</trans>
+          <trans lang="wa">deus</trans>
+        </translations>
+      </pos>
+      <pos type="nom" lemma="1" locution="0" homoNb="1" gender="m" number="sp">
+        <pronunciations>
+          <pron>dø</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="deux" gracePOS="Ncms" prons="dø"/>
+          <inflection form="deux" gracePOS="Ncmp" prons="dø"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="chiffre">Chiffre</innerLink> qui <innerLink ref="marquer">marque</innerLink> <b>deux</b>.</xml>
+              <txt>Chiffre qui marque deux.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Ce <b>deux</b> est mal fait.</i>
+              </xml>
+              <txt>Ce deux est mal fait.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Effacez ce <b>deux</b>.</i>
+              </xml>
+              <txt>Effacez ce deux.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Nombre représentant <b>deux</b> unités.</xml>
+              <txt>Nombre représentant deux unités.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Le produit de <b>deux</b> multiplié par cinq.</i>
+              </xml>
+              <txt>Le produit de deux multiplié par cinq.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Le nombre <b>deux</b>.</i>
+              </xml>
+              <txt>Le nombre deux.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Deux</b> à <b>deux</b>.</i>
+              </xml>
+              <txt>Deux à deux.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Je prendrai les <b>deux</b> à la fois.</i>
+              </xml>
+              <txt>Je prendrai les deux à la fois.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Je les ai vus tous <b>deux</b> ensemble, tous les <b>deux</b>.</i>
+              </xml>
+              <txt>Je les ai vus tous deux ensemble, tous les deux.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="synonym">couple</item>
+          <item type="synonym">paire</item>
+        </subsection>
+        <subsection type="morpho">
+          <item type="derivative">à deux-deux</item>
+          <item type="derivative">à deux-huit</item>
+          <item type="derivative">à deux-quatre</item>
+          <item type="derivative">à deux-seize</item>
+          <item type="derivative">clair comme deux et deux font quatre</item>
+          <item type="derivative">couper la poire en deux</item>
+          <item type="derivative">deuxième</item>
+          <item type="derivative">deuxièmement</item>
+          <item type="derivative">deuxio</item>
+          <item type="derivative">deuzio</item>
+          <item type="derivative">double-deux</item>
+          <item type="derivative">entre deux</item>
+          <item type="derivative">entre-deux</item>
+          <item type="derivative">les deux font la paire</item>
+          <item type="derivative">ne faire ni une ni deux</item>
+          <item type="derivative">partagé en deux</item>
+          <item type="derivative">partager en deux</item>
+          <item type="derivative">piquer des deux</item>
+          <item type="derivative">se partager en deux</item>
+          <item type="derivative">une-deux</item>
+        </subsection>
+        <translations>
+          <trans lang="af">twee</trans>
+          <trans lang="sq">dy</trans>
+          <trans lang="de">zwei</trans>
+          <trans lang="de">zwo</trans>
+          <trans lang="en">two</trans>
+          <trans lang="ang">twēġen</trans>
+          <trans lang="ang">twa</trans>
+          <trans lang="ar">اثنان</trans>
+          <trans lang="eu">bi</trans>
+          <trans lang="br">daou</trans>
+          <trans lang="br">div</trans>
+          <trans lang="ca">dos</trans>
+          <trans lang="ca">dues</trans>
+          <trans lang="zh">二</trans>
+          <trans lang="ko">이</trans>
+          <trans lang="ko">둘</trans>
+          <trans lang="kw">deu</trans>
+          <trans lang="kw">dyw</trans>
+          <trans lang="es">dos</trans>
+          <trans lang="eo">du</trans>
+          <trans lang="et">kaks</trans>
+          <trans lang="fi">kaksi</trans>
+          <trans lang="fur">doi</trans>
+          <trans lang="fy">twa</trans>
+          <trans lang="gl">dous</trans>
+          <trans lang="cy">dau</trans>
+          <trans lang="cy">dwy</trans>
+          <trans lang="cy">ail</trans>
+          <trans lang="ka">ორი</trans>
+          <trans lang="gu">બે</trans>
+          <trans lang="el">δύο</trans>
+          <trans lang="el">δυάρι</trans>
+          <trans lang="grc">δύο</trans>
+          <trans lang="gn">mokõi</trans>
+          <trans lang="he">שתיים</trans>
+          <trans lang="he">שניים</trans>
+          <trans lang="hbo">שנים</trans>
+          <trans lang="hi">दो</trans>
+          <trans lang="hu">kettő</trans>
+          <trans lang="io">du</trans>
+          <trans lang="id">dua</trans>
+          <trans lang="ia">duo</trans>
+          <trans lang="iu">ᒪᕐᕉᒃ</trans>
+          <trans lang="is">tveir</trans>
+          <trans lang="is">tvær</trans>
+          <trans lang="is">tvö</trans>
+          <trans lang="it">due</trans>
+          <trans lang="ja">二</trans>
+          <trans lang="kk">екі</trans>
+          <trans lang="ky">эки</trans>
+          <trans lang="ku">du</trans>
+          <trans lang="ku">didu</trans>
+          <trans lang="lv">divi</trans>
+          <trans lang="li">twieë</trans>
+          <trans lang="lt">du</trans>
+          <trans lang="jbo">re</trans>
+          <trans lang="mg">roa</trans>
+          <trans lang="mnc">juwe</trans>
+          <trans lang="mi">rua</trans>
+          <trans lang="mrq">úa</trans>
+          <trans lang="mqm">úa</trans>
+          <trans lang="mh">ruo</trans>
+          <trans lang="mn">хоёр</trans>
+          <trans lang="nah">ome</trans>
+          <trans lang="nap">ddoje</trans>
+          <trans lang="na">aro</trans>
+          <trans lang="nog">эки</trans>
+          <trans lang="fra-nor">déeus</trans>
+          <trans lang="no">to</trans>
+          <trans lang="nov">du</trans>
+          <trans lang="oc">dos</trans>
+          <trans lang="oc">doas</trans>
+          <trans lang="fa">دو</trans>
+          <trans lang="pid">tacéreh</trans>
+          <trans lang="pl">dwa</trans>
+          <trans lang="pt">dois</trans>
+          <trans lang="pt">duas</trans>
+          <trans lang="pt">número dois</trans>
+          <trans lang="ro">doi</trans>
+          <trans lang="ro">două</trans>
+          <trans lang="ro">numărul doi</trans>
+          <trans lang="ru">два</trans>
+          <trans lang="se">guokte</trans>
+          <trans lang="sa">द्वौ</trans>
+          <trans lang="sa">द्वा</trans>
+          <trans lang="sa">द्वे</trans>
+          <trans lang="sc">duos</trans>
+          <trans lang="trv">daha</trans>
+          <trans lang="sd">ٻَه</trans>
+          <trans lang="ses">ihinka</trans>
+          <trans lang="sv">två</trans>
+          <trans lang="ty">toopiti</trans>
+          <trans lang="ty">rua</trans>
+          <trans lang="cs">dvojka</trans>
+          <trans lang="ckt">ӈэръа</trans>
+          <trans lang="th">สอง</trans>
+          <trans lang="tpi">tupela</trans>
+          <trans lang="tr">iki</trans>
+          <trans lang="tvl">lua</trans>
+          <trans lang="vec">du</trans>
+          <trans lang="vec">dó</trans>
+          <trans lang="vi">hai</trans>
+          <trans lang="wa">deus</trans>
+          <trans lang="yo">eéjì</trans>
+        </translations>
+      </pos>
+      <pos type="nom" lemma="1" locution="0" homoNb="2" gender="e" number="sp">
+        <pronunciations>
+          <pron>dø</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="deux" gracePOS="Ncms" prons="dø"/>
+          <inflection form="deux" gracePOS="Ncmp" prons="dø"/>
+          <inflection form="deux" gracePOS="Ncfs" prons="dø"/>
+          <inflection form="deux" gracePOS="Ncfp" prons="dø"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="sem" value="métonymie"/>
+              </labels>
+              <xml>Quelque chose repéré par le chiffre 2 (par exemple, <innerLink ref="carte à jouer">carte à jouer</innerLink>, <innerLink ref="côté">côté</innerLink> d'un <innerLink ref="dé">dé</innerLink> qui <innerLink ref="porter">porte</innerLink> deux <innerLink ref="point">point</innerLink>s, <innerLink ref="cheval">cheval</innerLink> dans une <innerLink ref="course">course</innerLink>, etc.).</xml>
+              <txt>Quelque chose repéré par le chiffre 2 (par exemple, carte à jouer, côté d'un dé qui porte deux points, cheval dans une course, etc.).</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Un <b>deux</b> de cœur, de pique, d'un domino.</i>
+              </xml>
+              <txt>Un deux de cœur, de pique, d'un domino.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Amener cinq et <b>deux</b>.</i>
+              </xml>
+              <txt>Amener cinq et deux.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>C'est le <b>deux</b> qui a remporté la course.</i>
+              </xml>
+              <txt>C'est le deux qui a remporté la course.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>La <b>deux</b> est une piste difficile.</i>
+              </xml>
+              <txt>La deux est une piste difficile.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="paronyms">
+          <item>de</item>
+          <item>dieu</item>
+        </subsection>
+      </pos>
+      <section type="homophones">
+        <item>eux</item>
+        <item>œufs</item>
+      </section>
+    </text>
+  </article>

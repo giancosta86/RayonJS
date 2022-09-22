@@ -1,0 +1,46 @@
+  <article>
+    <title>crayons</title>
+    <pageId>146368</pageId>
+    <meta/>
+    <text>
+      <pos type="nom" lemma="0" locution="0" number="p" gender="m">
+        <pronunciations>
+          <pron>kʁɛ.jɔ̃</pron>
+        </pronunciations>
+        <inflectionInfos>
+          <inflectedForm gracePOS="Ncmp" lemma="crayon"/>
+        </inflectionInfos>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><i>Pluriel de</i><i><innerLink ref="crayon">crayon</innerLink></i>.</xml>
+              <txt>Pluriel de crayon.</txt>
+            </gloss>
+          </definition>
+        </definitions>
+      </pos>
+      <pos type="verbe" lemma="0" locution="0">
+        <pronunciations>
+          <pron>kʁɛ.jɔ̃</pron>
+        </pronunciations>
+        <inflectionInfos>
+          <inflectedForm gracePOS="Vmip1p-" lemma="crayer"/>
+          <inflectedForm gracePOS="Vmmp1p-" lemma="crayer"/>
+        </inflectionInfos>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml><i>Première personne du pluriel de l'indicatif présent du verbe</i><innerLink ref="crayer">crayer</innerLink>.</xml>
+              <txt>Première personne du pluriel de l'indicatif présent du verbe crayer.</txt>
+            </gloss>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><i>Première personne du pluriel de l'impératif du verbe</i><innerLink ref="crayer">crayer</innerLink>.</xml>
+              <txt>Première personne du pluriel de l'impératif du verbe crayer.</txt>
+            </gloss>
+          </definition>
+        </definitions>
+      </pos>
+    </text>
+  </article>

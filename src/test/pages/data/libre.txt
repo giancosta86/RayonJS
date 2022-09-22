@@ -1,0 +1,780 @@
+  <article>
+    <title>libre</title>
+    <pageId>11732</pageId>
+    <meta>
+      <reference>LarousseXXe</reference>
+      <reference>DAF8</reference>
+      <reference>TLFi</reference>
+    </meta>
+    <text>
+      <pronunciations>
+        <pron area="France">libʁ</pron>
+      </pronunciations>
+      <etymology>
+        <etym>
+          <xml>du latin <foreignWord lang="la" sense="libre », « sans entrave », « indépendant">liber</foreignWord>.</xml>
+          <txt>du latin liber  (libre », « sans entrave », « indépendant).</txt>
+        </etym>
+      </etymology>
+      <pos type="adjectif" lemma="1" locution="0" homoNb="1" gender="e" number="s">
+        <pronunciations>
+          <pron>libʁ</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="libre" gracePOS="Afpms" prons="libʁ"/>
+          <inflection form="libre" gracePOS="Afpfs" prons="libʁ"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <xml>Qui a le pouvoir de faire ce qu'il <innerLink ref="vouloir">veut</innerLink>, d'<innerLink ref="agir">agir</innerLink> ou de ne pas agir.</xml>
+              <txt>Qui a le pouvoir de faire ce qu'il veut, d'agir ou de ne pas agir.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>L'homme est né <b>libre</b>.</i>
+              </xml>
+              <txt>L'homme est né libre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>La volonté est <b>libre</b>, est une faculté <b>libre</b>.</i>
+              </xml>
+              <txt>La volonté est libre, est une faculté libre.</txt>
+            </example>
+            <example>
+              <xml><i>Les volontés sont libres,</i> se dit pour exprimer qu'On laisse à quelqu'un la liberté de faire ou de ne pas faire telle chose.</xml>
+              <txt>Les volontés sont libres, se dit pour exprimer qu'On laisse à quelqu'un la liberté de faire ou de ne pas faire telle chose.</txt>
+            </example>
+            <example>
+              <xml><i>Allez-vous-en si cela vous plaît, les volontés sont libres.</i> On dit de même</xml>
+              <txt>Allez-vous-en si cela vous plaît, les volontés sont libres. On dit de même</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Les opinions, les goûts sont libres.</i>
+              </xml>
+              <txt>Les opinions, les goûts sont libres.</txt>
+            </example>
+            <example>
+              <xml><i>L'homme a son <b>libre</b> arbitre,</i> Il est maître de choisir entre le bien et le mal.</xml>
+              <txt>L'homme a son libre arbitre, Il est maître de choisir entre le bien et le mal.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Il se dit par opposition à <innerLink ref="esclave">esclave</innerLink>, <innerLink ref="servile">servile</innerLink>.</xml>
+              <txt>Il se dit par opposition à esclave, servile.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>C'est un homme de condition <b>libre</b>.</i>
+              </xml>
+              <txt>C'est un homme de condition libre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Être né <b>libre</b>.</i>
+              </xml>
+              <txt>Être né libre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Libre</b> de sa personne.</i>
+              </xml>
+              <txt>Libre de sa personne.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Il se dit par opposition à <innerLink ref="captif">captif</innerLink>, <innerLink ref="prisonnier">prisonnier</innerLink>.</xml>
+              <txt>Il se dit par opposition à captif, prisonnier.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Il était prisonnier, mais à présent il est <b>libre</b>.</i>
+              </xml>
+              <txt>Il était prisonnier, mais à présent il est libre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="indépendant">Indépendant</innerLink>.</xml>
+              <txt>Indépendant.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Il est <b>libre</b> et ne dépend de personne.</i>
+              </xml>
+              <txt>Il est libre et ne dépend de personne.</txt>
+            </example>
+            <example>
+              <labels>
+                <label type="attitudinal" value="familier"/>
+              </labels>
+              <xml><i>Il ne veut prendre aucun engagement, il veut demeurer <b>libre</b>.</i> ,</xml>
+              <txt>Il ne veut prendre aucun engagement, il veut demeurer libre. ,</txt>
+            </example>
+            <example>
+              <xml>
+                <i><b>Libre</b> comme l'air.</i>
+              </xml>
+              <txt>Libre comme l'air.</txt>
+            </example>
+            <example>
+              <xml><i>Membre <b>libre</b> d'une académie,</i> membre appartenant à l'Académie des inscriptions et belles-lettres, à l'Académie des sciences, à l'Académie des beaux-Arts ou à l'Académie des sciences morales et politiques, qui, tout en jouissant en général des mêmes droits que les académiciens ordinaires (membres ordinaires) n'en a cependant pas tous les privilèges.</xml>
+              <txt>Membre libre d'une académie, membre appartenant à l'Académie des inscriptions et belles-lettres, à l'Académie des sciences, à l'Académie des beaux-Arts ou à l'Académie des sciences morales et politiques, qui, tout en jouissant en général des mêmes droits que les académiciens ordinaires (membres ordinaires) n'en a cependant pas tous les privilèges.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui n'est pas <innerLink ref="marier">marié</innerLink>.</xml>
+              <txt>Qui n'est pas marié.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Pourquoi une jeune personne aussi exemplaire et aussi attrayante demeure-t-elle <b>libre</b>, quand elle devrait être dix fois mariée ?</i>
+              </xml>
+              <txt>Pourquoi une jeune personne aussi exemplaire et aussi attrayante demeure-t-elle libre, quand elle devrait être dix fois mariée ?</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Il se dit aussi en parlant des <innerLink ref="État">État</innerLink>s où le <innerLink ref="peuple">peuple</innerLink> <innerLink ref="participe">participe</innerLink> à la <innerLink ref="puissance">puissance</innerLink> <innerLink ref="législatif">législative</innerLink>, <innerLink ref="soit">soit</innerLink> par <innerLink ref="lui-même">lui-même</innerLink>, soit par ses <innerLink ref="mandataire">mandataire</innerLink>s, et où les <innerLink ref="droit">droit</innerLink>s <innerLink ref="civil">civil</innerLink>s et <innerLink ref="politique">politique</innerLink>s sont <innerLink ref="garantir">garantis</innerLink> par la <innerLink ref="constitution">constitution</innerLink>.</xml>
+              <txt>Il se dit aussi en parlant des États où le peuple participe à la puissance législative, soit par lui-même, soit par ses mandataires, et où les droits civils et politiques sont garantis par la constitution.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Un état <b>libre</b>.</i>
+              </xml>
+              <txt>Un état libre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Un peuple <b>libre</b>.</i>
+              </xml>
+              <txt>Un peuple libre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Une nation <b>libre</b>.</i>
+              </xml>
+              <txt>Une nation libre.</txt>
+            </example>
+            <example>
+              <xml><i>Ville <b>libre</b>,</i> en Allemagne, ville qui, n'étant soumise à aucun prince, était gouvernée par ses propres magistrats.</xml>
+              <txt>Ville libre, en Allemagne, ville qui, n'étant soumise à aucun prince, était gouvernée par ses propres magistrats.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Les villes hanséatiques étaient des <b>villes</b> libres.</i>
+              </xml>
+              <txt>Les villes hanséatiques étaient des villes libres.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui n'<innerLink ref="éprouver">éprouve</innerLink> <innerLink ref="aucun">aucun</innerLink>e <innerLink ref="contraint">contraint</innerLink>e, aucune <innerLink ref="gêne">gêne</innerLink>.</xml>
+              <txt>Qui n'éprouve aucune contrainte, aucune gêne.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>On est fort <b>libre</b> dans cette maison.</i>
+              </xml>
+              <txt>On est fort libre dans cette maison.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui est <innerLink ref="hardi">hardi</innerLink>, <innerLink ref="indiscret">indiscret</innerLink>, <innerLink ref="inconvenant">inconvenant</innerLink>.</xml>
+              <txt>Qui est hardi, indiscret, inconvenant.</txt>
+            </gloss>
+            <example>
+              <xml><i>Il est trop <b>libre</b> avec les femmes.</i> Par extension,</xml>
+              <txt>Il est trop libre avec les femmes. Par extension,</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il a des manières, un ton, il tient des propos bien libres.</i>
+              </xml>
+              <txt>Il a des manières, un ton, il tient des propos bien libres.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il est trop <b>libre</b> dans ses paroles.</i>
+              </xml>
+              <txt>Il est trop libre dans ses paroles.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il a fait des chansons, des contes, des vers très libres.</i>
+              </xml>
+              <txt>Il a fait des chansons, des contes, des vers très libres.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>A, dans les <innerLink ref="phrase">phrase</innerLink>s ou <innerLink ref="locution">locution</innerLink>s qui <innerLink ref="suivre">suivent</innerLink>, des <innerLink ref="acception">acception</innerLink>s plus ou moins <innerLink ref="voisin">voisin</innerLink>es de ces divers sens :</xml>
+              <txt>A, dans les phrases ou locutions qui suivent, des acceptions plus ou moins voisines de ces divers sens :</txt>
+            </gloss>
+            <example>
+              <xml><i>Le vote n'est pas <b>libre</b> dans cette assemblée,</i> on n'ose y dire son avis, y voter selon sa conscience.</xml>
+              <txt>Le vote n'est pas libre dans cette assemblée, on n'ose y dire son avis, y voter selon sa conscience.</txt>
+            </example>
+            <example>
+              <xml><i>Le commerce est <b>libre</b> dans ce pays,</i> il n'y est point entravé par des lois prohibitives.</xml>
+              <txt>Le commerce est libre dans ce pays, il n'y est point entravé par des lois prohibitives.</txt>
+            </example>
+            <example>
+              <xml><i>La presse est <b>libre</b> dans ce pays,</i> les écrits destinés à l'impression n'y sont point soumis à une censure préalable.</xml>
+              <txt>La presse est libre dans ce pays, les écrits destinés à l'impression n'y sont point soumis à une censure préalable.</txt>
+            </example>
+            <example>
+              <xml><i>Les mers sont <b>libres</b>,</i> on peut y naviguer, sans crainte.</xml>
+              <txt>Les mers sont libres, on peut y naviguer, sans crainte.</txt>
+            </example>
+            <example>
+              <xml><i>Les passages, les chemins sont <b>libres</b>,</i> on peut y aller sans rencontrer aucun embarras, aucun empêchement, aucun danger.''</xml>
+              <txt>Les passages, les chemins sont libres, on peut y aller sans rencontrer aucun embarras, aucun empêchement, aucun danger.</txt>
+            </example>
+            <example>
+              <xml><i>La campagne est <b>libre</b>,</i> les ennemis ne l'occupent plus.</xml>
+              <txt>La campagne est libre, les ennemis ne l'occupent plus.</txt>
+            </example>
+            <example>
+              <xml><i>Avoir ses entrées <b>libres</b> chez quelqu'un,</i> avoir la facilité d'entrer à toute heure chez lui.''</xml>
+              <txt>Avoir ses entrées libres chez quelqu'un, avoir la facilité d'entrer à toute heure chez lui.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Avoir <b>libre</b> accès, un <b>libre</b> accès auprès de quelqu'un.</i>
+              </xml>
+              <txt>Avoir libre accès, un libre accès auprès de quelqu'un.</txt>
+            </example>
+            <example>
+              <xml><i>Avoir son temps <b>libre</b>,</i> N'avoir point d'occupation obligée.''</xml>
+              <txt>Avoir son temps libre, N'avoir point d'occupation obligée.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Être <b>libre</b>.</i>
+              </xml>
+              <txt>Être libre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Je serai <b>libre</b> demain toute la journée.</i>
+              </xml>
+              <txt>Je serai libre demain toute la journée.</txt>
+            </example>
+            <example>
+              <xml><i>Avoir le cœur <b>libre</b>,</i> N'être pas amoureux.</xml>
+              <txt>Avoir le cœur libre, N'être pas amoureux.</txt>
+            </example>
+            <example>
+              <xml><i>N'avoir pas l'esprit <b>libre</b>,</i> être tellement préoccupé qu'on est incapable de s'appliquer.</xml>
+              <txt>N'avoir pas l'esprit libre, être tellement préoccupé qu'on est incapable de s'appliquer.</txt>
+            </example>
+            <example>
+              <xml><i>Vers libres,</i> Ceux où l'on admet différentes mesures, qui ne sont pas soumis au retour d'un rythme régulier ou qui s'affranchissent de certaines règles.</xml>
+              <txt>Vers libres, Ceux où l'on admet différentes mesures, qui ne sont pas soumis au retour d'un rythme régulier ou qui s'affranchissent de certaines règles.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Pièce écrite en vers libres.</i>
+              </xml>
+              <txt>Pièce écrite en vers libres.</txt>
+            </example>
+            <example>
+              <xml><i>Traduction <b>libre</b>,</i> Traduction qui n'est pas littérale, où l'on ne s'est pas asservi à suivre exactement le texte.</xml>
+              <txt>Traduction libre, Traduction qui n'est pas littérale, où l'on ne s'est pas asservi à suivre exactement le texte.</txt>
+            </example>
+            <example>
+              <xml><i>Papier <b>libre</b></i> se dit par opposition à Papier timbré.</xml>
+              <txt>Papier libre se dit par opposition à Papier timbré.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il suffit que cet acte soit écrit sur papier <b>libre</b>.</i>
+              </xml>
+              <txt>Il suffit que cet acte soit écrit sur papier libre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="domain" value="marine"/>
+              </labels>
+              <xml>Qui <innerLink ref="dégager">est dégagé</innerLink> de <innerLink ref="glace">glace</innerLink>s, en parlant de la <innerLink ref="mer">mer</innerLink>.</xml>
+              <txt>Qui est dégagé de glaces, en parlant de la mer.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Ayant franchi quelques glaces serrées, nous gagnâmes un chenal d'eau <b>libre</b> le long de terre où nous draguâmes, sondâmes et recueillîmes des températures et échantillons d'eau de mer.</i>
+              </xml>
+              <txt>Ayant franchi quelques glaces serrées, nous gagnâmes un chenal d'eau libre le long de terre où nous draguâmes, sondâmes et recueillîmes des températures et échantillons d'eau de mer.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>En termes de <innerLink ref="voirie">voirie</innerLink>, se dit d'une <innerLink ref="voie">voie</innerLink> où un train peut s'engager sans risques.</xml>
+              <txt>En termes de voirie, se dit d'une voie où un train peut s'engager sans risques.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>La voie est <b>libre</b>.</i>
+              </xml>
+              <txt>La voie est libre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui a de la <innerLink ref="facilité">facilité</innerLink>, de l'<innerLink ref="aisance">aisance</innerLink>, qui n'est pas <innerLink ref="gêner">gêné</innerLink> ou <innerLink ref="contraindre">contraint</innerLink> dans ses <innerLink ref="mouvement">mouvement</innerLink>s.</xml>
+              <txt>Qui a de la facilité, de l'aisance, qui n'est pas gêné ou contraint dans ses mouvements.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Il est <b>libre</b> dans son allure.</i>
+              </xml>
+              <txt>Il est libre dans son allure.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il a la taille <b>libre</b> et aisée.</i>
+              </xml>
+              <txt>Il a la taille libre et aisée.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Avoir une contenance <b>libre</b>, un air <b>libre</b>.</i>
+              </xml>
+              <txt>Avoir une contenance libre, un air libre.</txt>
+            </example>
+            <example>
+              <xml><i>Il a les mouvements libres.</i> Par extension,</xml>
+              <txt>Il a les mouvements libres. Par extension,</txt>
+            </example>
+            <example>
+              <xml><i>Roue <b>libre</b>.</i> Voyez « roue ».</xml>
+              <txt>Roue libre. Voyez « roue ».</txt>
+            </example>
+            <example>
+              <xml><i>Pinceau, crayon, burin <b>libre</b>,</i> Pinceau, crayon, etc., manié avec facilité par l'artiste qui s'en sert.</xml>
+              <txt>Pinceau, crayon, burin libre, Pinceau, crayon, etc., manié avec facilité par l'artiste qui s'en sert.</txt>
+            </example>
+            <example>
+              <xml><i>Avoir la parole <b>libre</b>,</i> N'avoir point d'empêchement dans la parole.</xml>
+              <txt>Avoir la parole libre, N'avoir point d'empêchement dans la parole.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Il bégayait légèrement, maintenant il a la parole parfaitement <b>libre</b>.</i>
+              </xml>
+              <txt>Il bégayait légèrement, maintenant il a la parole parfaitement libre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui n'est pas la <innerLink ref="propriété">propriété</innerLink> d'un <innerLink ref="maitre">maitre</innerLink>, en parlant de <innerLink ref="personne">personne</innerLink>s, d'<innerLink ref="êtres humains">êtres humains</innerLink>, voire d'<innerLink ref="animaux">animaux</innerLink>.</xml>
+              <txt>Qui n'est pas la propriété d'un maitre, en parlant de personnes, d'êtres humains, voire d'animaux.</txt>
+            </gloss>
+            <example>
+              <xml><i>Tout homme est né <b>libre</b></i>.</xml>
+              <txt>Tout homme est né libre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="sem" value="par extension"/>
+              </labels>
+              <xml>Qui ne <innerLink ref="subir">subit</innerLink> pas la <innerLink ref="domination">domination</innerLink> <innerLink ref="étrangère">étrangère</innerLink>, en parlant d'un <innerLink ref="territoire">territoire</innerLink> ou de ses <innerLink ref="habitant">habitant</innerLink>s.</xml>
+              <txt>Qui ne subit pas la domination étrangère, en parlant d'un territoire ou de ses habitants.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Nous sommes dans un pays <b>libre</b>.</i>
+              </xml>
+              <txt>Nous sommes dans un pays libre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="sem" value="par extension"/>
+              </labels>
+              <xml>Qui n'est ni <innerLink ref="esclave">esclave</innerLink>, ni <innerLink ref="servile">servile</innerLink>.</xml>
+              <txt>Qui n'est ni esclave, ni servile.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>C'est un homme de condition <b>libre</b>.</i>
+              </xml>
+              <txt>C'est un homme de condition libre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="sem" value="par extension"/>
+              </labels>
+              <xml>Qui n'est pas <innerLink ref="captif">captif</innerLink> ou <innerLink ref="prisonnier">prisonnier</innerLink>.</xml>
+              <txt>Qui n'est pas captif ou prisonnier.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Tout prisonnier souhaite être <b>libre</b>.</i>
+              </xml>
+              <txt>Tout prisonnier souhaite être libre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui ne subit aucune <innerLink ref="contrainte">contrainte</innerLink> dans ses <innerLink ref="acte">acte</innerLink>s, ses <innerLink ref="parole">parole</innerLink>s, etc.</xml>
+              <txt>Qui ne subit aucune contrainte dans ses actes, ses paroles, etc.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>J'aurais pu […] accepter les offres engageantes des jeunes et jolies Mangavériennes, avoir là des enfants bronzés qui auraient grandi <b>libres</b> et heureux sous le chaud soleil de la Polynésie.</i>
+              </xml>
+              <txt>J'aurais pu […] accepter les offres engageantes des jeunes et jolies Mangavériennes, avoir là des enfants bronzés qui auraient grandi libres et heureux sous le chaud soleil de la Polynésie.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui n'est pas <innerLink ref="engagé">engagé</innerLink> dans une <innerLink ref="passion">passion</innerLink> <innerLink ref="amoureux">amoureuse</innerLink> ou par les liens du <innerLink ref="mariage">mariage</innerLink>.</xml>
+              <txt>Qui n'est pas engagé dans une passion amoureuse ou par les liens du mariage.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Je cherche un cœur <b>libre</b>.</i>
+              </xml>
+              <txt>Je cherche un cœur libre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui ne subit la contrainte d'aucune <innerLink ref="autorité">autorité</innerLink> <innerLink ref="arbitraire">arbitraire</innerLink>, en parlant de <innerLink ref="citoyen">citoyen</innerLink>s ou d'un <innerLink ref="peuple">peuple</innerLink>.</xml>
+              <txt>Qui ne subit la contrainte d'aucune autorité arbitraire, en parlant de citoyens ou d'un peuple.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Nous sommes des citoyens <b>libres</b>.</i>
+              </xml>
+              <txt>Nous sommes des citoyens libres.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Tout homme <b>libre</b> ne devra avoir ni travail, ni famille, ni patrie.</i>
+              </xml>
+              <txt>Tout homme libre ne devra avoir ni travail, ni famille, ni patrie.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui <innerLink ref="douer">est doué</innerLink> de <innerLink ref="libre arbitre">libre arbitre</innerLink>, qui a la <innerLink ref="liberté">liberté</innerLink> de <innerLink ref="se déterminer">se déterminer</innerLink>, de <innerLink ref="choisir">choisir</innerLink>, de <innerLink ref="faire">faire</innerLink> ou ne pas faire.</xml>
+              <txt>Qui est doué de libre arbitre, qui a la liberté de se déterminer, de choisir, de faire ou ne pas faire.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Ô phrénologues ! L'inéducabilité érigée en principe ? quel inhominalisme ! La sublime créature est éducable, voyante et <b>libre</b>, criminelle ou vertueuse à son choix, responsable.</i>
+              </xml>
+              <txt>Ô phrénologues ! L'inéducabilité érigée en principe ? quel inhominalisme ! La sublime créature est éducable, voyante et libre, criminelle ou vertueuse à son choix, responsable.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>L'homme que tourmente la faim n'est pas <b>libre</b>.</i>
+                <linkWikiProject target="Michel Chevalier">Michel Chevalier</linkWikiProject>
+              </xml>
+              <txt>L'homme que tourmente la faim n'est pas libre. Michel Chevalier</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Laissez-moi, je suis <b>libre</b> de faire ce que bon me semble.</i>
+              </xml>
+              <txt>Laissez-moi, je suis libre de faire ce que bon me semble.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui n'est pas <innerLink ref="gêner">gêné</innerLink> ou <innerLink ref="contraindre">contraint</innerLink> dans ses <innerLink ref="mouvement">mouvement</innerLink>s, dans ses <innerLink ref="déplacement">déplacement</innerLink>s.</xml>
+              <txt>Qui n'est pas gêné ou contraint dans ses mouvements, dans ses déplacements.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Selon toute apparence, la dissémination des animaux fixés est toujours due à des œufs qui, sortis du sein de la mère, vont éclore au loin, et qui, dans l'immense majorité des cas, donnent naissance à des larves, d'abord <b>libres</b> et mobiles.</i>
+              </xml>
+              <txt>Selon toute apparence, la dissémination des animaux fixés est toujours due à des œufs qui, sortis du sein de la mère, vont éclore au loin, et qui, dans l'immense majorité des cas, donnent naissance à des larves, d'abord libres et mobiles.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui n'est soumis à aucune <innerLink ref="contrainte">contrainte</innerLink>, qui n'est ni <innerLink ref="gêné">gêné</innerLink> ni <innerLink ref="entravé">entravé</innerLink>, en parlant de <innerLink ref="chose">chose</innerLink>s, d'<innerLink ref="objet">objet</innerLink>s, d'idées, d'actions.</xml>
+              <txt>Qui n'est soumis à aucune contrainte, qui n'est ni gêné ni entravé, en parlant de choses, d'objets, d'idées, d'actions.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>C'est un commerce <b>libre</b>.</i>
+              </xml>
+              <txt>C'est un commerce libre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui n'est pas <innerLink ref="enfermé">enfermé</innerLink>, <innerLink ref="clos">clos</innerLink>, <innerLink ref="restreint">restreint</innerLink>.</xml>
+              <txt>Qui n'est pas enfermé, clos, restreint.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Nous avons la chance de vivre à l'air <b>libre</b>.</i>
+              </xml>
+              <txt>Nous avons la chance de vivre à l'air libre.</txt>
+            </example>
+            <example>
+              <xml>Qui n'est pas soumis à certaines <innerLink ref="règle">règle</innerLink>s :</xml>
+              <txt>Qui n'est pas soumis à certaines règles :</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui n'est pas soumis aux règles de la <innerLink ref="décence">décence</innerLink>.</xml>
+              <txt>Qui n'est pas soumis aux règles de la décence.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Nous avons trouvé quelques contes <b>libres</b>.</i>
+              </xml>
+              <txt>Nous avons trouvé quelques contes libres.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui n'est pas soumis aux règles de l'<innerLink ref="exactitude">exactitude</innerLink>.</xml>
+              <txt>Qui n'est pas soumis aux règles de l'exactitude.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Ce que j'ai fait n'est qu'une traduction <b>libre</b>.</i>
+              </xml>
+              <txt>Ce que j'ai fait n'est qu'une traduction libre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui est <innerLink ref="disponible">disponible</innerLink>, qui n'est <innerLink ref="possédé">possédé</innerLink> par <innerLink ref="personne">personne</innerLink>.</xml>
+              <txt>Qui est disponible, qui n'est possédé par personne.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Là-bas il y a une place de parking <b>libre</b>.</i>
+              </xml>
+              <txt>Là-bas il y a une place de parking libre.</txt>
+            </example>
+            <example>
+              <xml><i>Espace <b>libre</b>,</i> espace qui n'est point occupé, rempli.</xml>
+              <txt>Espace libre, espace qui n'est point occupé, rempli.</txt>
+            </example>
+            <example>
+              <xml><i>Cette place est <b>libre</b>,</i> personne ne l'occupe, on peut la prendre, s'y mettre.</xml>
+              <txt>Cette place est libre, personne ne l'occupe, on peut la prendre, s'y mettre.</txt>
+            </example>
+            <example>
+              <xml>
+                <i>Appartement <b>libre</b>.</i>
+              </xml>
+              <txt>Appartement libre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml><innerLink ref="gratuit">Gratuit</innerLink>.</xml>
+              <txt>Gratuit.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Entrée <b>libre</b>, inscription <b>libre</b>.</i>
+              </xml>
+              <txt>Entrée libre, inscription libre.</txt>
+            </example>
+          </definition>
+          <definition>
+            <gloss>
+              <xml>Qui n'est pas <innerLink ref="grévé">grévé</innerLink> de <innerLink ref="droit d'auteur">droit d'auteur</innerLink> ou de <innerLink ref="copyright">copyright</innerLink>, en parlant d'une <innerLink ref="licence">licence</innerLink> légale appliquée à une <innerLink ref="œuvre">œuvre</innerLink>.</xml>
+              <txt>Qui n'est pas grévé de droit d'auteur ou de copyright, en parlant d'une licence légale appliquée à une œuvre.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i>Cet ouvrage est <b>libre</b> de droits.</i>
+              </xml>
+              <txt>Cet ouvrage est libre de droits.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="synonym">franc</item>
+          <item type="synonym">loisible</item>
+          <item type="antonym">occupé</item>
+        </subsection>
+        <subsection type="morpho">
+          <item type="derivative">librement</item>
+          <item type="derivative">libre-service</item>
+          <item type="derivative">libriste</item>
+          <item type="related">délibérer</item>
+          <item type="related">délibératif</item>
+          <item type="related">délibération</item>
+          <item type="related">délivrer</item>
+          <item type="related">délivrance</item>
+          <item type="related">libéral</item>
+          <item type="related">libéralisme</item>
+          <item type="related">libéraliser</item>
+          <item type="related">libéralité</item>
+          <item type="related">libérer</item>
+          <item type="related">liberté</item>
+          <item type="related">liberticide</item>
+          <item type="related">libertin</item>
+        </subsection>
+        <subsection type="phrases">
+          <item>à l'air libre</item>
+          <item>avoir les mains libres</item>
+          <item>champ libre</item>
+          <item>chute libre</item>
+          <item>cuba libre</item>
+          <item>électron libre</item>
+          <item>France libre</item>
+          <item>libre arbitre</item>
+          <item>libre comme l'air</item>
+          <item>libre de</item>
+          <item>libre pensée</item>
+          <item>libre penseur</item>
+          <item>licence libre</item>
+          <item>logiciel libre</item>
+          <item>lutte libre</item>
+          <item>combat libre</item>
+          <item>papier libre</item>
+          <item>roue libre</item>
+          <item>temps libre</item>
+          <item>union libre</item>
+          <item>vers libre</item>
+        </subsection>
+        <translations>
+          <trans lang="de">frei</trans>
+          <trans lang="de">unabhängig</trans>
+          <trans lang="en">free</trans>
+          <trans lang="ang">freo</trans>
+          <trans lang="ar">حر</trans>
+          <trans lang="da">fri</trans>
+          <trans lang="es">libre</trans>
+          <trans lang="eo">libera</trans>
+          <trans lang="got">𐍆𐍂𐌴𐌹𐍃</trans>
+          <trans lang="el">ελεύθερος</trans>
+          <trans lang="grc">ἐλεύθερος</trans>
+          <trans lang="hu">szabad</trans>
+          <trans lang="it">libero</trans>
+          <trans lang="kk">азат</trans>
+          <trans lang="la">liber</trans>
+          <trans lang="nl">vrij</trans>
+          <trans lang="no">fri</trans>
+          <trans lang="pl">wolny</trans>
+          <trans lang="pt">livre</trans>
+          <trans lang="se">friddja</trans>
+          <trans lang="sv">fri</trans>
+          <trans lang="cs">svobodný</trans>
+          <trans lang="de">frei</trans>
+          <trans lang="en">free</trans>
+          <trans lang="pl">wolny</trans>
+          <trans lang="cs">volný</trans>
+          <trans lang="de">frei</trans>
+          <trans lang="de">offen</trans>
+          <trans lang="en">open</trans>
+          <trans lang="en">loose</trans>
+          <trans lang="da">fri</trans>
+          <trans lang="es">libre</trans>
+          <trans lang="it">libero</trans>
+          <trans lang="it">brado</trans>
+          <trans lang="mt">ħieles</trans>
+          <trans lang="nl">vrij</trans>
+          <trans lang="nl">los</trans>
+          <trans lang="no">fri</trans>
+          <trans lang="no">løs</trans>
+          <trans lang="pt">livre</trans>
+          <trans lang="se">friddja</trans>
+          <trans lang="sv">fri</trans>
+          <trans lang="de">frei</trans>
+          <trans lang="en">free</trans>
+          <trans lang="en">available</trans>
+          <trans lang="io">sen.</trans>
+          <trans lang="it">libero</trans>
+          <trans lang="kk">бос</trans>
+          <trans lang="nl">vrij</trans>
+          <trans lang="nl">gratis</trans>
+          <trans lang="nl">open</trans>
+          <trans lang="oc">liure</trans>
+          <trans lang="de">frei</trans>
+          <trans lang="de">kostenlos</trans>
+          <trans lang="en">free</trans>
+          <trans lang="da">fri</trans>
+          <trans lang="da">gratis</trans>
+          <trans lang="es">gratis</trans>
+          <trans lang="eo">havebla</trans>
+          <trans lang="io">libera</trans>
+          <trans lang="it">gratis</trans>
+          <trans lang="kk">ақысыз</trans>
+          <trans lang="kk">тегін</trans>
+          <trans lang="nl">gratis</trans>
+          <trans lang="no">fri</trans>
+          <trans lang="no">gratis</trans>
+          <trans lang="oc">liure</trans>
+          <trans lang="oc">gratuit</trans>
+          <trans lang="pl">bezpłatny</trans>
+          <trans lang="pt">grátis</trans>
+          <trans lang="se">friddja</trans>
+          <trans lang="sv">fri</trans>
+          <trans lang="sv">gratis</trans>
+          <trans lang="cs">bezplatný</trans>
+          <trans lang="de">frei</trans>
+          <trans lang="en">free</trans>
+          <trans lang="eo">senkosta</trans>
+          <trans lang="eo">senpaga</trans>
+          <trans lang="it">libero</trans>
+          <trans lang="nl">vrij</trans>
+          <trans lang="oc">liure</trans>
+          <trans lang="pl">wolny</trans>
+          <trans lang="cs">svobodný</trans>
+        </translations>
+      </pos>
+      <pos type="adjectif" lemma="1" locution="0" homoNb="2" gender="m" number="s">
+        <pronunciations>
+          <pron>libʁ</pron>
+        </pronunciations>
+        <paradigm>
+          <inflection form="libre" gracePOS="Afpms" prons="libʁ"/>
+        </paradigm>
+        <definitions>
+          <definition>
+            <gloss>
+              <labels>
+                <label type="domain" value="mycologie"/>
+              </labels>
+              <xml><innerLink ref="disposition">Disposition</innerLink> des <innerLink ref="lame">lame</innerLink>s de <innerLink ref="champignon">champignon</innerLink>s à lames, dans laquelle les lames ne touchent pas le <innerLink ref="pied">pied</innerLink> du champignon.</xml>
+              <txt>Disposition des lames de champignons à lames, dans laquelle les lames ne touchent pas le pied du champignon.</txt>
+            </gloss>
+            <example>
+              <xml>
+                <i> Les <innerLink ref="amanite">amanite</innerLink>s ont des lames <b>libres</b>. </i>
+              </xml>
+              <txt>Les amanites ont des lames libres.</txt>
+            </example>
+          </definition>
+        </definitions>
+        <subsection type="semRel">
+          <item type="synonym">écarté</item>
+        </subsection>
+      </pos>
+      <section type="anagrammes">
+        <item>biler</item>
+        <item>liber</item>
+        <item>rible</item>
+        <item>riblé</item>
+      </section>
+    </text>
+  </article>
